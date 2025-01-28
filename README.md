@@ -2,490 +2,296 @@
 
 <p><img alt="developDaily" src="./developDaily.png"></p>
 
-[腾讯](#腾讯) | [阿里云](#阿里云) | [淘天集团](#淘天集团) | [滴滴](#滴滴) | [小红书](#小红书)
+[腾讯](#腾讯) | [蚂蚁集团](#蚂蚁集团)
 
-本页内容发布于2025年01月27日，共有19个岗位信息。
+本页内容发布于2025年01月28日，共有11个岗位信息。
 
 ## 腾讯
 
-#### [《火影忍者》手游-客户端开发-Gameplay](http://careers.tencent.com/jobdesc.html?postId=1699607120393019392)
+#### [游戏引擎开发工程师](http://careers.tencent.com/jobdesc.html?postId=1765643295247048704)
+
+📍 深圳 | ⌛ 三年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.游戏引擎技术方案的设计与实现，包括引擎架构，图形渲染，动画，物理，工具链等；
+
+2.跨平台设计及开发，包括Mobile, PC，Console；
+
+3.能够对UE原有引擎管线和工具链进行深入的定制开发。
+</details>
+
+---
+
+#### [游戏客户端安全工程师](http://careers.tencent.com/jobdesc.html?postId=1765643307670577152)
 
 📍 深圳 | ⌛ 两年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责游戏客户端GamePlay方向的业务开发；
+1.负责游戏客户端代码安全审计，安全解决方案的预研与开发；
 
-2.工作包括但不限于游戏玩法开发、工具链、战斗技能开发、性能优化等；
+2.负责游戏协议安全方案开发；
 
-3.与策划、美术、服务端程序紧密合作，完善游戏产品，打磨用户体验。
+3.负责移动平台代码保护和统性能调优；
+
+4.具备Unity/UE4等常用游戏引擎；
+
+5.负责业务安全算法中台开发；
+
+6.负责业务安全平台的业务开发，如验证码、防水墙等。
 </details>
 
 ---
 
-#### [腾讯广告-策略算法工程师](http://careers.tencent.com/jobdesc.html?postId=1797825255515889664)
-
-📍 北京 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.基于内外部数据，运用统计学、机器学习、计算广告等多个领域知识，洞察行业业务特点，研发短剧、小游戏、社交、视频等泛网服行业算法策略，包括但不限于设计和实现行业深度模型、行业大客户建模、oCPx出价策略等，通过召回/粗排/精排全链路优化提升行业效果和收入。
-</details>
-
----
-
-#### [微信安全-微信安全后台开发](http://careers.tencent.com/jobdesc.html?postId=1808428711679107072)
-
-📍 广州 | ⌛ 一年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责微信安全后端的设计、研发、部署、日常技术运营等工作，为新特性提供专业可靠的内容安全服务；
-
-2.对现有架构进行分析和优化，确保系统的稳定性、可扩展性和安全性，协同合作团队高效实施，并通过技术手段进行成本控制及优化。
-</details>
-
----
-
-#### [《王者荣耀》客户端高级开发工程师（系统方向）](http://careers.tencent.com/jobdesc.html?postId=1807963397405286400)
+#### [混元高级SRE运维工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=1776588555284389888)
 
 📍 深圳 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责王者荣耀游戏系统及玩法内容的研发；
+1.负责混元AIGC产品运维，保障服务的稳定、可靠、高效运行；
 
-2.负责优化开发管线和工作流程，提升研发效率；
+2.负责容量管理与规划，资源成本优化，保障线上服务容量合理，提升资源效能；
 
-3.负责解决游戏产品研发和线上运营过程中的各类问题，对现有系统重构和优化；
+3.负责持续集成和交付，高效和自动化的运维优化，提升服务的稳定性和研发效率；
 
-4.负责UI制作工具的开发，实现快速迭代及验证制作内容。
+4.参与在线系统及各类服务架构设计，提供专业的稳定性和架构改善方案；
+
+5.分析和深入发掘现有系统的不足，数据驱动找到薄弱点，推动系统优化落地改进；
+
+6.关注业界前沿技术动态，探索复杂业务系统运维自动化和智能化的技术和方向。
 </details>
 
 ---
 
-#### [《乱世王者》资深游戏客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1851511227159699456)
+#### [设计协作工具 CoDesign-客户端开发工程师-业务组件方向](http://careers.tencent.com/jobdesc.html?postId=1798264378441605120)
 
-📍 上海 | ⌛ 五年以上工作经验
+📍 西安 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责游戏玩法，功能逻辑以及工具等研发方案设计；
+1.参与用户交互系统的部分功能设计，以满足各种业务需求；
 
-2.与引擎/美术/策划/服务器等其他团队的沟通协作，保障相关系统、玩法的研发及交付；
+2.参与业务组件库的开发调试工作，以适应各种业务场景；
 
-3.负责游戏中的工具链扩展与开发，优化工作中痛点问题，提高研发效率；
+3.配合团队完成研发测试流程的实施，保证渲染引擎的性能和质量达到行业领先水平；
 
-4.持续优化游戏中性能问题，负责研发和美术相关标准的制定；
+4.与团队成员保持良好的沟通与协作，确保项目进度顺利进行；
 
-5.负责游戏中各类疑难问题的跟进与解决。
+5.备注：该岗位为腾讯子公司编制。
 </details>
 
 ---
 
-#### [《王者荣耀世界》-UE客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1678373590686244864)
+#### [CoDesign-客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1830516513765875712)
 
-📍 成都 | ⌛ 五年以上工作经验
+📍 西安 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责UE4或UE5引擎客户端的底层模块开发以及优化；；
+1.负责 CoDesign 渲染引擎配套工具链开发，如：GPU Profiler、性能监控、日志系统等，保证程序的稳定性和可扩展性；
 
-2.根据游戏玩法进行技术选型，对项目核心架构进行搭建与后续功能的开发，对领域前沿保持跟进，针对需求做出最优选择；；
+2.参与用户交互系统功能设计和业务组件库的开发调试工作，以适应各种业务场景和需求，配合团队完成研发测试流程的实施；
 
-3.负责跟进优化迭代当前的生产管线，能够主动发现问题并针对管线和玩法内容优化框架结构，提升效能；；
+3.负责客户端程序性能优化，降低运行时资源消耗，确保程序性能达到行业领先水平；
 
-4.分析并解决性能问题，优化引擎客户端以及DedicatedServer的性能和内存。。
+4.与产品、设计和其他技术团队紧密配合，不断打磨提升用户体验，以满足业务需求；
+
+5.备注：此岗位为腾讯集团子公司编制。
 </details>
 
 ---
 
-#### [AI Lab-音乐算法研究员（深圳/北京）](http://careers.tencent.com/jobdesc.html?postId=1830499361826562048)
+#### [微信-生态 AI 训练与部署系统高级工程师](http://careers.tencent.com/jobdesc.html?postId=1852251727147855872)
+
+📍 深圳 | ⌛ 两年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责微信计算机视觉、语音、推荐、语言、多模态模型等 AI 算法业务的分布式训练系统支持与优化，以及在微信小程序、视频号、企业微信、微信读书、输入法等场景中的多平台落地与性能优化；
+
+2.对现有分布式训练框架进行定制和扩展，以满足大规模训练的需求；开发、主导解决分布式训练系统高并发、高可靠性、高可扩展性等技术难关，优化训练效率和资源利用率；
+
+3.持续跟踪最新的分布式训练、部署技术发展趋势，将前沿研究成果应用于实际项目中，引导算法团队设计性能、功耗兼顾的算法。
+</details>
+
+---
+
+#### [NoSQL存储研发工程师](http://careers.tencent.com/jobdesc.html?postId=1809096483656441856)
+
+📍 成都 | ⌛ 三年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责分布式NoSQL存储相关方向的技术研发以及运营，打造业界领先的多模型NoSQL存储系统；
+
+2.自研KV，时序等存储引擎的研发；
+
+3.持续优化系统服务质量，提升系统性能，降低运营成本，为客户提供稳定可靠的NoSQL存储服务。
+</details>
+
+---
+
+#### [混元大模型数据算法工程师](http://careers.tencent.com/jobdesc.html?postId=1798273744687341568)
 
 📍 深圳 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责AI Lab语音技术团队音乐基础技术，尤其是基于AIGC算法的基础研究和应用落地；
+1.负责开发和优化文档结构识别算法，解析海量不同格式的文档并提取出结构信息和内容，进行结构化处理；
 
-2.侧重于研发音乐生成、音乐理解、数据管线、音频生成与理解的基础算法；
+2.研究和应用NLP、CV、机器学习等技术，提高文档内容提取与解析的准确性和效率，解决多语言、多格式和复杂结构(如表格、公式)的文档处理问题；
 
-3.通过跟踪和创新，确保算法方面的行业领先，通过打造技术PAAS平台服务于腾讯内部各个业务场景包括游戏、社交、内容服务、广告、金融、车载助手、企业服务（如腾讯会议、企业微信、企点客服、商通、数智人）等等，帮助业务产生实际价值和打造业界领先的语音应用产品；
-
-4.持续关注学术界和行业的最新研究动态，参与国际会议、研讨会，与全球顶级团队进行交流合作。
+3.持续关注行业动态和最新技术，保持对相关领域的专业知识和技能的更新。
 </details>
 
 ---
 
-#### [大数据计算平台olap工程师（北京/上海/深圳）](http://careers.tencent.com/jobdesc.html?postId=1797900695035191296)
+#### [宝可梦-游戏客户端开发-引擎与优化方向](http://careers.tencent.com/jobdesc.html?postId=1722068321060265984)
 
-📍 深圳 | ⌛ 八年以上工作经验
+📍 深圳 | ⌛ 五年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责腾讯大数据OLAP系统内核研发及相关生态建设，直接参与建设腾讯多个核心产品线的OLAP平台体系；
+1.负责游戏基础体验(如帧率、内存、发热、延迟等）指标的监控、分析、告警管线；
 
-2.负责超大规模下的MPP计算引擎、搜索分析引擎、存算分离等技术的研发工作，打造业界领先的PB级OLAP系统；
+2.负责游戏各项体验的基础保障和深入的优化提升工作；
 
-3.负责分析系统瓶颈与架构合理性，促进服务架构优化，参与开源社区的合作。
+3.负责开发相应工具和引擎功能，帮助研发团队提升研发效率；
+
+4.负责协助团队解决工作中遇到的疑难问题。
 </details>
 
 ---
 
-#### [混元AIGC算法研究员（文生3D）（深圳/北京/上海）](http://careers.tencent.com/jobdesc.html?postId=1808701309486899200)
+#### [宝可梦-游戏客户端开发-系统与组件方向](http://careers.tencent.com/jobdesc.html?postId=1722068318841479168)
 
 📍 深圳 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.通过对AIGC大模型（3D生成）的研究优化，提升模型的生成质量、速度、多样性、可控性；
+1.负责大厅玩法系统与运营活动相关功能开发；
 
-2.推动3D生成模型工业化部署和产品落地。
+2.负责相关制作工具的开发与维护，提升团队制作效率；
+
+3.不局限于当前品类模式，持续探索新的游戏机制，提升产品想象空间；
+
+4.NintendoSwitch主机平台开发与兼容适配。
 </details>
 
 ---
 
-## 阿里云
+## 蚂蚁集团
 
-#### [诚云科技-高级运维工程师-云平台运维与交付（专有云）](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000018512)
+#### [Ant International-CTO-ANEXT Bank](https://talent.antgroup.com/off-campus-position?positionId=24102502137486)
 
-📍 西安/北京/杭州/南京 | ⌛ 3年
+📍 新加坡 | ⌛ 10年
 
 <details>
 <summary>职位描述</summary>
 
-1.	面向阿里云专有云用户提供服务器、网络、云平台的技术支持，并能完成对客户的技术输出和答疑；
+Key Responsibilities:
 
-2.	了解阿里云技术架构方案，对阿里云的云平台、云产品组件有一定的了解，能够对这些产品有基本的技术认知；
+1.	Technology & Product Strategy:
 
-3.	确保重大项目的技术可行性、推进项目运维实施、并且形成可复制的案例和通用的解决方案，把握技术变革方向，能够作为云技术专家来引导客户做技术的变革；
+o	Assist the CTO in formulating and executing the technology and product development strategy, ensuring alignment with business goals.
 
-4.	拉通阿里云各部门、领域相关资源, 为用户提供可运维的云平台架构方案。
+o	Lead the development of innovative products and services that enhance customer experiences and drive business growth.
+
+o	Identify opportunities to leverage emerging technologies to improve product offerings and operational efficiency.
+
+2.	Solution Design & Development:
+
+o	Lead the design and development of scalable, secure, and efficient technology solutions.
+
+o	Collaborate with cross-functional teams to define product requirements and ensure technology solutions meet business needs.
+
+o	Oversee the end-to-end product lifecycle, from concept to deployment, ensuring timely and successful delivery.
+
+3.	IT Operations & Infrastructure Management:
+
+o	Oversee the design, implementation, and maintenance of the bank’s technology infrastructure to support product growth.
+
+o	Ensure systems architecture is robust, scalable, and aligned with the bank’s product and service strategy.
+
+4.	Vendor & Stakeholder Management:
+
+o	Manage relationships with technology and product vendors, ensuring alignment with the bank’s strategic product and technology goals.
+
+o	Collaborate with internal stakeholders, including product, operations, and business teams, to ensure successful product execution and delivery.
+
+5.	Project Management & Product Delivery:
+
+o	Oversee key product and technology project delivery, ensuring timelines, budgets, and quality standards are met.
+
+o	Implement best practices for managing product development cycles and technology project execution.
+
+6.	IT Governance, Compliance & Risk Management:
+
+o	Support the CTO in establishing IT and product governance frameworks to ensure compliance with regulations and internal policies.
+
+o	Collaborates with CRO Office to develop and maintain an overall framework of IT & Risk policies, standards, and strategies.
+
+o	Works closely with the CISO to identify security threats and formulate strategies and methods to mitigate the threats.
+
+o	Continuously monitor product and technology governance processes, recommending improvements when necessary.
+
+7.	Leadership & Team Development:
+
+o	Lead and mentor product and technology teams, fostering a culture of collaboration, innovation, and continuous improvement.
+
+o	Implement talent development initiatives to strengthen the team’s product development and solution design capabilities.
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.	大学本科及以上学历，计算机或者相关专业，3年以上工作经验；
+Qualifications:
 
-2.	熟悉Java/C/C++/Python/PHP/GO中至少一种开发语言，及其相应开发框架下的服务端多线程、高并发处理机制。
+•	Bachelor’s degree in Computer Science, Information Technology, Product Development, or related field (Master’s preferred).
 
-3.	熟悉Oracle、DB2、SQL Server、MySQL、Postgresql、NoSQL等数据管理技术中的一种或多种，有实际的生产系统应用经验，能够独立完成相关产品的部署、排错、性能调优等工作。
+•	10+ years of experience in technology and product leadership roles, preferably within the financial services sector.
 
-4.	熟悉云计算架构和原理（OpenStack/Kubernetes/云原生），有较大规模分布式集群开发、部署和运维调优经验优先；
+•	Strong background in product development, technology strategy, and solution design.
 
-5.	了解云平台主流产品（ECS、OSS、VPC、SLB、RDS）的基本配置和原理，具备一定的操作经验优先；
+•	Proven experience managing the product lifecycle from concept to execution in a fast-paced, regulated environment.
 
-6.	原则性强，责任心强，工作积极主动，具备良好的沟通协调能力、问题解决能力、口头和文字表达能力，严谨的逻辑思维能力；
+•	Extensive knowledge of digital banking, financial technology (fintech), cloud computing, and cybersecurity.
 
-7.	通过阿里云ACP/ACE认证优先考虑。
-</details>
+•	Demonstrated leadership in managing large cross-functional teams and delivering product innovations.
 
----
+•	Strong understanding of compliance, security, and risk management in the banking industry.
 
-#### [诚云科技-高级平台开发工程师（大数据&数据库）-PaaS产品集成与架构](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000058601)
 
-📍 北京/杭州 | ⌛ 3年
 
-<details>
-<summary>职位描述</summary>
+Skills & Competencies:
 
-1、代码研发及优化，基于详细技术方案的代码研发及优化；
+•	Excellent solution design and product development skills.
 
-2、相关组件研发，相关产品组件的产品基线、部署脚本、环境适配等工程能力研发；
+•	Strategic thinker with a focus on aligning technology and product development with business needs.
 
-3、线上及局点问题处理；
-</details>
+•	Strong leadership and team-building capabilities.
 
-<details>
-<summary>职位要求</summary>
+•	Superior communication and stakeholder management skills.
 
-• 不低于3年PaaS领域的研发经验
+•	Ability to thrive in a fast-paced, high-pressure environment, managing both product and technical teams.
 
-• 具备模块/组件级别独立研发能力，对于PaaS层产品（中间件/容器服务/大数据/数据库）任一方向有实际产品研发经历
+•	Deep understanding of technology and product trends in the banking sector.
 
-• 对于云计算技术有所了解，具备跨产品分析解决问题的能力
 
-• 能认识到系统中的技术债，并能在指导下提出初步改进方案
-</details>
 
----
 
-#### [阿里云智能-深度学习推理系统研发专家-北京；杭州；上海](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000066701)
-
-📍 北京/杭州/上海 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-● 设计和实现高效的分布式推理架构，提升多节点、多GPU环境下的推理速度和资源利用率。开发智能的请求调度算法，确保高并发场景下的最优响应时间和吞吐量。对推理引擎的运行时环境进行深度优化，减少延迟，提高整体性能。针对多种异构AI加速硬件（如NVIDIA GPU, AMD GPU, NPU等），对核心算子进行极致性能优化，最大化算力和访存带宽利用率。
-
-● 探索并实现极低bit量化技术和稀疏化，减少模型存储和计算资源消耗，同时保持推理精度。探索更高效的解码算法，提升生成任务的推理速度。
-
-● 设计并实现能够处理大规模并发请求的系统架构，确保极端负载下的稳定性和性能。引入容错机制、自动恢复和监控报警系统，保证系统的高可用性和稳定性。构建灵活的系统架构，支持动态扩展，以应对未来业务增长和技术演进的需求。
-
-● 持续关注并跟进业界技术发展，尤其是超长上下文、COT思维链、多模态融合等方向。积极尝试和探索新的推理优化方向，提出并验证创新性的解决方案。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-● 扎实的工程能力，优良的编程风格，熟悉Python/C++语言和常用设计模式，具备复杂系统的设计开发调试能力。
-
-● 熟悉深度学习的基础理论概念，了解主流模型算法，能够熟练应用PyTorch、TensorFlow等框架。
-
-● 优良的沟通表达能力和团队合作经验，具备快速学习的能力，以及深入钻研技术问题的耐心。
-
-● 熟悉计算机体系结构基础知识，有扎实的高性能Kernel开发（CUDA/Triton/ROCM等）、推理引擎优化(vLLM/SGLang等)、模型算法优化（量化/稀疏等）、AI计算资源调度优化等方面的经验。
-
-
-
-加分项：
-
-● 有突出的学术背景和创新研究能力，发表过相关领域的高水平论文或专利。
-
-● 有基于cutlass/cute开发和极致优化高性能Kernel并在实际生产环境落地的经验。
-
-● 对大型语言模型（LLM）等重点场景的系统优化或前沿算法有深入务实的经验。
-
-● 作为核心成员开发实际应用的大规模AI系统，或参与业界流行的开源项目，具备丰富的实战经验和成功案例。
-</details>
-
----
-
-## 淘天集团
-
-#### [算法技术-用增权益算法-北京杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1231701)
-
-📍 北京/杭州 | ⌛ 1年
-
-<details>
-<summary>职位描述</summary>
-
-我们是淘天集团-淘宝用户算法团队，专注于通过外投广告算法、商品推荐算法、权益算法、消息推荐算法，为淘宝用户带来更优质的体验，提升获客效率、增量GMV/LTV。核心职责包括：
-
-
-
-1. 用户增量建模: 负责构建并持续迭代手淘的用户画像，构建用户维度的全网基础模型，持续升级迭代LT/LTV增量建模，提升模型预估准度。
-
-
-
-2. 运筹优化建模：负责给定约束条件下的权益优化问题建模和求解，构建通用的多目标因果推断uplift模型，持续提升手淘增量ROI。
-
-
-
-3. 红包等权益算法：包括互动场域红包、平台红包、优惠券等算法。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、有红包、优惠券等权益发放经验，熟悉增量建模、单调性网络建模。
-
-
-
-2、熟悉常用的机器学习算法，熟悉召回、排序、CV、NLP等领域的算法模型；
-
-
-
-2、对算法充满热情，具备积极主动的求知欲，良好的沟通协作能力及抗压能力；
-
-
-
-3、权益营销、因果推断、用户增长、RL、决策优化等领域有丰富经验的优先；
-
-
-
-4、有国际顶会发表过过论文优先，数学竞赛、天池等机器学习竞赛、ACM竞赛名次优异者优先。
-
-
-
-5、有较好的梳理基础和逻辑思维能力，对算法充满热情，具备积极主动的求知欲，良好的沟通协作能力及抗压能力。
-</details>
-
----
-
-#### [淘天算法技术-大模型高级算法工程师/算法专家（淘工厂）-杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1222503)
-
-📍 杭州 | ⌛ 1年
-
-<details>
-<summary>职位描述</summary>
-
-该岗位通过在大语言模型/多模态大模型/自然语言处理/深度学习技术等的创新和突破，将Query理解、多轮对话、机器阅读理解、多模态交互等领域的前言算法技术转化为智能服务产品的全新体验。欢迎有好奇心、敢于接受挑战的候选人加入我们，一起创造前所未有的智能服务新体验。岗位职责包括但不限于：
-
-1. 负责M2C模式下客服LLM大语言模型优化，包括偏好优化、上下文多轮、幻觉检测优化、RAG优化等，提升在线大模型的准确率和覆盖率。
-
-2. 负责电商客服场景下的Query理解优化，包括基于LLM大模型的query意图定位、问题澄清及改写能力优化，提升query理解的准确率，提升消费者的购物体验。
-
-3. 负责M2C模式下客服多模态大模型优化，构建客服场景多模态知识库，优化在线多模态大模型的准确率和覆盖率，提升客服场景的答案丰富度。
-
-4. 负责垂类特殊场景优化，针对特定场景意图，借助大语言模型/多模态大模型，通过微调优化，提升对场景意图理解能力，提升特定场景的体验。
-
-5. 深入跟踪调研多模态/NLP等方向的前沿技术相关内容，包括文生图、图生文等，并应用至智能客服场景。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 计算机科学相关专业（人工智能、计算机科学、电子信息工程、数学、统计等）；
-
-2. 扎实的技术背景，掌握NLP算法/对话系统/深度学习等相关的基础知识，有相关的实践或研究经验；
-
-3. 熟悉 PyTorch，TensorFlow等深度学习平台；
-
-3.有智能客服、LLM大模型、多模态大模型、搜广推等方向优化经验优先；
-
-4.有国际顶会发表过论文优先，参加过ACM或数据挖掘&机器学习类竞赛(天池大奖赛、Kaggle)并获奖优先；
-
-5. 具有快速学习能力，有责任感，良好的团队合作和沟通能力；
-</details>
-
----
-
-## 滴滴
-
-#### [高级算法工程师-乘客与增长 (J210621006)](https://talent.didiglobal.com/social/p/37831)
-
-📍 北京
-
----
-
-## 小红书
-
-#### [Android开发工程师](https://job.xiaohongshu.com/social/position/11348)
-
-📍 上海市，北京市
-
-<details>
-<summary>职位描述</summary>
-
-1、负责App 客户端研发，需求讨论和流程优化，推进业务发展，打造极致的视频消费体验和功能；
-
-2、结合应用场景进行数据分析，自主定义优化策略，优化用户体验，解决疑难问题；
-
-3、高质量的代码结构，优秀的设计理念；承担重点、难点的技术攻坚。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机或相关专业，三年及以上客户端开发经验；
-
-2、深入掌握 Java 或 Kotlin 语言，具有良好的架构设计能力，熟悉App开发的主流框架和开发模式；
-
-3、熟悉 App 内存占用、耗电、网络、UI渲染等性能分析和优化的方法；
-
-4、有较强的技术好奇心和钻研精神、强大的自驱力，具备优秀的解决问题和逻辑思维能力；
-
-5、有性能优化、架构、SDK等经验者优先，有业务背景但对技术有深度追求者优先。
-</details>
-
----
-
-#### [iOS开发工程师](https://job.xiaohongshu.com/social/position/14548)
-
-📍 上海市，北京市
-
-<details>
-<summary>职位描述</summary>
-
-1、负责小红书客户端业务迭代，包含用户信息表达等功能实现；
-
-2、负责各种多元场景业务层性能调优，如页面组件渲染性能、数据加载耗时与UI配置化等工作；
-
-3、参与新技术方向调研并协同其他工程师共同完成研发任务。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机或相关专业；
-
-2、精通 iOS 开发，熟悉常用组件，熟悉Swift / OC / RN 等技术；
-
-3、深入了解各个不同iOS版本的特性与差异并有丰富适配经验；
-
-4、有较强的技术好奇心和钻研精神、强大的自驱力，具备优秀的解决问题和逻辑思维能力；
-
-5、有架构设计能力优先、有大厂经历优先、有带团队能力优先。
-</details>
-
----
-
-#### [Java开发工程师](https://job.xiaohongshu.com/social/position/14549)
-
-📍 上海市，北京市
-
-<details>
-<summary>职位描述</summary>
-
-1、负责小红书核心业务的后端服务建设与维护；
-
-2、基于对业务的理解，进行系统选型、设计、编码，为系统长期的稳定性及可维护性负责；
-
-3、具备解决复杂系统问题的经验和能力，持续寻找和优化现有系统的不足，提升系统性能和稳定性。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、大学本科或以上学历，计算机相关专业，3年以上后端开发经验；
-
-2、扎实的计算机基础知识，较强的学习能力和逻辑推理能力；
-
-3、熟练使用Java和Spring生态；
-
-4、掌握 MySQL、Redis、RocketMQ、Kafka、ElasticSearch等常用服务组件，有定制化改造经验更佳；
-
-5、精通分布式系统的设计开发，对微服务拆分和服务治理（包括服务发现、配置管理、流量控制、日志监控、容错容灾等）有深入理解和实战经验；
-
-6、自驱力强，积极主动，能独立负责一块业务，和团队中各个角色进行高效的沟通协作，迅速推进问题解决，有数据分析经验更佳。
-</details>
-
----
-
-#### [后端开发工程师](https://job.xiaohongshu.com/social/position/11774)
-
-📍 上海市，北京市
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责小红书核心业务的创新玩法后端服务建设与维护；
-
-2. 基于对业务的理解，进行系统选型、设计、编码，为系统长期的稳定性及可维护性负责；
-
-3. 具备解决复杂系统问题的经验和能力，持续寻找和优化现有系统的不足，提升系统性能和稳定性。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 大学本科或以上学历，计算机相关专业，3年以上后端开发经验；
-
-2. 扎实的计算机基础知识，较强的学习能力和逻辑推理能力；
-
-3. 熟练使用Java和Spring生态；
-
-4. 掌握 MySQL、Redis、RocketMQ、Kafka、ElasticSearch等常用服务组件，有定制化改造经验更佳；
-
-5. 精通分布式系统的设计开发，对微服务拆分和服务治理（包括服务发现、配置管理、流量控制、日志监控、容错容灾等）有深入理解和实战经验；
-
-6. 自驱力强，积极主动，能独立负责一块业务，和团队中各个角色进行高效的沟通协作，迅速推进问题解决，有数据分析经验更佳。
 </details>
 
 ---
