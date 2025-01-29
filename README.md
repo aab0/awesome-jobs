@@ -2,296 +2,304 @@
 
 <p><img alt="developDaily" src="./developDaily.png"></p>
 
-[腾讯](#腾讯) | [蚂蚁集团](#蚂蚁集团)
+[腾讯](#腾讯) | [阿里云](#阿里云)
 
-本页内容发布于2025年01月28日，共有11个岗位信息。
+本页内容发布于2025年01月29日，共有12个岗位信息。
 
 ## 腾讯
 
-#### [游戏引擎开发工程师](http://careers.tencent.com/jobdesc.html?postId=1765643295247048704)
+#### [《火影忍者》手游-服务器开发工程师](http://careers.tencent.com/jobdesc.html?postId=1765195827854188544)
 
 📍 深圳 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.游戏引擎技术方案的设计与实现，包括引擎架构，图形渲染，动画，物理，工具链等；
+1.与项目团队紧密合作，为游戏产品提供专业、先进的技术解决方案，支撑丰富的游戏产品内容，提升游戏品质；
 
-2.跨平台设计及开发，包括Mobile, PC，Console；
+2.参与或主导构建健壮、灵活、实用的游戏后台解决方案，改进后台服务性能和研发效率 ；
 
-3.能够对UE原有引擎管线和工具链进行深入的定制开发。
+3.不断学习探索业界容器化、cloud native 和微服务等理念，结合游戏业务场景，构建云原生游戏后台解决方案。
 </details>
 
 ---
 
-#### [游戏客户端安全工程师](http://careers.tencent.com/jobdesc.html?postId=1765643307670577152)
-
-📍 深圳 | ⌛ 两年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责游戏客户端代码安全审计，安全解决方案的预研与开发；
-
-2.负责游戏协议安全方案开发；
-
-3.负责移动平台代码保护和统性能调优；
-
-4.具备Unity/UE4等常用游戏引擎；
-
-5.负责业务安全算法中台开发；
-
-6.负责业务安全平台的业务开发，如验证码、防水墙等。
-</details>
-
----
-
-#### [混元高级SRE运维工程师（北京）](http://careers.tencent.com/jobdesc.html?postId=1776588555284389888)
-
-📍 深圳 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责混元AIGC产品运维，保障服务的稳定、可靠、高效运行；
-
-2.负责容量管理与规划，资源成本优化，保障线上服务容量合理，提升资源效能；
-
-3.负责持续集成和交付，高效和自动化的运维优化，提升服务的稳定性和研发效率；
-
-4.参与在线系统及各类服务架构设计，提供专业的稳定性和架构改善方案；
-
-5.分析和深入发掘现有系统的不足，数据驱动找到薄弱点，推动系统优化落地改进；
-
-6.关注业界前沿技术动态，探索复杂业务系统运维自动化和智能化的技术和方向。
-</details>
-
----
-
-#### [设计协作工具 CoDesign-客户端开发工程师-业务组件方向](http://careers.tencent.com/jobdesc.html?postId=1798264378441605120)
-
-📍 西安 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.参与用户交互系统的部分功能设计，以满足各种业务需求；
-
-2.参与业务组件库的开发调试工作，以适应各种业务场景；
-
-3.配合团队完成研发测试流程的实施，保证渲染引擎的性能和质量达到行业领先水平；
-
-4.与团队成员保持良好的沟通与协作，确保项目进度顺利进行；
-
-5.备注：该岗位为腾讯子公司编制。
-</details>
-
----
-
-#### [CoDesign-客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1830516513765875712)
-
-📍 西安 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责 CoDesign 渲染引擎配套工具链开发，如：GPU Profiler、性能监控、日志系统等，保证程序的稳定性和可扩展性；
-
-2.参与用户交互系统功能设计和业务组件库的开发调试工作，以适应各种业务场景和需求，配合团队完成研发测试流程的实施；
-
-3.负责客户端程序性能优化，降低运行时资源消耗，确保程序性能达到行业领先水平；
-
-4.与产品、设计和其他技术团队紧密配合，不断打磨提升用户体验，以满足业务需求；
-
-5.备注：此岗位为腾讯集团子公司编制。
-</details>
-
----
-
-#### [微信-生态 AI 训练与部署系统高级工程师](http://careers.tencent.com/jobdesc.html?postId=1852251727147855872)
-
-📍 深圳 | ⌛ 两年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责微信计算机视觉、语音、推荐、语言、多模态模型等 AI 算法业务的分布式训练系统支持与优化，以及在微信小程序、视频号、企业微信、微信读书、输入法等场景中的多平台落地与性能优化；
-
-2.对现有分布式训练框架进行定制和扩展，以满足大规模训练的需求；开发、主导解决分布式训练系统高并发、高可靠性、高可扩展性等技术难关，优化训练效率和资源利用率；
-
-3.持续跟踪最新的分布式训练、部署技术发展趋势，将前沿研究成果应用于实际项目中，引导算法团队设计性能、功耗兼顾的算法。
-</details>
-
----
-
-#### [NoSQL存储研发工程师](http://careers.tencent.com/jobdesc.html?postId=1809096483656441856)
-
-📍 成都 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责分布式NoSQL存储相关方向的技术研发以及运营，打造业界领先的多模型NoSQL存储系统；
-
-2.自研KV，时序等存储引擎的研发；
-
-3.持续优化系统服务质量，提升系统性能，降低运营成本，为客户提供稳定可靠的NoSQL存储服务。
-</details>
-
----
-
-#### [混元大模型数据算法工程师](http://careers.tencent.com/jobdesc.html?postId=1798273744687341568)
-
-📍 深圳 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责开发和优化文档结构识别算法，解析海量不同格式的文档并提取出结构信息和内容，进行结构化处理；
-
-2.研究和应用NLP、CV、机器学习等技术，提高文档内容提取与解析的准确性和效率，解决多语言、多格式和复杂结构(如表格、公式)的文档处理问题；
-
-3.持续关注行业动态和最新技术，保持对相关领域的专业知识和技能的更新。
-</details>
-
----
-
-#### [宝可梦-游戏客户端开发-引擎与优化方向](http://careers.tencent.com/jobdesc.html?postId=1722068321060265984)
+#### [TCE专有云技术架构师](http://careers.tencent.com/jobdesc.html?postId=1797939362764169216)
 
 📍 深圳 | ⌛ 五年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责游戏基础体验(如帧率、内存、发热、延迟等）指标的监控、分析、告警管线；
+1.参与腾讯云专有云整体技术架构设计，负责如专有云稳定性、小型化、资源规划、标准化接入、部署架构等专项的方案设计与推进；
 
-2.负责游戏各项体验的基础保障和深入的优化提升工作；
+2.参与项目中专项问题的跟进与处理，基于现网问题举一反三，推动整体优化；
 
-3.负责开发相应工具和引擎功能，帮助研发团队提升研发效率；
-
-4.负责协助团队解决工作中遇到的疑难问题。
+3.参与专项工具的开发并基于工具推动解决横向问题，进行流程优化。
 </details>
 
 ---
 
-#### [宝可梦-游戏客户端开发-系统与组件方向](http://careers.tencent.com/jobdesc.html?postId=1722068318841479168)
+#### [云存储-研发高级工程师-北京/上海/深圳/成都](http://careers.tencent.com/jobdesc.html?postId=1711631612350832640)
+
+📍 北京 | ⌛ 三年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责腾讯云文件存储（CFS）的功能开发与性能优化；
+
+2.负责腾讯云文件存储（CFS）的维护和自动化运维；
+
+3.负责腾讯云文件存储（CFS）的现网问题分析定位，跟踪解决。
+</details>
+
+---
+
+#### [腾讯云异构计算研发工程师-深圳、北京、上海](http://careers.tencent.com/jobdesc.html?postId=1645670765376315392)
+
+📍 深圳 | ⌛ 五年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责高性能计算集群的平台开发和建设工作，构建业界领先的集群算力调度能力、集群网络管理监控能力、集群故障发现和迁移自愈等能力；
+
+2.负责主流 AI 框架的云平台适配和性能调优工作，针对业界大模型训练，将主流加速框架（如DeepSpeed、Megatron-LM）结合云平台底层技术特点和优势，打造具备差异化竞争力的 AI 加速平台产品能力；
+
+3.负责主流 AI 模型训练和推理性能优化调优工作，提升 AI 推理业务快速部署能力，提供平台算法优化加速能力，能够灵活使用 Triton，TensorRT 等业界主流推理服务和组件，深度结合云原生产品技术架构优势，输出面向不同场景的性能加速最佳实践解决方案；
+
+4.负责跟踪 AI行业技术发展趋势，并进行深度探索分析，协同产品制订 AI 技术发展路线和产品规划；
+
+5.探索自研AI芯片分布式训练与推理云化能力，打造自研 AI 芯片一体化解决方案能力。
+</details>
+
+---
+
+#### [微信视频号-机器学习平台高级工程师](http://careers.tencent.com/jobdesc.html?postId=1852252279927762944)
+
+📍 广州 | ⌛ 三年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责微信视频号短视频推荐、直播推荐、红点推荐、商业化推荐等业务场景的落地，紧贴业务需求，不断优化模型训练和推理的性能；
+
+2.负责万级别长序列模型、数十TB级超大规模稀疏推荐模型的训练和推理优化，建设业界领先的高性能低成本高实时性推荐模型平台；
+
+3.积极跟进业界和学术界的最新动态，优化内部技术方案，提升平台性能，不断推进系统架构升级。
+</details>
+
+---
+
+#### [微信视频号-高级推荐算法工程师-(广州/深圳)](http://careers.tencent.com/jobdesc.html?postId=1808428859159224320)
+
+📍 北京 | ⌛ 两年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责视频号短视频业务的推荐技术优化，包括但不限于召回、粗排、精排、重排、视频冷启动等；
+
+2.负责视频号短视频业务的业务策略优化，包含但不限于人群优化、社交推荐、内容生态等。
+</details>
+
+---
+
+#### [游戏客户端Gameplay开发](http://careers.tencent.com/jobdesc.html?postId=1678973576088133632)
 
 📍 深圳 | ⌛ 三年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责大厅玩法系统与运营活动相关功能开发；
+1.负责UE5 GamePlay功能开发与相关技术预研；
 
-2.负责相关制作工具的开发与维护，提升团队制作效率；
+2.负责开放世界相关工具链研发及3A游戏工业化制作管线探索；
 
-3.不局限于当前品类模式，持续探索新的游戏机制，提升产品想象空间；
+3.负责系统框架的搭建与维护；
 
-4.NintendoSwitch主机平台开发与兼容适配。
+4.主动研究并提出技术方案帮助解决Gameplay中的痛点问题，例如3C及打击感，GameAI，同步等；
+
+5.开发内容包括但不限于玩法编辑器、游戏脚本、界面、动画、AI等。
 </details>
 
 ---
 
-## 蚂蚁集团
+## 阿里云
 
-#### [Ant International-CTO-ANEXT Bank](https://talent.antgroup.com/off-campus-position?positionId=24102502137486)
+#### [诚云科技-高级售后技术服务工程师-新金融TAM华东&中南](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000058702)
 
-📍 新加坡 | ⌛ 10年
+📍 北京/杭州/上海 | ⌛ 1年
 
 <details>
 <summary>职位描述</summary>
 
-Key Responsibilities:
+1、云产品稳定性保障，风险巡检：客户云产品稳定性、体验相关事项治理，产品风险巡检，故障的应急跟进与处理；
 
-1.	Technology & Product Strategy:
+2、客户技术专项处置与支持：复杂、疑难问题/技术方案/活动护航保障/产研共建专项主导与管理工作；
 
-o	Assist the CTO in formulating and executing the technology and product development strategy, ensuring alignment with business goals.
+3、排查问题，管控体验：高效排查解决产品技术售后问题，在服务过程中关注客户体验提升、有效管控客情；
 
-o	Lead the development of innovative products and services that enhance customer experiences and drive business growth.
-
-o	Identify opportunities to leverage emerging technologies to improve product offerings and operational efficiency.
-
-2.	Solution Design & Development:
-
-o	Lead the design and development of scalable, secure, and efficient technology solutions.
-
-o	Collaborate with cross-functional teams to define product requirements and ensure technology solutions meet business needs.
-
-o	Oversee the end-to-end product lifecycle, from concept to deployment, ensuring timely and successful delivery.
-
-3.	IT Operations & Infrastructure Management:
-
-o	Oversee the design, implementation, and maintenance of the bank’s technology infrastructure to support product growth.
-
-o	Ensure systems architecture is robust, scalable, and aligned with the bank’s product and service strategy.
-
-4.	Vendor & Stakeholder Management:
-
-o	Manage relationships with technology and product vendors, ensuring alignment with the bank’s strategic product and technology goals.
-
-o	Collaborate with internal stakeholders, including product, operations, and business teams, to ensure successful product execution and delivery.
-
-5.	Project Management & Product Delivery:
-
-o	Oversee key product and technology project delivery, ensuring timelines, budgets, and quality standards are met.
-
-o	Implement best practices for managing product development cycles and technology project execution.
-
-6.	IT Governance, Compliance & Risk Management:
-
-o	Support the CTO in establishing IT and product governance frameworks to ensure compliance with regulations and internal policies.
-
-o	Collaborates with CRO Office to develop and maintain an overall framework of IT & Risk policies, standards, and strategies.
-
-o	Works closely with the CISO to identify security threats and formulate strategies and methods to mitigate the threats.
-
-o	Continuously monitor product and technology governance processes, recommending improvements when necessary.
-
-7.	Leadership & Team Development:
-
-o	Lead and mentor product and technology teams, fostering a culture of collaboration, innovation, and continuous improvement.
-
-o	Implement talent development initiatives to strengthen the team’s product development and solution design capabilities.
+4、专精客户行业，技术沉淀：提炼客户行业技术服务方案，沉淀内部技术文档，持续提高公共云/混合云各行业最佳实践能力；
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-Qualifications:
+• 在中型企业或云服务提供商从事SRE、运维工具开发、客户技术服务相关工作，具备2年及以上工作经验
 
-•	Bachelor’s degree in Computer Science, Information Technology, Product Development, or related field (Master’s preferred).
+• 掌握所支持产品的专业技术能力，具备产品问题排查分析能力，并能协助推动产品闭环及标准化解决方案或工具
 
-•	10+ years of experience in technology and product leadership roles, preferably within the financial services sector.
+• 可主导完成典型业务场景的方案或技术服务，并具备沉淀标准化能力
 
-•	Strong background in product development, technology strategy, and solution design.
+• 能够主导一般项目的推进，带领项目组完成客户在典型业务场景下的稳定性方案实施
+</details>
 
-•	Proven experience managing the product lifecycle from concept to execution in a fast-paced, regulated environment.
+---
 
-•	Extensive knowledge of digital banking, financial technology (fintech), cloud computing, and cybersecurity.
+#### [诚云科技-高级运维工程师-云平台运维与交付（专有云）](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000018512)
 
-•	Demonstrated leadership in managing large cross-functional teams and delivering product innovations.
+📍 西安/北京/杭州/南京 | ⌛ 3年
 
-•	Strong understanding of compliance, security, and risk management in the banking industry.
+<details>
+<summary>职位描述</summary>
 
+1.	面向阿里云专有云用户提供服务器、网络、云平台的技术支持，并能完成对客户的技术输出和答疑；
 
+2.	了解阿里云技术架构方案，对阿里云的云平台、云产品组件有一定的了解，能够对这些产品有基本的技术认知；
 
-Skills & Competencies:
+3.	确保重大项目的技术可行性、推进项目运维实施、并且形成可复制的案例和通用的解决方案，把握技术变革方向，能够作为云技术专家来引导客户做技术的变革；
 
-•	Excellent solution design and product development skills.
+4.	拉通阿里云各部门、领域相关资源, 为用户提供可运维的云平台架构方案。
+</details>
 
-•	Strategic thinker with a focus on aligning technology and product development with business needs.
+<details>
+<summary>职位要求</summary>
 
-•	Strong leadership and team-building capabilities.
+1.	大学本科及以上学历，计算机或者相关专业，3年以上工作经验；
 
-•	Superior communication and stakeholder management skills.
+2.	熟悉Java/C/C++/Python/PHP/GO中至少一种开发语言，及其相应开发框架下的服务端多线程、高并发处理机制。
 
-•	Ability to thrive in a fast-paced, high-pressure environment, managing both product and technical teams.
+3.	熟悉Oracle、DB2、SQL Server、MySQL、Postgresql、NoSQL等数据管理技术中的一种或多种，有实际的生产系统应用经验，能够独立完成相关产品的部署、排错、性能调优等工作。
 
-•	Deep understanding of technology and product trends in the banking sector.
+4.	熟悉云计算架构和原理（OpenStack/Kubernetes/云原生），有较大规模分布式集群开发、部署和运维调优经验优先；
 
+5.	了解云平台主流产品（ECS、OSS、VPC、SLB、RDS）的基本配置和原理，具备一定的操作经验优先；
 
+6.	原则性强，责任心强，工作积极主动，具备良好的沟通协调能力、问题解决能力、口头和文字表达能力，严谨的逻辑思维能力；
 
+7.	通过阿里云ACP/ACE认证优先考虑。
+</details>
 
+---
+
+#### [诚云科技-高级运维工程师（云安全方向）-云平台运维与交付-一朵云](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000019706)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+为政府部门客户提供应用安全运营的技术与管理的工作服务。
+
+1、针对政务云上及迁云上云的应用系统，负责应用安全风险评估、应用安全规范指导及黑盒渗透测试，对应用安全结果负责；
+
+2、负责安全风险评估、安全规范指导及黑盒渗透测试，对网络安全结果负责；
+
+3、负责应用安全管控和审计体系建设，包括应用安全产品规划立项、产品部署、使用改进、策略优化等，也包括与周边云产品配合达到行之有效的管控和审计效果;
+
+4、负责政务云平台及应用相关的漏洞扫描、安全渗透、黑白拿测试，并协助跟进风险闭环;
+
+5、负责网络及应用安全事件的风险预警、溯源、协同、跟踪、改进优化及事后评估。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机专业，本科及以上学历，工作经验3年以上，负责过2个以上的省护网、国家护网或攻防演练活动。
+
+2 、熟悉应用安全主流技术、行业标准及规范，如ISO27001、等级保护通用要求、大数据安全扩展、移动互联网安全之一
+
+3、了解当前流行的Web漏洞（XSS,SQLInjection,CSRF等）原理，了解Java开发框架（Struts,spring,ibatis,hibernate,etc）；
+
+4、熟悉网络协议及常见操作系统，具备一定的漏洞分析、安全工具使用、情报收集及渗透测试能力
+
+5、具备很强的入侵溯源能力，有很好的技术敏感度和风险识别能力
+
+6、熟悉攻防演练的流程，有较强的渗透测试能力，参与过攻击方的演练；
+
+7、熟练使用java/C/C++/python/perl/shell至少一种语言；
+
+8、具备CISP、CISSP、CCIE Security资质者优先。
+</details>
+
+---
+
+#### [诚云科技-资深运维工程师-云平台运维与交付-一朵云](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000040701)
+
+📍 成都/杭州 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+1、客户现场专项技术负责人，如网络专项、数据库专项
+
+2、平台稳定性重大变更方案制定与实施，如性能/存储优化、底座改造等
+
+3、现场故障应急执行，协助团队尽快恢复平台运行
+
+4、关键时刻现场保障，如客户平台隐患深度排查与治理
+
+5、复杂问题原因定位及解决
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+• 在中型企业或云服务提供商从事SRE、运维工具开发、客户技术服务相关工作，具备1年及以上工作经验
+
+• 技术背景扎实，熟练掌握云集群各运维平台、云产品及监控平台使用方法，以能够快速专业定位客户问题
+
+• 具备优秀的集群调优和trouble shooting能力，JAVA应用运维、管理能力。熟练掌握分布式系统原理，对存储、计算、流式计算中的一项或多项有深入的理解和认识
+
+• 掌握完整的问题排查能力，能够独立解决一个或多个领域的复杂技术问题，有良好的问题处置文档书写能力
+
+• 具备优秀的运维项目管理能力，能够在确定的问题背景下（专项推进能力），高效协同客户与内部各种资源有效解决问题。尤其在故障应急组织、协调及处置场景、客户重保护航场景能够保障现场执行的有效性
+</details>
+
+---
+
+#### [诚云科技-资深运维工程师-客户应急部](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=2000058202)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1、客户现场专项技术负责人，如网络专项、数据库专项；
+
+2、平台稳定性重大变更方案制定与实施，如性能/存储优化、底座改造等；
+
+3、现场故障应急执行，协助原厂尽快恢复平台运行；
+
+4、关键时刻现场保障，如客户平台隐患深度排查与治理；
+
+5、复杂问题原因定位及解决；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+• 在中型企业或云服务提供商从事SRE、运维工具开发、客户技术服务相关工作，具备1年及以上工作经验
+
+• 技术背景扎实，熟练掌握云集群各运维平台、云产品及监控平台使用方法，以能够快速专业定位客户问题
+
+• 具备优秀的集群调优和trouble shooting能力，JAVA应用运维、管理能力。熟练掌握分布式系统原理，对存储、计算、流式计算中的一项或多项有深入的理解和认识
+
+• 掌握完整的问题排查能力，能够独立解决一个或多个领域的复杂技术问题，有良好的问题处置文档书写能力
+
+• 具备优秀的运维项目管理能力，能够在确定的问题背景下（专项推进能力），高效协同客户与内部各种资源有效解决问题。尤其在故障应急组织、协调及处置场景、客户重保护航场景能够保障现场执行的有效性
 </details>
 
 ---
