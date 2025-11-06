@@ -2,447 +2,299 @@
 
 <p><img alt="developDaily" src="./developDaily.png"></p>
 
-[腾讯](#腾讯) | [蚂蚁集团](#蚂蚁集团) | [阿里云](#阿里云) | [淘天集团](#淘天集团) | [字节跳动](#字节跳动) | [滴滴](#滴滴) | [网易](#网易) | [京东](#京东) | [小红书](#小红书) | [SHEIN](#SHEIN) | [携程](#携程) | [美团](#美团)
+[腾讯](#腾讯) | [蚂蚁集团](#蚂蚁集团) | [阿里云](#阿里云) | [淘天集团](#淘天集团) | [字节跳动](#字节跳动) | [滴滴](#滴滴) | [网易](#网易) | [京东](#京东) | [小红书](#小红书) | [SHEIN](#SHEIN) | [美团](#美团) | [小米](#小米) | [钉钉](#钉钉)
 
-本页内容发布于2025年11月05日，共有140个岗位信息。
+本页内容发布于2025年11月06日，共有152个岗位信息。
 
 ## 腾讯
 
-#### [腾讯云资源订单交付经理](http://careers.tencent.com/jobdesc.html?postId=1948783458889342976)
+#### [大数据平台部-#后台开发工程师#-推荐工程架构方向](http://careers.tencent.com/jobdesc.html?postId=1954800610226360320)
 
-📍 深圳 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责腾讯公司服务器资源供应交付解决方案及交付保障，保障业务需求服务水平；
-
-2.基于不同业务场景、园区做服务器订单集成交付计划，识别订单交付关键风险并推动解决；
-
-3.负责交付相关链条的业务流程、周边协同、系统优化，提升整体订单交付效率和交付SLA。
-</details>
-
----
-
-#### [地图平台部-客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1968677772213772288)
-
-📍 武汉 | ⌛ 三年以上工作经验
+📍 北京 | ⌛ 不限
 
 <details>
 <summary>职位描述</summary>
 
-1.负责云图客户端SDK的集成与性能优化，确保客户高效、稳定地接入地图业务；
+1.负责中台推荐系统的核心模块设计与开发，为腾讯众多产品提供底层推荐技术服务；
 
-2.设计、开发并持续迭代自动驾驶系统中的核心地图处理模块，提升系统整体性能与可靠性；
-
-3.深入现场为客户提供技术支持，快速诊断并解决客户在地图业务使用中遇到的复杂技术问题；
-
-4.与产品、测试及客户团队紧密协作，精准理解业务需求，提供专业的技术解决方案并推动落地；
-
-5.遵循高质量编码规范，完成单元测试与代码审核，保障软件的可维护性与可扩展性；
-
-6.编写清晰、完整的技术文档，包括接口说明、开发指南及问题处理手册，促进团队知识共享与技术传承。
+2.深度参与推荐工程架构的技术选型与优化，提升系统的性能、稳定性、可扩展性，保障服务高可用。
 </details>
 
 ---
 
-#### [《洛克王国：世界》-UE4客户端开发工程师](http://careers.tencent.com/jobdesc.html?postId=1952567840972349440)
+#### [《三角洲行动》-游戏AI开发工程师](http://careers.tencent.com/jobdesc.html?postId=1913052101655764992)
 
-📍 深圳 | ⌛ 不限
+📍 深圳 | ⌛ 两年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责游戏中业务玩法相关系统的开发工作，确保系统功能的实现与优化；
+1.负责手游以及端游的各类型NPC，Bot，基于强化的拟人AI等AI的行为和表现开发；
 
-2.参与系统设计，包括需求分析、架构设计和详细设计，保证系统的可扩展性和稳定性；
+2.开发，实现，以及优化AI相关的各种系统，包括但不限于感知，寻路，动作，同步等；
 
-3.协同团队成员进行代码编写、测试和调试，确保开发质量和进度符合预期；
+3.参与AI的行为与动作表现设计，与动作，策划团队紧密协作，使其符合品质要求；
 
-4.持续优化系统性能，处理系统运行中的异常情况，提升用户体验。
+4.调试并修复与AI相关的问题，对AI品质负责；
+
+5.解决与优化AI的各项性能问题与系统瓶颈；
+
+6.负责构建精确的AI数值分析体系，并持续迭代AI的投放效果。
 </details>
 
 ---
 
-#### [腾讯智驾地图-后台开发工程师](http://careers.tencent.com/jobdesc.html?postId=1985572785145139200)
+#### [腾讯企点-产品架构师](http://careers.tencent.com/jobdesc.html?postId=1970081850273718272)
 
-📍 武汉 | ⌛ 三年以上工作经验
+📍 上海 | ⌛ 五年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.参与车图后台服务整体建设，包括AI Agent服务、地图数据服务、导航服务等全栈后端系统；
+1.负责腾讯营销云产品的产品商业化工作，包括产品架构方案设计、解决方案以及业务咨询等前场相关工作内容，推动业务目标达成；
 
-2.参与车图后台的架构设计、开发与维护工作、分布式系统建设和生产环境运维；
+2.支持销售团队进行售前工作，并配合相关的售中/售后等相关业务工作；
 
-3.参与AI智能体开发框架的维护和具体智能体的开发实现，专注于大模型应用、Agent框架优化和AI能力集成，参与车图场景下的智能化应用落地。
+3.对实施中和交付后的项目从业务角度进行跟进，确保实施项目的客户价值得到实现。
 </details>
 
 ---
 
-#### [大数据计算引擎研发工程师（北京/深圳/上海）](http://careers.tencent.com/jobdesc.html?postId=1942840108222881792)
-
-📍 上海 | ⌛ 三年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.负责大数据相关计算引擎核心研发，为腾讯的智能湖仓打造领先业界的计算内核， 推进大数据业务的高效发展；
-
-2.负责腾讯计算内核领域前沿技术调研，与开源社区保持交流，根据业务特性和需求，引入前沿技术。
-</details>
-
----
-
-#### [混元大模型训练框架研发工程师-（北京/深圳）](http://careers.tencent.com/jobdesc.html?postId=1940976677735735296)
-
-📍 北京 | ⌛ 五年以上工作经验
-
-<details>
-<summary>职位描述</summary>
-
-1.参与开发优化大模型训练框架，支持单任务万卡以上规模高效稳定训练；
-
-2.参与NLP、多模态大模型结构设计，并联合业务进行模型训练效率和效果验证；
-
-3.参与文生图、文生视频、文生3D等业务的训练性能加速；
-
-4.参与低精度训练性能优化和业务推广、参与大窗口训练性能优化。
-</details>
-
----
-
-#### [QQ浏览器-推荐算法工程师](http://careers.tencent.com/jobdesc.html?postId=1959436502165508096)
+#### [元宝-大模型产品优化工程师](http://careers.tencent.com/jobdesc.html?postId=1985973374349889536)
 
 📍 北京 | ⌛ 一年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责手机浏览器信息流/小说/短剧相关推荐算法研发，通过算法优化提升整体推荐的消费、留存等指标；
+1.数据问题发现：从数据中发现产品问题和优化机会，将用户体验问题转化为标注需求；
 
-2.针对消费场景特征，对用户、Item信息进行建模，抽象业务场景，制定有效的排序算法，同时从样本、特征、模型等维度不断优化排序算法；
+2.标注规范制定：制定清晰、可执行的标注规范和评估标准；
 
-3.结合大模型技术，升级推荐技术，提升推荐效果；
+3.业务问题诊断：基于 badcase 诊断产品问题，提出改进建议；
 
-4.紧跟学术界、工业界的前沿技术，结合实际的业务场景进行算法开发、落地，实现团队技术和业务的共同发展。
+4.标注项目管理：执行或管理标注项目，确保标注质量和效率。
 </details>
 
 ---
 
-#### [微信公众号-后台开发工程师](http://careers.tencent.com/jobdesc.html?postId=1943235759251259392)
+#### [元宝-大模型产品优化工程师](http://careers.tencent.com/jobdesc.html?postId=1985973377667588096)
 
-📍 广州 | ⌛ 一年以上工作经验
+📍 深圳 | ⌛ 一年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责微信公众号的后台开发工作，包括但不限于网页端MP平台、公众号助手APP、微信客户端公众号业务、推荐工程等系统的开发和维护；
+1.数据问题发现：从数据中发现产品问题和优化机会，将用户体验问题转化为标注需求；
 
-2.提升微信用户、公众号创作者在公众号相关业务的体验，确保系统稳定性和高效性；
+2.标注规范制定：制定清晰、可执行的标注规范和评估标准；
 
-3.共同参与产品设计，负责新特性的后台系统设计与实现，推动业务功能迭代升级。
+3.业务问题诊断：基于 badcase 诊断产品问题，提出改进建议；
+
+4.标注项目管理：执行或管理标注项目，确保标注质量和效率。
 </details>
 
 ---
 
-#### [大模型训练框架研发工程师-强化学习/精调/蒸馏方向](http://careers.tencent.com/jobdesc.html?postId=1902211083070943232)
+#### [元宝-大模型创新应用工程师](http://careers.tencent.com/jobdesc.html?postId=1985973381228552192)
 
-📍 上海 | ⌛ 三年以上工作经验
+📍 深圳 | ⌛ 一年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.框架开发与优化：负责强化学习、模型精调、知识蒸馏等核心模块的设计与开发，提升框架的训练效率与易用性；
+1.Prompt 设计与优化：设计 System/User Prompt，应用 Few-shot、Chain-of-Thought 等技术，基于验证集迭代优化；
 
-2.分布式训练支持：基于Megatron-LM、DeepSpeed等工具，优化大模型分布式训练策略（数据并行/张量并行/流水并行/专家并行等），解决显存、通信与计算瓶颈；
+2.模型应用开发：使用 Cursor 等 AI 工具构建产品 demo，开发实际应用；
 
-3.工具链构建：参与开发轻量化训练框架（如LLama-Factory、swift），支持快速模型微调、部署及多硬件平台适配；
+3.数据处理与分析：调用 API、处理标注数据、评估模型效果；
 
-4.前沿技术探索：跟踪学术动态（如RLHF、MoE架构、FlashMLA、EPLB、DualPipe等），将最新研究成果转化为框架功能，提升产品竞争力；
-
-5.协作与文档：与产品团队紧密配合，提供框架级解决方案；编写技术文档与案例，赋能公有云客户。
+4.问题诊断与优化：分析 badcase，提出并实施优化方案，快速迭代改进。
 </details>
 
 ---
 
-#### [腾讯乐享-SaaS产品售前解决方案架构师](http://careers.tencent.com/jobdesc.html?postId=1983366206685601792)
+#### [元宝-大模型创新应用工程师](http://careers.tencent.com/jobdesc.html?postId=1985973384684658688)
 
-📍 北京 | ⌛ 三年以上工作经验
+📍 北京 | ⌛ 一年以上工作经验
 
 <details>
 <summary>职位描述</summary>
 
-1.负责AI知识库产品商业化策略的制定；
+1.Prompt 设计与优化：设计 System/User Prompt，应用 Few-shot、Chain-of-Thought 等技术，基于验证集迭代优化；
 
-2.负责所属行业的项目售前工作及其收入目标结果；
+2.模型应用开发：使用 Cursor 等 AI 工具构建产品 demo，开发实际应用；
 
-3.挖掘AI知识库产品目标客户的使用场景、需求等，并反哺产研团队。
+3.数据处理与分析：调用 API、处理标注数据、评估模型效果；
+
+4.问题诊断与优化：分析 badcase，提出并实施优化方案，快速迭代改进。
+</details>
+
+---
+
+#### [元宝-大模型训练工程师](http://careers.tencent.com/jobdesc.html?postId=1985973388233039872)
+
+📍 北京 | ⌛ 两年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责设计和优化LLM训练框架，支撑LLM高性能训练。与算法团队、平台团队紧密协作，确保LLM infra的稳定、高性能、可扩展，推动AI大模型技术的落地与创新：；
+
+2.负责设计和优化LLM训练框架，支撑LLM高性能训练。与算法团队、平台团队紧密协作，确保LLM infra的稳定、高性能、可扩展；
+
+3.系统设计与优化：设计并搭建分布式训练框架，跟平台协作，支持千亿级参数大模型的训练；
+
+4.性能调优与成本优化：针对大模型训练任务，优化框架（如PyTorch/VERL等）的分布式策略，提升训练效率；
+
+5.稳定性与可靠性保障：设计高可用架构，解决训练中断、数据丢失等风险，确保长周期训练任务的稳定性；
+
+6.协作与落地：与算法团队紧密合作，理解模型需求，提供基础设施层面的技术建议；推动开源工具的定制化开发，适配业务场景。
+</details>
+
+---
+
+#### [元宝-大模型训练工程师](http://careers.tencent.com/jobdesc.html?postId=1985973391848525824)
+
+📍 深圳 | ⌛ 两年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责设计和优化LLM训练框架，支撑LLM高性能训练。与算法团队、平台团队紧密协作，确保LLM infra的稳定、高性能、可扩展，推动AI大模型技术的落地与创新：；
+
+2.负责设计和优化LLM训练框架，支撑LLM高性能训练。与算法团队、平台团队紧密协作，确保LLM infra的稳定、高性能、可扩展；
+
+3.系统设计与优化：设计并搭建分布式训练框架，跟平台协作，支持千亿级参数大模型的训练；
+
+4.性能调优与成本优化：针对大模型训练任务，优化框架（如PyTorch/VERL等）的分布式策略，提升训练效率；
+
+5.稳定性与可靠性保障：设计高可用架构，解决训练中断、数据丢失等风险，确保长周期训练任务的稳定性；
+
+6.协作与落地：与算法团队紧密合作，理解模型需求，提供基础设施层面的技术建议；推动开源工具的定制化开发，适配业务场景。
+</details>
+
+---
+
+#### [腾讯游戏-后台开发工程师-新星引力计划](http://careers.tencent.com/jobdesc.html?postId=1983227558082269184)
+
+📍 深圳 | ⌛ 三年以上工作经验
+
+<details>
+<summary>职位描述</summary>
+
+1.负责腾讯游戏采购部相关系统的后台开发和维护工作，开发和维护采购全生命周期业务管理系统；
+
+2.开发和维护采购决策支持系统、电子合同系统等与采购相关的子系统；
+
+3.维护和保障系统合规与业务安全。
 </details>
 
 ---
 
 ## 蚂蚁集团
 
-#### [蚂蚁集团-AI-Infra技术专家-杭州/北京/上海](https://talent.antgroup.com/off-campus-position?positionId=25090106552568)
+#### [蚂蚁集团-Java研发工程师-蚂小财](https://talent.antgroup.com/off-campus-position?positionId=25061605210547)
 
-📍 北京/上海/杭州 | ⌛ 3年
+📍 北京/杭州 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责大模型分布式训练/推理系统性能优化及配套工具研发，包括软硬件协同的模型结构设计与训推系统升级，覆盖MegatronLM、SGLang、Vllm、RL系统等，以及超大规模数据和模型参数下的存储、计算、网络联合优化。
+1.参与、主导各类业务及平台类项目的系统分析与设计工作，负责核心功能代码研发；
 
-2. 负责多模态数据提取系统研发，结合大模型、传统小模型、Agents等技术，以及异构计算下的流批一体系统，建设高质量多模态数据加工和分析系统。
+2.进行系统性能优化，主导技术难题攻关，持续提升系统在大规模分布式系统环境下高并发、海量请求数下的高处理性能，解决各类潜在系统技术风险，保证系统的安全、稳定、快速运行；
 
-3. 推动基础引擎与大模型、异构硬件等新技术形态的应用落地，保持在行业内的前沿水平。
+3.有金融行业经验、对金融数据有深入的了解，或开发过金融数据平台或产品等经验者优先；
+
+4.在Github上有相关领域开源项目贡献者优先。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 具有至少 2 年以上的AI平台、高性能并行计算领域研发经验，熟悉 Transformer/MoE 等大模型结构原理、大模型训练/推理/Agent 系统、高性能软硬件架构等任一领域的专业知识。
+1.计算机相关专业，本科及以上学历，具备良好的识别和设计通用框架及模块的能力，熟悉常见分布式系统架构，能够设计和构建业务复杂、高并发、数据密集型系统；
 
-2. 熟悉Spark、Ray等计算引擎，了解分布式存储与计算原理，能优化数据处理效率，具备性能调优经验。
+2.拥有扎实的计算机和Java语言基础，熟悉主流的Java框架，例如spring、mybatis、guava、netty、JVM原理等，对框架本身有过开发或重构者可优先考虑；
 
-3. 熟悉 sglang、vllm、megatron 等训推框架和大规模训推优化、GRPO/PPO/DPO 等 RL 算法、AReaL/veRL/openRLHF 等强化学习框架的优先。
+3.对计算机原理有深入的了解，熟练掌握 unix/linux 操作系统，熟悉各种常用算法；
 
-4. 对新技术有强烈好奇心，具备较强的团队合作能力，逻辑思维清晰、沟通表达能力强。
+4.较强的表达和沟通能力，工作认真、严谨、敬业，对系统质量有近乎苛刻的要求意识。 有很强的分析问题和解决问题的能力，有强烈的责任心。
 
-加分项：
 
-1. 在大模型相关开源社区有核心贡献。
 
-2. 熟悉常见的大模型结构，有多模态大模型实际工程优化经验。
+加分项：熟悉金融行业，有过金融信息行业的相关业务开发经验，并参与或主导核心系统设计与研发。
 </details>
 
 ---
 
-#### [蚂蚁集团-大模型应用研发工程师-杭州【平台工程】](https://talent.antgroup.com/off-campus-position?positionId=25042104429650)
+#### [蚂蚁数字科技-数字科技线-Technology Manager](https://talent.antgroup.com/off-campus-position?positionId=25101507112342)
 
-📍 杭州 | ⌛ 3年
+📍 北京/上海/杭州/深圳 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责AI创作平台的开发，具体包括工作流，插件，模型微调训练和评测等
+1. Technical Strategy & Architecture: Own the overall technical architecture design, technology selection, and evolution plan for the Web3 wallet APP. Develop and execute a long-term technical roadmap；
 
-2. 负责为AI Native应用的创作提升效率和效果
+2. 0-to-1 Product Development: Lead the entire development lifecycle of the wallet APP, including requirements analysis, system design, development, testing, launch, and continuous iteration, ensuring high-quality project delivery；
 
-3. 负责平台服务的架构和稳定性
+3. Blockchain Integration & Innovation:Possess deep expertise in interacting with multiple public chains, responsible for integrating and managing blockchain nodes, and optimizing on-chain transaction speed and success rates.Have an in-depth understanding of the technical details of interacting with DeFi protocols, including smart contract invocation, signing, Gas optimization, and security audit points. Lead the team to implement secure and reliable complex features like DeFi and Staking.Explore and integrate cutting-edge technologies such as Account Abstraction, and cross-chain bridges to enhance product competitiveness；
+
+4. Security & Performance Assurance: Establish the highest standards for secure coding practices and security audit processes. Bear ultimate technical responsibility for the security of core modules like private key/mnemonic management and transaction signing. Continuously optimize APP performance and user experience；
+
+5. Team Building & Management: Recruit, mentor, and manage a high-performing technical team, including front-end, back-end, mobile, and blockchain engineers. Foster a positive and collaborative technical culture；
+
+6. Cross-functional Collaboration: Work closely with Product, Operations, and Design teams to translate business requirements into technical solutions. Provide technical input for company-level strategic decisions.
+
+1. 技术战略与架构设计： 负责Web3钱包APP的整体技术架构设计、技术选型与演进规划，制定长期的技术发展路线图；
+
+2. 从0到1的产品研发： 主导钱包APP的整个开发生命周期，包括需求分析、系统设计、开发、测试、上线及持续优化，确保项目高质量交付；
+
+3. 区块链技术集成与创新：精通与多条公链的交互原理，负责集成和管理各类区块链节点，优化链上交易速度与成功率。深度理解与DeFi协议交互的技术细节，包括智能合约的调用、签名、Gas优化、以及安全审计要点，带领团队实现安全可靠的DeFi、Staking等复杂功能。探索和集成前沿技术，如账户抽象、跨链桥等，提升产品竞争力；
+
+4. 安全与性能保障： 建立最高标准的安全编码规范和安全审计流程。对私钥/助记词管理、交易签名等核心模块的安全性负最终技术责任。持续优化APP性能与用户体验；
+
+5. 团队建设与管理： 组建、培养和管理一支高效的技术团队，包括前端、后端、移动端和区块链工程师，营造积极向上的技术氛围；
+
+6. 跨部门协作： 与产品、运营、设计等部门紧密合作，将业务需求转化为技术方案，并为公司战略决策提供技术输入。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 精通 Python/Java、Git、Docker、Linux，有 Web 应用开发经验。
+1. Experience:5+ years of development experience in the mobile internet industry, with at least one complete, successful experience as a Technical Lead or Core Architect in building and launching a sophisticated mobile APP product from 0 to 1；
 
-2. 能够针对过往项目经验的方案、技术选型进行清晰、有逻辑的阐述。
+3. 3+ years of hands-on technical experience in the blockchain/Web3 space. Must have direct development or deep involvement experience with Web3 wallets, DeFi projects, DEXs, or similar products；
 
-3. 对 AI 领域有深厚的经验或兴趣，持续关注 Generative AI 相关发展，对 LLM 相关技术有一定的了解。
+4. Technical Skills:Mobile Mastery: Strong expertise in iOS/Android native development or cross-platform frameworks, with deep knowledge of APP performance optimization, compatibility, and app store submission processes.Blockchain Mastery: Must be proficient in the Ethereum and EVM-compatible ecosystem, with a deep understanding of core concepts like JSON-RPC, transaction construction, signing, event listening, Gas mechanics, and smart contract interaction. Familiarity with non-EVM chains is a plus；
 
-4. 具有良好的团队合作精神和沟通能力，拥有较强的学习能力和积极的探索精神。
+5. Architecture Skills: Proven ability to design highly available, scalable, and secure distributed system architectures；
+
+6. Security-First Mindset: Deep understanding of cybersecurity and cryptography, with a high level of sensitivity and experience in preventing potential security risks；
+
+7. Leadership & Entrepreneurship: Excellent team leadership, project management, and communication skills. Strong sense of ownership and responsibility, capable of leading the team to overcome challenges in a fast-paced startup environment；
+
+8. Language: Strong reading skills for English technical documentation is preferred.
+
+1. 经验：5年以上移动互联网行业开发经验，至少有一次作为技术负责人或核心架构师，从0到1成功打造并上线一款成熟的移动APP产品的完整经历；
+
+2. 3年以上区块链/Web3领域的技术经验，必须有亲自开发或深度参与Web3钱包、DeFi项目、DEX等相关产品的经验；
+
+3. 技术能力：移动端精通： 对iOS/Android原生开发或跨平台框架有深厚功底，精通APP性能优化、兼容性及上架流程。区块链精通： 必须精通以太坊及其EVM兼容链的技术生态，深刻理解JSON-RPC、交易构造、签名、事件监听、Gas机制、智能合约交互等核心概念。熟悉非EVM链者优先；
+
+4. 架构能力： 具备设计高可用、高扩展性、高安全性分布式系统架构的能力；
+
+5. 安全第一： 对网络安全、加密学有深刻认知，对潜在的安全风险有极高的敏感度和防范经验；
+
+6. 领导力与创业精神： 具备出色的团队领导、项目管理和沟通协调能力。拥有强烈的责任心和主人翁意识，能在快节奏的创业环境中引领团队攻坚克难；
+
+7. 语言： 具备良好的英文技术文档阅读能力者优先。
 </details>
 
 ---
 
-#### [蚂蚁集团-机密计算可信技术研发工程师-北京/上海](https://talent.antgroup.com/off-campus-position?positionId=25110507448616)
-
-📍 北京/上海 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-● 从事机密计算领域可信相关的产品化研发及场景落地等工作；
-
-● 追踪并研究机密计算前沿技术并主导创新性工作；
-
-● 参与社区相关开源项目的建设；
-
-● 探索和挖掘机密计算新的应用场景；
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-● 熟悉TPM可信计算技术，如：可信启动和远程证明，掌握密码学基本原理；
-
-● 熟悉CPU TEE远程证明机制，如：Intel SGX/TDX、海光CSV，AMD SEV-SNP等，有相关的项目经验者为佳；
-
-● 熟悉GPU-TEE 远程证明机制，如：Nvidia Confidential Computing，有相关的项目经验者为佳；
-
-● 熟练掌握 Rust/C/C++/Go 语言中的一种或多种，以熟悉 Rust 编程者为佳；
-
-● 自驱力强，适应创业公司工作节奏，具备一定抗压能力；
-
-具备以下能力者优先（一项或多项）：
-
-● 熟悉Linux操作系统，具备内核开发经验，熟悉IMA/LSM等安全相关技术；
-
-● 熟悉云原生相关技术，如Kubernetes、Kata、service mesh等；
-
-● 具备大数据、大模型、数据库开发与优化经验；
-
-● 具备开源项目开发经验；
-</details>
-
----
-
-#### [蚂蚁集团-机密计算底层技术架构师/核心研发工程师-北京/上海](https://talent.antgroup.com/off-campus-position?positionId=25110507443140)
-
-📍 北京/上海 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-机密计算底层技术研发：研发Hypervisor，安全操作系统等底层系统软件，解决机密计算领域前沿挑战；通过开源推动生态合作，让技术更普惠；结合实际业务需求和应用场景，产品落地，推动行业发展。
-
-
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-○ 具备开发操作系统或者hypervisor核心功能（CPU，内存，I/O）开发和产品化实际经验；
-
-○ 深入研究过行业主流TEE技术，如：SGX，TDX, SEV，CCA等底层工作原理，并有开发和产品化实际经验；
-
-○ 自驱力强，适应创业公司工作节奏，具备一定抗压能力；
-
-○ 精通 GPU TEE，大模型安全保护技术者优先；
-
-○ 对ARM体系结构和虚拟化精通者优先；
-
-○ 发表过系统&安全顶会论文者优先；
-
-○ 具备开源社区经验者优先；
-</details>
-
----
-
-#### [蚂蚁集团-大模型算法专家-数字医疗-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25090806656026)
-
-📍 北京 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责并实现大模型在医疗领域的后预训练、推理增强、指令对齐、上下文对话等关键技术，提升模型在复杂医疗任务中的性能与稳定性；
-
-2. 深入挖掘医疗行业的多源异构数据，构建高质量语料库和知识增强机制，支撑大模型在医疗场景下的可控性和泛化性；
-
-3. 研究和跟踪前沿技术发展，有机会和医院院士团队合作，基于专科知识训练专科大模型，构建医学领域的智能体，服务患者和医生, 共同构建医疗领域行业标准和Benchmark，探索AI助力医疗普惠和智能化的新范式。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 有ACL、EMNLP、NeurIPS、ICLR等人工智能顶会论文发表者优先；
-
-2.熟悉并实操大模型的预训练（Pre-training）、微调（Fine-tuning）、后训练（Post-training）、强化学习（RL）全流程；
-
-3. 熟练掌握Python编程语言，熟练掌握LlamaFactory，VERL, LMdeploy, Vllm等大模型框架；
-
-4.有大模型开源项目贡献经历或医疗领域AI产品开发经验者优先。
-</details>
-
----
-
-#### [蚂蚁集团-医疗大模型训练算法-数字医疗-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25062405347084)
-
-📍 北京/上海/杭州 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责医疗垂直领域大模型的基础研究和工程落地，聚焦大模型的预训练、后训练（SFT、RL）等关键技术。
-
-2. 深入挖掘医疗行业的多源异构数据（包括结构化知识、非结构化文本、临床记录等），构建高质量语料库和知识增强机制，支撑大模型在医疗场景下的可控性和泛化性。
-
-3. 研究并实现大模型在医疗领域的继续预训练、推理增强、指令对齐、上下文对话等关键技术，提升模型在复杂医疗任务中的性能与稳定性。
-
-4. 关注并探索大模型前沿技术，持续跟踪LLM、MoE、Scaling Law、Continual Learning等方向，推动医疗大模型能力的持续迭代与升级。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 熟悉并实操大模型的预训练（Pre-training）、微调（Fine-tuning）、后训练（Post-training）全流程。
-
-2. 有丰富的NLP项目经验，熟悉Transformer架构及主流大模型，具备实际部署和优化经验者优先。
-
-3. 熟练掌握Python编程语言，熟练使用PyTorch或TensorFlow等深度学习框架，有大规模分布式训练经验者优先。
-
-4. 具备医疗行业知识理解能力，熟悉医学术语、诊疗流程、健康管理逻辑，结合医疗业务场景有大模型应用经验者优先。
-
-5. 有大模型开源项目贡献经历或医疗领域AI产品开发经验者优先。
-
-6. 有ACL、EMNLP、NeurIPS、ICLR等人工智能顶会论文发表者优先
-</details>
-
----
-
-#### [蚂蚁集团-医疗多模态算法-数字医疗-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25062405340798)
-
-📍 北京/上海/杭州 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责医疗多模态大模型的研发和应用，深入挖掘垂直医疗行业、开源以及蚂蚁的海量数据，研究前沿大模型训练和优化方法，结合医疗行业特性构建图文/语音/视频交互的医疗多模态大模型。
-
-2. 开发医疗领域领先的技术产品，如报告解读、皮肤、影像识别等产品，提升医疗行业场景的用户体验和效率，打造支付宝医疗健康新时代下的AI应用。
-
-3. 研究和跟踪前沿技术发展，探索AI助力医疗普惠和智能化的新范式。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.具备扎实的机器学习基础和工程化能力，包括机器学习、深度学习、强化学习。实操具备多模态大模型预训练、SFT、GRPO等后训练技术有项目应用经验优先。
-
-2.熟练掌握Python，JAVA等至少一门语言，掌握Tensorflow、Pytorch等至少一个深度学习框架，熟悉并具备QwenVL、Internvl等主流多模态大模型实战经验的优先。
-
-3.有大模型开源项目、医疗应用场景、多模态或者文本大模型预训练/语音/后训练o1等实操经验者优先。
-
-4.有人工智能顶会论文发表者优先。
-</details>
-
----
-
-#### [蚂蚁集团-行业大模型算法-数字医疗-1024热招](https://talent.antgroup.com/off-campus-position?positionId=1945710)
-
-📍 上海/杭州 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责医疗行业大模型的研发和应用，深入挖掘垂直行业、开源以及蚂蚁的海量数据，构建行业知识库，研究前沿大模型训练和优化方法，结合医疗行业特性打造可控的医疗大模型。
-
-2. 开发医疗领域领先的技术产品，如泛医疗助手、医护办事等产品，提升医疗行业场景的用户体验和效率，打造支付宝医疗健康新时代下的AI应用。
-
-3. 研究和跟踪前沿技术发展，探索AI助力医疗普惠和智能化的新范式。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.具备扎实的机器学习基础和工程化能力，包括机器学习、深度学习、强化学习。实操利用SFT、RLHF等技术有项目应用经验优先。
-
-2.熟练掌握Python，JAVA等至少一门语言，掌握Tensorflow、Pytorch等至少一个深度学习框架。
-
-3.具有NLP或垂直行业大模型Pre-train、Finetune、Inference等优化经验。
-
-4.有大模型开源项目、医疗应用场景实操经验者优先
-
-5.有人工智能顶会论文发表者优先
-</details>
-
----
-
-#### [蚂蚁集团-数据工程师（就业）-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=25110507438977)
+#### [蚂蚁集团-数据研发专家（碰一下）-数字支付](https://talent.antgroup.com/off-campus-position?positionId=1947223)
 
 📍 上海/杭州 | ⌛ 3年
 
@@ -451,89 +303,73 @@
 
 方向一：
 
-1. 负责支付宝就业业务的流量投放、增长相关的数据服务，包括：数据仓库（离线、实时）设计和研发、数据赋能业务的方案设计和推进运营场景需要的数据诉求；
+1. 解决数据在业务N场景下的基建问题，充分提升底层数据建设，提升N项目中的数据研发质量和效率
 
-2. 研究用户的相关行为及数据，并基于分类、标注、聚类等机器学习手段，挖掘不同业务场景的业务标签；
+2.解决N项目的数据洞察问题，通过数据的理解分析，发现N项目的可提升点，辅助业务快速提升
 
-3. 负责相关域的数据架构治理，包括集群管理、数仓架构管理、需求流程管理等。
+3. 解决N项目资产沉淀等问题，为算法和人工策略提供基础，辅助业务在铺设、营销等场景的快速提升
+
+
 
 方向二：
 
-负责支付宝就业业务数据体系和增长解决方案建设，通过数据技术和数据科学手段为业务决策及策略落地提供支持，助力业务增长。
+1.数据基建：负责支付宝核心支付数据体系建设，解决支付场景下的数据基建问题，提升支付的数据研发质量和效率，使支付数据体系可持续发展。
 
-1、负责支C侧业务核心数据体系的设计，基于业务理解业务洞察指标体系，及时发现业务问题和机会，并沉淀数据资产和数据产品；
+2.数据洞察：围绕支付业务目标，通过数据分析洞察、构建分析工具，为业务目标达成提高效率；通过统计建模、因果推断、AB实验设计等数据科学方法，在科学量化运营策略效果和价值的同时，产出业务策略优化建议，助力业务目标达成。
 
-2、深入理解业务的战略和策略打法，敏锐洞察业务痛点，利用数据技术和数据科学手段为业务决策、产品方向、增长策略提供业务建议和方案；
-
-3、协同技术和算法团队打造可持续数据解决方案，通过效果和效率的提升助力业务增长，推动业务模式和产品不断创新。
+3.前沿技术探索与落地：探索大模型等技术在支付数据场景的应用，推动数据分析和挖掘的效能革新。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-方向一：
+1. 对数据离线或实时场景有一定经验
 
-1. 从事数据仓库或挖掘领域至少3年以上，熟悉数据仓库模型设计与ETL开发经验 ，掌握维度建模设计方法，具备海量数据处理经验；
+2. 有比较强的动手能力，有明确的落地项目，对数据基建、应用、洞察、资产沉淀等
 
-2. 熟悉数据仓库领域知识和技能者优先，包括但不局限于：元数据管理、数据开发测试工具与方法、数据质量、主数据管理；
-
-3. 熟悉数据库技术，熟练运用SQL及其他語言，能高效的与技术团队进行沟通；
-
-4. 熟练掌握一门或多门编程语言，并有大型项目建设经验者优先，如Java、Python、Shell；
-
-5. 良好的语言沟通与表达能力，自我驱动。
-
-方向二：
-
-1、统计学、数学、机器学习、计算机科学、运筹学等相关专业学历，3年以上工作经验，具有丰富的数据建模实践经验；
-
-2、了解或有数仓研发经验，熟悉SQL执行原理，可以快速的提供成本/时效/合规/架构最优的数仓建设解决方案；
-
-3、对数据敏感，能从数据中发现问题、解决问题、熟悉数据科学基本方法（如因果推断、归因等），有互联网用户增长相关项目经验优先；
-
-4、热爱数据科学和数据技术，良好的思维逻辑性和语言表达能力，能自我驱动，有强烈的求知欲与进取心，有团队合作精神，敢于挑战，能在压力下成长。
+3. 金融领域有落地项目经验优先
 </details>
 
 ---
 
-#### [蚂蚁集团-Agentic RL高级算法专家-北京](https://talent.antgroup.com/off-campus-position?positionId=25110407430002)
+#### [蚂蚁集团-Java技术工程师-芝麻企业信用](https://talent.antgroup.com/off-campus-position?positionId=25110607481348)
 
-📍 北京 | ⌛ 3年
+📍 杭州 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-1、核心算法研发：主导Agentic RL及多智能体（Multi-Agent）算法的研发，融合大模型和多模态（LLM/VLM）的推理能力。
+1、参与信用和流量转化相关系统的系统架构设计和开发工作，提供复杂系统的设计支持，推动业务和技术融合落地；
 
-2、训练框架优化：负责RL训练框架的性能调优与迭代，提升大规模训练效率。
+2、深入理解业务，参与部门重大项目的业务分析，架构设计和开发工作；能够推动工程架构演进设计、方案制定以及落地；
 
-3、智能体构建与落地：构建面向真实场景的智能体，包括但不限于SRE/根因定位（RCA）Agent、GUI Agent、代码Agent、根因分析（RCA）Agent等，驱动业务创新。
+3、负责技术难点攻关，持续提升系统在海量数据、高并发下的处理性能，解决系统潜在技术风险；
+
+
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、教育背景优秀，计算机相关专业研究生；
+1、扎实的Java编程基础，熟悉Java内存调优，具有较强的架构设计和Java开发经验，能够清晰的理解技术方案的设计及其关键设施点；
 
-2、有较好的计算机科学和算法基础，编程能力强；
+2、有大型分布式、高并发、高可用性系统设计和开发经验，对业务能够有深度理解，推进落地；
 
-3、有代码/自然语言/多模态大模型、深度序列/生成模型、时序分析等相关技术或者落地经验者优先；
+3、对技术有激情，喜欢钻研，能快速掌握新技术，良好的沟通表达能力和团队协作能力，有较强的创新意识和业务敏感度；
 
-4、产出需在论文、开源、比赛成绩、项目上满足1条或者多条；
+4、如果熟悉各种大数据计算框架，有海量数据实时计算经验，了解数据挖掘理论、挖掘算法和机器学习更佳；
 
- 4a、算法研究背景在诸如ICML/ICLR/NIPS、ACL/EMNLP/KDD、CVPR/ICCV/ECCV等会议有相关论文发表者优先；
+5、了解前沿AI技术，以AI First的方式重塑应用；
 
- 4b、应用系统研究背景在诸如WWW、SIGMOD/VLDB、ICSE/ASE、ATC/OSDI/ASPLOS、MLSys等会议有相关论文发表者优先；
+6、加分项： 
 
- 4c、在顶会组织或者行业组织且有广泛影响的比赛KDDCup、Kuggle并取得前三好成绩者优先；
+● 有开源项目经验（可附git/gitee地址），有深度的业务sense见解、观点博客（长期高质量更新）；
 
- 4d、有开源项目影响力或者参与过开源项目者优先；
+● 有一定的业界技术影响力；
 
- 4e、有作为主力推动或者参与的有较大影响的项目结果产出；
+● 有AI工程项目实操经验；
 
-5、在大厂有相关实习或工作经历者优先；
-
-6、较强的表达和沟通能力，工作认真、严谨、敬业。有很强的分析问题和解决问题的能力，有强烈的责任心和自驱力。
+● 有带团队经验；
 </details>
 
 ---
@@ -572,82 +408,62 @@
 
 ---
 
-#### [蚂蚁集团-AIGC算法-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=25102807331685)
+#### [蚂蚁集团-算法工程师-AI风险](https://talent.antgroup.com/off-campus-position?positionId=25110607466078)
 
-📍 北京 | ⌛ 4年
+📍 杭州 | ⌛ null-1年
 
 <details>
 <summary>职位描述</summary>
 
-1.负责AIGC图像+视频算法的研究与应用落地。基于最新的图像、视频生成方案，结合产品业务需求，构建先进图/视频生成能力。
+团队介绍
 
-2.紧密跟踪、探索AIGC方向前沿技术，包括但不限于：图像编辑生成、⽂/图⽣视频、 数字人生成，实践AIGC创新应用与落地。
+蚂蚁集团CRO线全面风险管理部，致力于搭建适配整个集团各业务板块发展的敏捷、有效的全面风险管理体系。从集团层面提升并完善公司的风险治理体系框架，以科技驱动搭建集团智能化风险能力和内控管理能力，为公司管理团队提供全面风险视角下的决策支持，助力业务可持续健康发展。
+
+
+
+职位描述
+
+1、开发大小模型协同的风险防控链路，确保用户享受AI应用带来的巨大潜力同时感受到平等、尊重、可信、负责的理念；
+
+2、识别新兴AI风险以及探索评估风险影响的新方法；
+
+3、设计和构建可扩展的系统和流程挖掘完善风险知识库，支持评估以及缓解已识别风险；
+
+4、深入理解业务风险，设计研发AI解决方案提升风险感知和治理能力；
+
+5、推动与内外部专家合作，加速上述研究成果产出和落地应用。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.机器学习/计算机视觉/模式识别/图像处理等相关专业，硕士及以上学历，在计算机视觉(CVPR，ICCV，ECCV)和机器学习(NIPS，ICML，AAAI)等相关会议发表论文者优先；在计算机视觉、图形学等相关领域竞赛取得名次者优先。；
+1、计算机相关专业背景，硕士及以上学历；
 
-2.熟悉常见的AIGC图像、视频生成方案，如VAE, GAN, DM, FM；熟悉可控图像、视频生成相关算法，如SD, ControlNet, LoRA等；有能力跟进产业界/学术界最新技术进展，并实现自研算法创新；具备开源大模型微调能力。
+2、3年以上机器学习或应用算法经验；
 
-3.具备扎实的编程功底，熟悉Pytorch等主流深度学习框架，熟练使用C++/Python等至少一种编程语言，熟悉Linux开发环境；
+3、具备高效的跨多团队合作能力，积极创新，富有激情；
 
-4、良好的思维逻辑性和语言表达能力，能自我驱动，有强烈的求知欲与进取心，有团队合作精神，敢于挑战；
+4、有大模型安全经验优先。
 </details>
 
 ---
 
-#### [蚂蚁集团-Agentic RL 工程技术研发专家-北京/杭州](https://talent.antgroup.com/off-campus-position?positionId=25092906960766)
+#### [蚂蚁国际-隐私计算基础平台开发工程师-全球技术](https://talent.antgroup.com/off-campus-position?positionId=25041704387827)
 
-📍 北京/杭州 | ⌛ 1年
-
-<details>
-<summary>职位描述</summary>
-
- ASystem 会探索和构建高性能的 AI 强化学习基础系统，让语言交互、智能体、具身智能等各类 AI 场景都能基于这个基础系统走向高效的自我演进，迈向更高的智能水平。
-
-1. 研发 Agentic 强化学习工程，包括 Agentic RL 算法、长上下文训练加速、多轮轨迹交互等能力；
-
-2. 研发工具和 Agent 合成工程，包括 toolUse、SWE、computerUse、browserUse、Mutil-Agents 等场景；
-
-3. 研发环境工程和高性能 sandbox 引擎技术，包括多语言执行环境、桌面虚拟化渲染、大型程序虚拟环境等场景，满足大规模并发调用、极速启动、安全隔离等能力；
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 熟悉 Python 研发，熟悉并行计算、AI Agent 系统、沙箱技术技术等任一领域的专业知识；
-
-2. 能够熟练部署和使用主流 AI 模型和工具，了解 Prompt 和 Context Engineering 等调优手段；
-
-3. 熟悉 GRPO/PPO 等 RL 算法、AReaL/veRL/Slime 等强化学习框架、E2B/docker/incus 等沙箱技术的优先；
-
-4. 具备大规模模型训练与 AI 工程性能优化的落地经验的优先；
-
-5. 较强的自驱学习能力，对端到端系统设计、编码规范和系统优化有高标准要求；
-
-6. 有热门github开源项目代码贡献并保持活跃的优先；
-</details>
-
----
-
-#### [蚂蚁集团-AI基础系统研发专家-杭州/北京](https://talent.antgroup.com/off-campus-position?positionId=25052304884073)
-
-📍 北京/杭州 | ⌛ 2年
+📍 上海/杭州 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-蚂蚁ASystem会探索和构建高性能的 AI 自学习基础系统，让语言交互、智能体、具身智能等各类 AI 场景都能基于这个基础系统走向高效的自我演进，迈向更高的智能水平。
+1. 负责隐私计算基础调度框架架构设计和核心功能开发，包括网关、调度器等模块。
 
-1. 研发新一代训推混合计算系统，优化训推分布式并行技术，实现大规模T级参数模型训练和 100X 性能提升；
+2. 负责在线与离线任务的方案设计，支持丰富灵活的调度策略。
 
-2. 以“X+RL”范式建设新一代强化学习框架，实现多轮交互、过程奖励、大规模模拟环境等能力，支持各类智能体和搜索场景学习能力提升；
+3. 负责多云集成开发、降低上云门槛。
 
-3. 结合软硬件优化分布式并行计算和调度系统，提升大模型在训推一体、长推理效率和弹性训练的能力，大幅降低智能计算成本；
+4. 负责服务持续交付、故障容灾、监控告警、链路追踪等稳定性和可用性能力建设。"
+
+
 
 
 </details>
@@ -655,117 +471,145 @@
 <details>
 <summary>职位要求</summary>
 
-1. 具有至少 2 年以上的AI系统/任务调度/高性能并行计算领域研发经验；
+1. 熟悉和精通 Golang/Java，具备3年以上的开发经验。
 
-2. 熟悉 Transformer/MoE 等大模型结构原理、分布式调度系统、大模型训练/推理/Agent 系统、高性能软硬件架构等任一领域的专业知识；
+2. 熟悉和精通 Envoy、Kuberentes，如CRD Operator、K8s Controller等，有实际二次开发经验优先。
 
-3. 熟悉 sglang、vllm、megatron 等训推框架和大规模训推优化、GRPO/PPO/DPO 等 RL 算法、AReaL/veRL/openRLHF 等强化学习框架的优先；
+3. 熟悉云原生服务容灾备份的常用手段，有实际参与和开发经验优先。
 
-4. 较强的团队沟通和学习能力，对系统设计、编码和优化创新有高标准要求；
+4. 熟悉云原生相关的监控、告警、链路追踪工具，有实际参与和开发经验优先。
+
+5. 熟悉常用的部署和自动化运维工具（如Helm、Ansible、Terraform等）优先。
+
+6. 熟悉主流云计算平台（如AWS、Azure、阿里云、腾讯云等）优先。
+
+7. 熟悉 TEE、MPC 等主流隐私计算技术优先。
+
+8. 具有良好的沟通表达能力和团队协作能力，具备较强的学习能力，注重代码质量。
+
+
+
+
 </details>
 
 ---
 
-#### [蚂蚁集团-训推系统研发专家-杭州/北京/上海](https://talent.antgroup.com/off-campus-position?positionId=25052904956438)
+#### [蚂蚁集团-AI研发工程师-大安全-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25052304896234)
 
-📍 北京/上海/杭州 | ⌛ 3年
+📍 北京/上海/成都 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-蚂蚁ASystem致力于打造下一代AI基础软件，并基于下一代的AI基础软件寻找通用智能的新方法，追求智能上限。
+1.负责安全领域场景研发，参与AI训练框架研究，AI数据计算，工程方案设计，推动AI产品落地；
 
-1、负责训推一体框架的设计与开发，服务蚂蚁内部的强化学习场景；
+2.深度参与AI研发全流程，涵盖大模型数据生成、训练或微调、RAG、非结构化数据计算以及实验部署等，推动AI在业务场景的效果提升；
 
-2、建设面向训推一体的显存管理体系和高性能数据存储方案；
+3.能够应用大模型或者智能体思维来推动业务或者产品能力创新，以及AI产品化表达能力；
 
-3、负责实时高性能训推系统设计与开发，如分布式训练加速策略、算子融合、编译优化、模型量化、混合精度、异构硬件加速等；
-
-4、负责整体性能优化与架构升级，持续提升训练/推理性能；
-
-5、与算法工程师深度合作，为重点项目进行算法与系统的联合优化。
+4.不断探索技术新领域，进行重点难点技术攻关工作，推动安全AI技术发展。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 精通至少一门 Python/Go/C++ 等编程语言，并有良好的代码风格；
+1. 计算机系统、算法、安全或相关领域的硕士或博士学历；
 
-2. 具有分布式系统服务/并行计算系统设计与研发优化经验；
+2. 在大模型架构/强化学习/训练框架/安全对抗等方向，在业界顶会，头部开源项目，或者公司重点项目等有突出表现（创新/效果等）；
 
-3. 代码级精通主流深度学习框架及扩展库的使用及算子开发，例如TensorFlow/PyTorch/Megatron/Deepspeed/vLLM/Sglang等；
+3. 具备较强的编程能力和学习能力；
 
-4. 好奇心强，热爱技术且对强化学习领域有深入钻研优先；
+4. 具备强烈的创新意识、自我驱动力以及挑战未知难题的热情和勇气。
 
 
 
-加分项：
 
-1、熟悉至少一种主流的RLHF框架，如OpenRLHF/veRL/AReal/ChatLearn等；
 
-2、熟悉Ray框架或其他强化学习相关计算框架；
 
-3、在计算机系统网络顶会OSDI/SOSP/NSDI/ATC/EuroSys上有文章发表经验
 </details>
 
 ---
 
-#### [蚂蚁集团-存储系统研发专家-杭州/北京](https://talent.antgroup.com/off-campus-position?positionId=25052904954801)
+#### [蚂蚁集团-湖仓计算引擎研发专家/高级专家-杭州/北京/上海【数据平台】](https://talent.antgroup.com/off-campus-position?positionId=25042804596210)
 
-📍 北京/杭州 | ⌛ 3年
+📍 北京/上海/杭州 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-蚂蚁ASystem致力于打造下一代AI基础软件，并基于下一代的AI基础软件寻找通用智能的新方法，追求智能上限。
+1.深入业务场景，帮助解决问题并发现通用需求，驱动计算平台研发，打造高效的分布式计算引擎；
 
-1、负责训推一体存储的设计与开发，建设面向训推一体的显存扩展和高性能数据存储方案，服务蚂蚁内部的强化学习场景；
+2.从功能、稳定性、性能和易用性等多方面对计算引擎进行完善和优化；
 
-2、负责整体性能优化与架构升级，通过存算结合持续提升训练/推理效率；
-
-3、与算法工程师深度合作，为重点项目进行算法与系统的联合优化。
+3.与开源社区保持良性互动，引进吸收开源系统的技术并回馈社区。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 精通至少一门 Python/Go/C++ 等编程语言，并有良好的代码风格；
+1.精通Java/Scala/C++等一种编程语言，具备大规模系统的研发和优化能力；
 
-2. 具有训推场景存储系统设计与研发优化经验，例如分布式KV Cache/文件存储/对象存储等；
+2. 熟悉Hadoop/Spark/Celeborn/Velox/Clickhouse/Doris等主流开源项目和引擎；
 
-3. 了解主流训推框架原理和代码实现，例如TensorFlow/PyTorch/Megatron/Deepspeed/vLLM/Sglang等；
+3.在分布式计算领域有丰富的理论和实践经验；
 
-4. 好奇心强，热爱技术且对强化学习领域有深入钻研优先；
-
-
-
-加分项：
-
-1、熟悉至少一种主流的RLHF框架，如OpenRLHF/AReal/veRL/ChatLearn等；
-
-2、熟悉GDR、GDS、RDMA、或有大规模训练网络通信优化经验；
-
-3、有“以存代算”相关项目提高训推效率经验；
-
-4、在计算机系统顶会OSDI/SOSP/FAST/ATC/EuroSys等上有文章发表经验。
+4.具备强烈的进取心，良好的沟通能力和团队合作精神。
 </details>
 
 ---
 
-#### [蚂蚁集团-质量技术工程师-企业信用](https://talent.antgroup.com/off-campus-position?positionId=25101007019984)
+#### [OceanBase-Database Solutions Architect-Digital Native-OceanBase](https://talent.antgroup.com/off-campus-position?positionId=25092106843011)
 
-📍 杭州 | ⌛ 3年
+📍 迪拜/吉隆坡 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-1. 参与软件产品的需求分析，负责测试计划和方案制定，并能预先评估质量风险；
+• As one of the core team member, work for long-term success in the whole global expansion of Oceanbase, join the whole journey from brainstorming to execution and then get the results with team together.
 
-2. 完成项目测试，包括: 用例开发、构建测试环境、集成测试、回归测试等；
 
-3. 完成线上核对防线建设，支持线上应急处理；
 
-4. 在项目中保持和项目经理、开发工程师、需求方等相关团队积极有效的沟通，驱动问题解决。
+• Be a subject matter expert on databases, particularly on Relational Databases, able to discuss with customer on database modelling, migration, performance testing and day to day operations
+
+
+
+• Have wide ranging experience with open source and commercial databases such as MySQL, PostgreSQL, Oracle & SQL Server…etc
+
+
+
+• Be familiar with major cloud service providers in using it for deployment of workloads (AWS, Alicloud, GCP, Azure…etc)
+
+
+
+• Be a technical expert on all aspects of OceanBase (compatibility assessment, deployment, administration, development, migration…etc)
+
+
+
+• Facilitate introduction, discussion and demonstration of OceanBase’s technology, vision and value proposition either via individual or group sessions with customers
+
+
+
+• Engage and discover prospects’ pain points, business/technical challenges and identify how OceanBase can add value
+
+
+
+• Run Proof of Concept projects with customers to validate OceanBase’s capabilities Support post sale OceanBase implementation with OceanBase delivery team
+
+
+
+• Maintain deep understanding of competitive as well as complementary technologies and how to position OceanBase DB in relation to them
+
+
+
+• Provide guidance on how to resolve customer-specific technical challenges
+
+
+
+• Collaborate with Product Management, Engineering, and Marketing to continuously improve OceanBase product and position in the market
+
+
+
+
 
 
 </details>
@@ -773,412 +617,862 @@
 <details>
 <summary>职位要求</summary>
 
-1. 熟悉测试用例设计，有接口测试、白盒测试经验；
+• Bachelor's degree in Engineering, Computer Science, MIS or a comparable field is preferred.
 
-2. 熟悉Linux操作系统；对软件工程和大型软件架构有较深刻的认识；
 
-3. 熟悉Java语言，了解常用的java开发框架，精通至少一种脚本语言， 如：shell、php、perl、ruby等；
 
-4. 良好的沟通技能，团队合作能力；
+• Passion and energy to strive in a dynamic, disruptive, fast pace and energetic environment.
+
+
+
+• Strong communication skills and adaptability, be able to communicate with customer independently, understand customer requirement and propose technical solution.
+
+
+
+• More than five years’ experience working with customers in a pre-sales or post-sales technical role. Ideally, 2+ years as a solution architect at an established database technology company or company with mature cloud DB offering
+
+
+
+• Database Administrator or Architect prior experience preferred
+
+
+
+• Able to write, analyse and optimize SQL, in particular MySQL and/or Oracle databases
+
+
+
+• Familiarity with mainstream database products, including Oracle, MySQL, Snowflake, MongoDB, Amazon Aurora, Google Spanner, and proficiency in at least one of them. Experience in one or more public cloud environment.
+
+
+
+• Experience working with multiple stakeholders and cross functional teams including direct and channel marketing, solution architect teams, product management and account management teams
+
+
+
+• Willingness and ability to travel for work, role covers ASEAN and beyond
+
+
+
+• Candidates should have native English proficiency. Basic Mandarin proficiency (speaking and reading) is preferred but not mandatory.
+
+
+
+• Bonus: Application development experience in major languages (e.g. Java, Python, NodeJS, .NET…etc)
+
+
+
+• Bonus: Able to speak and read Chinese
+
+
 </details>
 
 ---
 
-#### [蚂蚁集团-高级风险算法工程师-企业信用](https://talent.antgroup.com/off-campus-position?positionId=25071505727116)
-
-📍 上海/杭州 | ⌛ 4年
-
-<details>
-<summary>职位描述</summary>
-
-1. 基于业务场景抽象产品和技术逻辑，负责或参于设计算法机制从多种有业务属性的数据中挖掘企业/个体户特征，应用机器学习、深度学习、专家系统等技术实现有信用评价属性的用户分层、异常识别等场景的算法体系构建；
-
-2. 研发实现SOTA水平的用户分层模型、图模型等在企业信用用户分层场景上的落地，深入理解业务场景，设计和迭代信用定价、权益策略等核心模块；
-
-3. 构建用户信用画像量化评估体系、用户价值分析指标体系等，优化特征工程与模型迭代流程，建设动态策略调优系统；
-
-4. 探索大语言模型（LLM）在智能推荐、异常发现、特征构建、策略迭代等场景的创新应用；构建可解释性AI（XAI）体系，输出可信的用户分层决策依据；
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 熟悉金融信贷场景的业务，具备相关领域（包括但不仅限于：关系网络/知识图谱、信贷模型、用户画像等）完整的千万级规模以上的用户分层模型建设和迭代经验，掌握用户建模的方法论并深度理解金融信贷领域业务逻辑、人群画像、风险特征特征挖掘&迭代思路，具备小微企业金融风控建模经验优先；
-
-2. 熟悉工业级关系图谱构建与图算法设计，包括图表示学习、图分析算法等，在KDD、ICML等顶会发表过风控相关论文优先；
-
-3. 有良好的代码开发能力和扎实的技术理论基础，熟悉主流的用户分层方案、推荐模型、异常检测模型；了解联邦学习、强化学习、大模型等在金融信贷领域的应用。具备智能推荐、异常发现等技术驱动的功能落地经验优先；
-
-4. 具备优秀的逻辑推理能力和业务敏感度，能在高压环境下保持稳定的决策质量，擅长与业务、风控策略、数分、风控引擎开发等角色就风险场景的问题跨职能沟通
-</details>
-
----
-
-#### [蚂蚁集团-智能运营算法专家-企业信用-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25082006367252)
-
-📍 上海/杭州 | ⌛ 10年
-
-<details>
-<summary>职位描述</summary>
-
-1. 基于业务场景抽象智能营销技术逻辑，应用机器学习、专家系统、运筹学等技术构建流量运营算法体系并能产出架构和核心系统实现方案；从业务整体的用户增长留存生命周期、产品功能迭代等场景中提高画像精准度、用户体验、流量利用效率；
-
-2. 与各不同职能角色沟通、为推荐、广告业务方向和产品设计以及流量和画像等技术体系提供有价值的算法视角输入，通过专业素养、管理技巧等各种能力发挥内外部资源帮助团队和业务发现和解决问题，为最终目标负责；
-
-3. 持续学习和跟进行业前沿的推荐系统、广告系统、结合大模型的应用技术等，并探索出将其应用于实际工作中的路径，指导团队在此方向的中长期路线。鼓励并支持将研究成果沉淀到系统内并产出技术文章、专利和学术论文；
-
-4. 主导技术方案评审，建立算法研发规范与质量把控标准，承担相关方向的算法研发质量和项目管理，与团队成员分享经验和推动执行，帮助团队成长。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 具备计算广告、推荐系统、用户画像、智能营销等方向的全生命周期算法体系建设经验，能够快速实现最前沿的AI研究和想法。有负责千万级以上用户规模的智能营销算法体系经验优先；
-
-2. 具备充分的主动性、极强的表达沟通能力和项目管理能力，具备良好的营销场景专业问题发现和解决能力，能够独立分析和解决复杂的技术问题并有通过规划设计提前预防的意识，能够运用各种资源解决具体问题、拿到业务结果，有算法团队leader角色经验优先；
-
-3. 对搜广推、用户画像、智能运营、运筹等领域有深刻的理解，具备将业务场景问题抽象为算法问题并系统解决的经验，能主动发现相关场景的可改进之处并推动解决；
-
-4. 具备负责任的精神，具备优秀的逻辑推理能力和业务敏感度，能在高压环境下保持稳定的决策质量。有良好的软件工程知识、算法研发规范工作流意识。
-</details>
-
----
-
-#### [蚂蚁集团-蚂蚁技术研究院-深度学习/大模型算法研究员](https://talent.antgroup.com/off-campus-position?positionId=25030703665896)
-
-📍 北京/杭州 | ⌛ 1年
-
-<details>
-<summary>职位描述</summary>
-
-蚂蚁集团是世界顶尖互联网金融科技公司。蚂蚁集团技术研究院致力于做有用、有想象力的科研，负责探索下一代技术前沿，帮助蚂蚁构建下一代技术发动机。
-
-蚂蚁技术研究院深度学习实验，由在深度学习、大模型领域有广泛影响的学者领衔，致力于下一代高准确性、高效率AGI大模型研究和探索，实现世界级的技术创新和影响。团队成员深耕深度学习、大模型领域多年，多位成员具有上万的学术引用。
-
-实验室技术氛围浓厚，适合有探索精神和挑战精神的青年才俊。在这里，你有充分的训练资源和数据资源，有专业的讨论和指导，有和世界领先高校和实验室交互的机会。在优质的成长环境中，可以让你快速成长。
-
-
-
-职位描述：
-
-	参与下一代AGI大模型的探索和研究，包括但不限于算法创新；技术创新论文的撰写；开源对外；国际会议技术影响交流等；
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、教育背景优秀，计算机相关专业博士毕业； 
-
-2、有较好的计算机科学和算法基础，编程能力强，熟悉分布式训练框架； 
-
-3. 有大模型、深度序列模型、深度生成模型、知识图谱、深度学习框架研发等相关技术经验者优先； 
-
-4、产出需在论文、开源、比赛成绩、项目上满足1条或者多条；
-
-	a、在诸如ICML/ICLR/NIPS、ACL、CVPR/ICCV/ECCV等相关会议有相关论文发表者优先；
-
-	b、在顶会组织或者行业组织且有广泛影响的比赛KDDCup、Kaggle并取得前3好成绩者优先； 
-
-	c、有开源项目影响力或者参与过开源项目者优先；
-
-	d、有作为主力推动或者参与的有较大影响的项目结果产出；
-
-5. 在大厂有相关实习或工作经历者优先； 
-
-6. 较强的表达和沟通能力，工作认真、严谨、敬业。有强烈的责任心和自驱力。
-</details>
-
----
-
-## 阿里云
-
-#### [阿里云智能-IDC资源运营经理-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000123004&track_id=SSP1762336808759BatfKWhoUj4516)
-
-📍 杭州 | ⌛ 8年
-
-<details>
-<summary>职位描述</summary>
-
-1、项目立项和规划
-
-• 【资源运营】基于业务及规划对基础设施资源的供应、变更及退役需求，负责项目立项和规划，实现路径和保障机制设计
-
-• 负责协调项目资源，建立良好的沟通机制，推动核心干系人沟通共识，推动问题上升决策和解决
-
-
-
-2、项目全过程管理
-
-• 【资源运营】负责IT项目交付，改造，裁撤等，包括但不限于弱电布线、网络部署、服务器部署、基础设施改造等管理工作
-
-• 【服务运营】负责确定IDC全生命周期的成本基线并监控实际成本，推动专业团队精细运营达成成本目标；梳理IDC团队的业务形态，推动相关团队识别及修复影响IDC业务运营的重大风险
-
-• 负责跟进项目质量、进度、风险、成本等，有效控制风险与进度
-
-•负责管理项目交付团队和现场实施，协调内、外部团队
-
-
-
-3、项目管理体系建设
-
-• 持续总结项目实践经验，优化项目管理体系及过程改进措施，识别和确定流程、组织等方面的问题，提供流程、工具、方法等方面的支持，提升项目管理效率和质量。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-• 8年以上数据中心IT建设、改造或运维经验
-
-• 5年以上技术管理经验
-
-• 具备项目全过程管理能力，对整个项目目标、进度和质量进行有效控制。
-
-• 通过项目组合的整体交付，完成组织既定目标，实现战略达成。
-
-• 精通数据中心IT业务的全生命周期管理（例如工程建设、弱电、电气等）
-
-• 持续了解并学习行业内的新技术、新理论、新方法，并能适时应用到所属业务
-
-• 专业领域的问题终结者，具备问题总结和平台建模能力
-
-• 能组织进行项目目标制定与分解，形成项目组合规划。
-
-• 能完成项目组合的项目优先级定义、资源分配等工作，确保资源的有效利用。
-
-• 深刻理解数据中心IT业务的全链路业务逻辑，能够有效洞察业务本质。
-
-• 参与数据中心IT业务需求规划，并通过专业能力来提供价值判断和决策支撑。
-</details>
-
----
-
-#### [阿里云智能-专有云稳定性架构师-北京/杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2008963003&track_id=SSP1762336808759fPdNjWRSMU3067)
-
-📍 北京/杭州 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-1、制定稳定性度量机制，对专有云全生命周期进行稳定性管控和持续治理，推动云平台可靠性的系统性提升；
-
-2、建设全链路的风险治理体系，并通过产品能力优化和精细化运营来实现风险点的快速、持续收敛；
-
-3、推动开展稳定性治理重大专项，通过产品化方案解决重点产品和技术领域的稳定性难题；
-
-4、智算系统可靠性建设，推进智算领域稳定性标准设计和配套能力的落地；
-
-5、技术竞争力构建，紧跟竞品关键技术和方法动态，打造有行业竞争力的稳定性能力；
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、3年以上互联网/云计算行业工作经验，至少1年以上云计算的运维架构或开发经验。有大数据、数据库产品稳定性建设经验者优先；
-
-2、熟悉系统高可用和稳定性方法，如高可用设计，性能优化，降级限流等。有实战经验者优先；
-
-3、本科及以上学历，具备扎实的计算机专业基础；精通kubernetes者优先，Python/Go能力较强者优先；
-
-4、具备良好的沟通、团队协作能力，业务理解能力，有较强的问题分析和问题解决能力；有强烈的技术研究钻研热情和工作责任感，抗压能力强；
-
-5、有创新精神，热衷学习研究前沿技术，对业界新动态敏锐，并能结合到日常工作中；有标准/论文/专利发布，或业界知名论坛演讲方面经验者优先；
-
-备注：持有阿里云ACA/ACP/ACE认证证书者优先
-</details>
-
----
-
-#### [阿里云智能-高性能网络研发专家-北京/杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000183001&track_id=SSP1762336808759kNKPqKqcBW8708)
-
-📍 北京/杭州 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-参与阿里云智算网络的建设、交付和性能优化等核心工作，支撑大模型并行训练和并行推理业务的线性加速，其中主要的核心职责包括：
-
-• 负责AI训练&推理，存储&数据库等场景下高性能网络的性能分析和问题定位，以及相应工具和系统的研发；
-
-• 负责高性能网络系统中驱动&通信库、拥塞控制算法、虚拟化技术等组件的研发，以及相关组件在AI场景下的性能调优；
-
-• AI 训练集群网络架构设计与运维部署、运维和维护基于 RoCE/InfiniBand 的 RDMA 网络架构，支撑大规模 AI 训练集群（如万卡级 GPU 集群）；优化分布式 AI 工作负载（如 NCCL、MPI）的网络性能，降低通信延迟，提升吞吐效率。
-
-• 网络性能调优与问题解决：解决分布式训练中的复杂网络问题（如 NCCL/MPI 通信瓶颈、带宽利用率低等）；利用自动化工具进行网络资源分配、监控、诊断及性能分析（如延迟/吞吐量分析、端到端链路追踪）。
-
-• 自动化与 CI/CD 实践：构建网络基础设施的 CI/CD 流水线（Infrastructure as Code），实现网络配置的自动化部署与版本管理；开发自动化脚本与工具，提升网络运维效率与稳定性。
-
-• 全生命周期网络管理：管理端到端网络生命周期（部署、配置、监控、升级），确保网络服务的高可用性与可扩展性；设计并实施网络监控与告警体系，快速定位并修复潜在故障。
-
-• 跨团队协作与技术落地：与 AI/ML 工程师紧密合作，排查训练/推理流水线中的网络瓶颈，提供针对性优化方案；深度参与 AI 框架（如 TensorFlow、PyTorch）与底层网络基础设施的适配与性能调优。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-• 5年以上IT、互联网、云计算开发相关工作经验及Coding经验；2年及以上相关产品/技术的开发经验；
-
-• 对所负责的领域能够作为owner，充分理解自己团队在生产关系大图中的定位，具备较高复杂度项目的管理能力，与业务和协作团队关系，形成良好协作，及时解决职责/认知冲突类问题并驱动合理方案落地；
-
-• 熟悉技术领域相关的前沿信息渠道，定期形成相关的前沿研究文档沉淀并能在团队中进行技术分享；
-
-• 能够独立的进行模块、子系统或子领域的复杂度治理工作和跨1-2个技术栈的方案设计工作；
-
-• 具备较好的架构设计能力，对涉及多个系统，有能力产出合理的上下游全链路技术方案/架构，并结合业务预判规划好模块架构1年内的演进；
-
-• 具备从业务需求、研发、管理、测试、部署、运维全链路的流程和水位有清晰的认证和持续改进能力；
-
-• 领域能力要求：
-
-  1) 在高性能网络方向有丰富的经验，在端到端性能分析和调优方面有经验者；
-
-  2) 熟悉训练或推理框架，负载特征，NCCL，openshmem等相关软件栈优先；
-
-  3) 熟悉Mellanox网卡工作原理、配置和性能调优者优先；
-
-  4) 熟悉RDMA协议细节，有RDMA网卡驱动或高性能网络协议开发经验者优先；
-
-  5) 有开源社区贡献经验（如 RDMA/OFED 栈、NCCL、MPI 等）；
-
-  6) 熟悉云原生技术（Kubernetes、CNI、Service Mesh）及容器化部署实践。
-</details>
-
----
-
-#### [阿里云智能-技术服务专家-大模型/AI应用方向-政企行业-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2000084502&track_id=SSP1762336808759ecnUyNUCZo2353)
+#### [蚂蚁集团-AI IDE研发专家-杭州-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25071705769373)
 
 📍 杭州 | ⌛ 2年
 
 <details>
 <summary>职位描述</summary>
 
-1、对政企客户的项目交付中对需求痛点/项目需求进行识别，根据大模型的能力设计解决方案，并根据具体场景对算法进行实现和调优，包括数据收集与整理、模型训练、参数调优、评测等；
+1、负责蚂蚁集团研发效能相关平台型产品的架构和开发，推动业务和技术的融合发展；
 
-2、参与政企方向智算项目履约工作，包括智能体设计、搭建以及调优、工作流建设，解决客户/项目中的实际痛点问题，探索基于大模型技术的服务新形态；
+2、打造行业领先的 AI IDE，包括不限于Agent代码生成，智能改写、下一次补全预测、Inline Chat、Instant Apply、多文件改写、AI Lint、智能终端；
 
-3、负责为公司商业化输出的大模型产品提供技术支持，解决客户在使用过程中遇到的问题，确保云服务产品的稳定运行，保障项目的交付、运维、技术运营和平台应急；
+3、负责 AI IDE 相关重点业务场景支撑，负责场景的高质量交付以及体验优化；
 
-4、收集和整理客户的反馈意见，为产品的改进和升级提供依据，不断优化大模型的性能和用户体验； 
+4、负责 AI IDE 技术专项攻克，包括性能问题、架构难题及用户体验问题；
 
-5、保持技术前瞻性，关注AI学术界和工业界的新动态，应用及探索前沿技术，确保技术方案在实际场景中的有效性。 
-
-
+我们期待你的加入，一起打造业界领先的研发效能产品和技术
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、计算机科学、机器学习、人工智能、自然语言处理或相关专业，2年以上相关算法经验；
+1、编程基础扎实，熟悉 TypeScript/Node.js 以及任意一门服务端编程语言（Java/Go/Python），具有大型富交互应用的开发经验和 Web 应用开发经验；
 
-2、扎实的算法基础，熟悉Transformer/BERT/GPT等基础模型结构，熟悉大模型的训练、微调和评测；
+2、熟悉 MySQL 等常用数据库；
 
-3、深入理解LLM技术栈（LangChain/LlamaIndex/MCP等），有Agent系统设计与优化经验
+3、对AI代码生成领域有深刻的了解，深度使用主流的AI编码工具，了解AI代码生成的实现原理；
 
-4、熟练掌握至少一种深度学习框架，如PyTorch、TensorFlow等；
+4、对新鲜事物怀有好奇，具备对领域前沿技术的探索能力，并乐于分享；
 
-5、熟悉掌握Python，具备良好的编码习惯和编程能力；
+5、具有良好的沟通，团队协作、计划和创新的能力；
 
-6、具备较强的自驱力，具有良好的沟通能力和跨团队协作能力，对应用AI解决问题充满激情。
+6、熟悉 VS Code / Eclipse Theia / Intellij IDEA 源码，或有 LSP / DAP  等相关插件开发经验者优先；
 
-7、【加分项】有AI相关的顶会顶刊发表经验者优先；有云平台运维、交付和服务经验优先；持有阿里云ACA/ACP/ACE认证证书者优先。
+7、具备全栈开发工作经验者优先；
 </details>
 
 ---
 
-#### [阿里云智能-大模型技术服务专家-政企行业- 北京/深圳/杭州/广州](https://careers.aliyun.com/off-campus/position-detail?positionId=2000094511&track_id=SSP1762336808759upDBHQkWLs7883)
+#### [蚂蚁集团-大模型应用研发工程师-杭州【平台工程】](https://talent.antgroup.com/off-campus-position?positionId=25042104429650)
 
-📍 北京/深圳/杭州/广州 | ⌛ 5年
+📍 杭州 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-1、负责政企客户的大模型需求收集、分析，设计服务解决方案，通过SOP的把控，端到端的把控项目风险和履约落地。
+1. 负责AI创作平台的开发，具体包括工作流，插件，模型微调训练和评测等
 
-2、负责政企客户的大模型项目专家技术支持，包括但不限于模型调优、Prompt工程、工作流、RAG、AI agent。
+2. 负责为AI Native应用的创作提升效率和效果
 
-3、负责阿里云 AIStudio、AIWorks等平台的企业级客户的专家服务，持续推动客户做好标准化大模型迁云、云上优化，并根据现场问题持续反馈推进产品改进。
-
-4、深入大模型和客户业务的结合，沉淀孵化大模型服务解决方案，制定服务差异化竞争策略，助力客户在大模型应用上取得成功。
+3. 负责平台服务的架构和稳定性
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、数学、计算机专业，本科及以上学历。
+1. 精通 Python/Java、Git、Docker、Linux，有 Web 应用开发经验。
 
-2、精通Python，熟练主流深度学习框架，如TensorFlow、PyTorch。 
+2. 能够针对过往项目经验的方案、技术选型进行清晰、有逻辑的阐述。
 
-3、熟悉Transformer/BERT/GPT等基础模型结构，熟悉大模型的训练、微调和评测。
+3. 对 AI 领域有深厚的经验或兴趣，持续关注 Generative AI 相关发展，对 LLM 相关技术有一定的了解。
 
-4、熟悉常用的Adam、SGD等优化算法，熟悉剪枝、量化等模型压缩技术，熟悉蒸馏、混合精度训练等模型加速技术。
-
-5、有大型的大模型应用落地经验，在语料生成、模型微调、Prompt工程优化、模型评测等领域有具体实践经验。
-
-6、良好的沟通交流以及服务能力，具备需求分析以及项目风险控制能力；具备运维风险意识，能够负责客户界面的整体沟通。
-
-7、熟悉阿里云AI大模型产品如PAI或百炼，持有阿里云大模型ACP认证证书者优先。
+4. 具有良好的团队合作精神和沟通能力，拥有较强的学习能力和积极的探索精神。
 </details>
 
 ---
 
-#### [阿里云智能-技术服务专家-政企行业-北京](https://careers.aliyun.com/off-campus/position-detail?positionId=2009023001&track_id=SSP1762336808759PiKcrVEsHJ9280)
+#### [蚂蚁集团-测试开发专家-杭州-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25062705453206)
 
-📍 北京 | ⌛ 5年
+📍 杭州 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-1. 作为阿里云智能在客户侧的服务界面，全流程深入了解大型企业业务场景，与企业的 IT、应用架 构、人员合作，针对客户现有 IT 架构进行梳理与分析，协助并提供 IT 整体架构战略规划的咨询，协同 售前架构师所提供的设计方案的落地、实施和交付工作。
+1、按照产品架构和业务要求,全面把握产品的功能及非功能需求，设计针对客户端APP&SDK的质量保障和测试策略
 
-2. 基于阿里云的产品线、技术体系，帮助企业级客户制定 IT 架构和业务流程，包括定制的最佳实践、 异常处理机制和问题应急预案等。帮助客户深度理解云服务，并持续帮助客户提升技术能力。
+2、参与产品系统架构建设和规划，进行端&端边云链路的风险评估，解决设计的可测性及保障系统的稳定性；
 
-3. 推动阿里云智能产品不断优化，解决客户使用云计算服务和解决方案过程中的技术问题，不断完善 问题处理机制和流程，与阿里云服务专家、产品专家直接合作，确保企业技术问题高效地解决。 
+3、解决测试过程中的复杂技术问题，能够发现工作中的效率提升点,进行测试工具、测试技术、测试平台、产品研发测试过程等方面的创新，提升测试效率；
+
+4、测试领域新技术、方法的研究、应用与推广, 提升行业影响力；如：结合大模型能力重点解决端SDK的可测性和稳定性提升等专有问题；
+
+5、能结合行业发展趋势，制定合适的质量技术发展规划，促进团队质量保障效率和团队技能的提升，指引团队测试技术的发展方向。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 3年以上行业大型云计算解决、架构设计、维护、优化经验；
+1、三年以上互联网及传统行业开发测试和质量保障经验，熟悉大型复杂软件的研发流程；
 
-2. 3年以上的大型项目管理和团队管理经验，善于推动跨部门复杂项目的实施和较强的拿结果能力；
+2、具备客户端/无线APP&SDK的开发/测试经验 ，熟练掌握客户端测试能力；具备对应的专项治理经验，能独立开发工具/平台，解决终端专有问题，如：崩溃治理、兼容性测试等等；优秀的代码实现能力，熟悉JAVA, Python，C++等编程语言之一；
 
-3. 有责任心，能在日常服务过程中很好实践客户第一，并成就客户；
+3、有端到服务端全流程测试保障经验优先；有开发Demo APP 实践经验优先；
 
-4. 具有优秀的沟通技巧、团队合作经验、敬业精神和学习能力；
+4、有较强的分析设计能力，测试框架研发和方案整合能力；熟悉客户端/无线APP&SDK兼容性测试、性能测试、自动化测试、及白盒测试领域之一；
 
-5、具有优秀的文档写作能力、演讲技巧、和技术培训能力 ；
-
-6、具有较强的抗压能力和执行力，并能接受一定频率的出差。
-
-
-
-技术方面满足以下一个或者多个条件:
-
-1. 熟悉 Oracle、DB2、SQL Server、MySQL、Postgresql、NoSQL 等数据管理技术中的一种或多种，有 实际的生产系统应用经验，能够独立完成相关产品的部署、排错、性能调优等工作。
-
-2. 熟悉 Nginx、JBoss、WebLogic、WebSphere、Dubbo 等中间件产品中的一项或多项 。
-
-3. 熟悉 Java/C/C++/Python/PHP/GO 中至少一种开发语言，及其相应开发框架下的服务端多线程、高并 发处理机制。
-
-4. 熟悉 Windows、Linux 操作系统和 DNS、AD 等，具有 5 年以上的系统管理/网络/故障排除经验。
-
-5. 熟悉 Hadoop/Spark/Storm/HBase/Hive 等开源或商用技术，有实际的大数据商业应用开发经验。
-
-6. 有基于 K8S 的应用容器平台设计、业务改造等实践经验。
-
-
-
-加分项:
-
-1. 有阿里云技术认证 ACA(阿里云认证助理工程师)、ACP(阿里云认证工程师)、ACE(阿里云认证 高级工程师)者优先；
-
-2. 有基于阿里云产品的大规模应用开发或运维经验；
-
-3. 英语可以作为工作语言。
+5、逻辑能力强、思维活跃，接受新事物能力强； 责任心强，积极主动，善于沟通，良好的团队合作能力；
 </details>
 
 ---
 
-#### [阿里云智能-技术服务专家-政企行业CRE-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2009043001&track_id=SSP1762336808759yGRkaTHcfl1742)
+#### [蚂蚁集团-SRE专家-国内【平台工程】](https://talent.antgroup.com/off-campus-position?positionId=25011303040782)
+
+📍 上海/杭州 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+1. 面向业务构建连续性策略，为集团内部及外部客户提供行业绝对领先的可靠性技术服务。围绕业务持续安全、可用目标，构建多端智能预警、根因定位、动线分析、资金安全保障、自愈、降级、限流、智能运维能力，协同&推动全局架构演进，进行前瞻性的设计与规划，为全集团业务持续稳定运行负责；
+
+2. 面向全站基础架构，构建站点容灾、建站、弹性等全局技术架构，保障各站点稳定运行，提升业务可用率；
+
+3. 识别业务发展过程中的效能&成本问题，结合AI与智能化技术，进行工程效率提升，降低流量成本与算力成本，改进工程交付效率与质量；
+
+4. 围绕各业务大促活动，提供高性能、高可用、资金安全的常态活动保障方案，构建灵活弹性的容量调度策略，为各头部电商平台提供峰值秒杀技术能力与容量服务；
+
+
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 知名互联网企业专注系统稳定性工作三年以上，或从事系统架构师/资深研发工程师五年以上，java研发功底扎实，有大规模在线服务系统架构设计和稳定性保障经验，对如何做好系统稳定性保障有全面深入的理解；
+
+2、喜欢做系统连续性、稳定性相关工作，乐于解决技术难题，愿意在技术风险领域长期发展；
+
+3、能够跟随技术趋势，持续探索新方法新思路，全力以赴拿结果；
+</details>
+
+---
+
+#### [蚂蚁集团-AI业务高可用工程师-杭州-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25021003278443)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1、 负责蚂蚁AI领域的稳定性工作，包括各类模型和引擎的基础稳定性能力建设，应急运维等工作；
+
+2、 负责蚂蚁Tab3、搜索、推荐等业务的底层引擎的稳定性保障工作，包括slo的定制、跟踪、action改进等；
+
+3、 负责组内高可用架构工作，进行业务稳定性和平台的中长期规划，主导技术难题攻关，持续提升系统在大规模分布式系统环境下高并发，保证系统的安全、稳定、快速运行；
+
+4、 负责组内AI场景（短视频、搜推广、大模型业务）的稳定性平台和组件建设，包括运维平台、应急工具、提效能力等方向，通过技术手段解决稳定性问题；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、三年以上Java研发经验，扎实的Java编程基础，精通io、多线程、集合等基础框架，精通Java EE、SOA、OSGI等相关技术；
+
+2、熟悉K8S开发，并具备一定的云原生运维经验，能处理常规的云原生应用问题，如扩缩容、故障应急等工作；
+
+3、具备大型分布式系统开发及架构经验，熟悉缓存、消息、服务治理、容灾、分布式一致性等机制；
+
+4、具备良好的识别和设计通用框架及模块的能力，熟悉UML；
+
+5、较强的表达和沟通能力，工作认真、严谨、敬业，对系统质量有近乎苛刻的要求意识。有很强的分析问题和解决问题的能力，有强烈的责任心。
+
+6、具有稳定性、高可用方向建设经验，或大模型领域工作经验可优先考虑。
+</details>
+
+---
+
+#### [蚂蚁集团-大模型Agent算法应用工程师（就业）-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=25103107381403)
+
+📍 上海/杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1、设计与落地多轮多步数据合成流程（对话、计划、工具调用轨迹、偏好反馈等），构建高质量指令与偏好数据集。
+
+2、组织 SFT + RL（如 DPO、RM+PPO/GRPO、RLHF/RLAIF）训练与离线评估，形成可复用训练/评测基座。
+
+3、构建/优化 Agent 的 planning（planner、task decomposition、反思/复盘）与工具使用策略（tool selection、参数填充、错误恢复等）。
+
+4、设计 memory 体系（短期/长期/检索记忆、用户画像）与个性化能力（偏好建模、上下文压缩、隐私保护）。
+
+5、与产品/业务协同，将Agent能力在实际场景中落地并持续优化性能、成本与延迟。
+
+
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+必备
+
+1、计算机/人工智能/相关专业，本科及以上，能独立完成训练到上线的工程闭环。
+
+2、熟悉大模型与Agent技术栈：ReAct、AutoGPT/Adept式框架、LangChain/LangGraph、LlamaIndex 或同类；有 MCP 或函数调用/工具协议经验优先。
+
+3、精通至少两项： 
+
+  a. 深度强化学习或偏好对齐：PPO/GRPO、DPO、RM训练、离线RL/IL；
+
+  b. 多轮多步数据合成：自博弈、合成器编排、对抗与去噪、质量评审；
+
+  c. 复杂决策建模：MDP/POMDP、分层/选址规划、树搜索；
+
+  d. Planning/Tool-Use：任务分解、计划-执行-反思循环、错误恢复与重试策略。
+
+4、有评测与观测经验：构建agentarena/自动评测集、回放与指标面板（成功率、调用成本、延迟、失败类型）。
+
+
+
+加分项
+
+1、在金融、运营、客服、搜索与问答、数据分析等场景有Agent落地或线上规模化经验。
+
+2、熟悉多智能体强化学习（MARL）或工具检索/策略学习（bandit、神经搜索、神经符号方法）。
+
+3、有记忆系统设计经验：RAG/向量库、事件图谱、会话长期偏好建模与隐私合规。
+
+4、发表过顶会论文/开源过相关框架/评测集；或主导过≥10B参数模型或大规模对齐项目。
+</details>
+
+---
+
+#### [蚂蚁集团-Java开发工程师（就业）-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=25110507449637)
+
+📍 上海/杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 深入发掘和分析业务需求，撰写技术方案和系统设计；
+
+2. 参与技术方案和系统设计评审；把握复杂系统的设计，确保系统的架构质量；
+
+3. 负责就业项目、AI智能体开发、系统核心部分代码编写；疑难问题的解决；
+
+4. 对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件；
+
+5. 为团队引入创新的技术、创新的解决方案，用创新的思路解决问题；
+
+6. 对业务数据深度挖掘，数据驱动业务增长；
+
+
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. Java基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；熟悉面向对象设计开发;
+
+2. 三年以上使用JAVA开发的经验，对于你用过的开源框架及中间件，能了解到它的原理和机制；
+
+3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息、搜索\推荐等机制；能对分布式常用技术进行合理应用，解决问题；
+
+4. 有较强的分析设计能力及平台开发整合能力；
+
+5. 良好的沟通技能，团队合作能力，勤奋好学；
+
+6. 我们希望你对互联网或J2EE应用开发的最新潮流有关注，喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；
+
+7. 如果你觉得和以上要求不符，但你对这个岗位很感兴趣，并且确认你以往的其他经历或经验能给团队带来自己独特的价值，那么也欢迎投递简历；
+</details>
+
+---
+
+#### [蚂蚁集团-客户端研发工程师（就业）-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=25110607472976)
+
+📍 北京/杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+支付宝 App  移动端（Android/iOS/HarmonyOS ）开发工作，独立完成功能模块的设计、开发以及单元测试。
+
+1、负责 App 相关功能的研发迭代、业务需求的实现。
+
+2、 负责相关技术架构的演进、指标优化、基础能力建设。
+
+3、对产品进行持续优化和改进，对 App 性能、稳定性、工程方面持续优化提升。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+希望人选具备完整客户端的开发实践经历，具备出色的调试技能及疑难问题分析解决能力。
+
+1、3 年以上 Android/iOS/HarmonyOS 移动端研发发经验，有独立设计开发 Android/iOS/HarmonyOS 移动端架构经验。
+
+2、开发基础良好，理解设计模式，在项目或产品中有很好的设计实践，能独立完成设计和编码。
+
+3、可以应对 OOM、ANR、native crash 等各种复杂问题，并迅速给出解决方案。
+
+4、 熟悉框架及各种特性，熟练各种 UI 组件并了解其内部原理，了解基本的交互知识。
+
+5、能熟练使用调试、性能分析工具来调试和优化代码。
+
+6、有 React Native、Weex、Flutter 等跨平台开发经验者优先。
+
+7、有大型商业软件开发经验、开源作品优先。
+</details>
+
+---
+
+#### [蚂蚁集团-算法工程师-NLP/多模态-1024热招](https://talent.antgroup.com/off-campus-position?positionId=25072905964413)
+
+📍 杭州 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+团队介绍
+
+蚂蚁集团CRO线全面风险管理部，致力于搭建适配整个集团各业务板块发展的敏捷、有效的全面风险管理体系。从集团层面提升并完善公司的风险治理体系框架，以科技驱动搭建集团智能化风险能力和内控管理能力，为公司管理团队提供全面风险视角下的决策支持，助力业务可持续健康发展。
+
+
+
+1、深入理解业务及AI风险，设计研发智能化风险感知算法能力；
+
+2、负责公司战略级业务蚂蚁医疗健康大模型的风险管理；
+
+3、积极探索大模型等前沿技术在风险管理场景应用落地。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机相关专业；
+
+2、5年以上机器学习、自然语言处理等相关工作经验；
+
+3、良好的数据挖掘分析/机器学习理论和实现能力，熟悉Tensorflow/Pytorch等机器学习算法框架；
+
+4、具备高效的跨多团队合作能力，创新有激情；
+
+5、具备大模型等前沿技术的实战经验优先；
+
+6、具备医疗行业算法实战经验优先。
+</details>
+
+---
+
+#### [蚂蚁集团-数据工程师（增长业务）-支付宝技术](https://talent.antgroup.com/off-campus-position?positionId=24121302752322)
+
+📍 上海/杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+方向一：
+
+1. 负责支付宝行业运营平台内流量投放、增长相关的数据服务，包括：数据仓库（离线、实时）设计和研发、数据赋能业务的方案设计和推进运营场景需要的数据诉求；
+
+2. 研究支付宝亿级用户的相关行为及数据，并基于分类、标注、聚类等机器学习手段，挖掘不同业务场景的业务标签；
+
+3. 负责相关域的数据架构治理，包括集群管理、数仓架构管理、需求流程管理等。
+
+方向二：
+
+负责支付宝用户业务数据体系和增长解决方案建设，通过数据技术和数据科学手段为业务决策及策略落地提供支持，助力业务增长。
+
+1、负责支C侧业务核心数据体系的设计，基于业务理解业务洞察指标体系，及时发现业务问题和机会，并沉淀数据资产和数据产品；
+
+2、深入理解业务的战略和策略打法，敏锐洞察业务痛点，利用数据技术和数据科学手段为业务决策、产品方向、增长策略提供业务建议和方案；
+
+3、协同技术和算法团队打造可持续数据解决方案，通过效果和效率的提升助力业务增长，推动业务模式和产品不断创新。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+方向一：
+
+1. 从事数据仓库或挖掘领域至少1年以上，熟悉数据仓库模型设计与ETL开发经验 ，掌握维度建模设计方法，具备海量数据处理经验；
+
+2. 熟悉数据仓库领域知识和技能者优先，包括但不局限于：元数据管理、数据开发测试工具与方法、数据质量、主数据管理；
+
+3. 熟悉数据库技术，熟练运用SQL及其他語言，能高效的与技术团队进行沟通；
+
+4. 熟练掌握一门或多门编程语言，并有大型项目建设经验者优先，如Java、Python、Shell；
+
+5. 良好的语言沟通与表达能力，自我驱动。
+
+方向二：
+
+1、统计学、数学、机器学习、计算机科学、运筹学等相关专业学历，3年以上工作经验，具有丰富的数据建模实践经验；
+
+2、了解或有数仓研发经验，熟悉SQL执行原理，可以快速的提供成本/时效/合规/架构最优的数仓建设解决方案；
+
+3、对数据敏感，能从数据中发现问题、解决问题、熟悉数据科学基本方法（如因果推断、归因等），有互联网用户增长相关项目经验优先；
+
+4、热爱数据科学和数据技术，良好的思维逻辑性和语言表达能力，能自我驱动，有强烈的求知欲与进取心，有团队合作精神，敢于挑战，能在压力下成长。
+
+
+
+
+</details>
+
+---
+
+## 阿里云
+
+#### [诚云科技-Java高级开发工程师-飞天实验室](https://careers.aliyun.com/off-campus/position-detail?positionId=100000463001&track_id=SSP1762423212586IpZEWxyjAy7082)
+
+📍 北京/杭州 | ⌛ 2年
+
+<details>
+<summary>职位描述</summary>
+
+主要负责百炼管控层的设计开发工作，包括：
+
+1、负责百炼数据层能力的设计和开发工作，包括多种异构数据（结构化/半结构化/非结构化、多模态等）接入和加工处理、安全管控等，为模型层和Agent层提供安全、合规、高效的数据获取和加工能力；
+
+2、设计实现用户数据到百炼模型服务（调优、评测等）、Agent（RAG、Workflow、轻应用等）等场景的供给方案；
+
+3、设计实现各类文档数据解析及处理方案；
+
+4、设计实现通用数据加工方案，及各类数据处理算子能力；
+
+5、其他百炼相关功能模块的设计开发；
+
+6、面向用户的企业级API接口设计及实现。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 熟练掌握Linux环境下Java语言；
+
+2. 本科及以上学历，具备扎实的计算机科学功底和编程能力，具有良好的编程习惯；
+
+3. 具备独立模块需求分析、架构设计和编码能力，有高并发后端系统的设计开发经验的优先；
+
+4. 有数据仓库、大数据处理、数据中台或数据湖之一的开发经验者优先；
+
+5. 熟悉大模型的基本原理、有Agent开发经验者优先；
+
+6. 有强烈的工作责任心、良好的学习能力、沟通能力、自驱力。
+</details>
+
+---
+
+#### [阿里云智能-交付项目管理专家-公共云业务-深圳/广州/北京/上海/杭州/成都/贵阳](https://careers.aliyun.com/off-campus/position-detail?positionId=100000483001&track_id=SSP1762423212586uwkHPEVvsu1212)
+
+📍 成都/北京/贵阳/深圳/杭州/广州/上海 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+- 负责公共云迁云搬栈、大模型、专有云等项目管理及客户交付服务工作。
+
+- 以客户成功为目标，带领项目团队完成项目交付履约，围绕客户上云、用云的整个业务生命周期，提供高质量的交付管理服务。确保项目按合同履约，提升客户满意度。
+
+- 具备项目经营管理及商机识别能力，促进二次商机及增购续费，打造可持续发展的高质量业务增长模式。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、大学本科以上学历，5年以上工作经验；
+
+2、熟悉大型互联网/IT类项目管理，并且具备丰富的项目管理经验，能同时管理多个复杂项目，能设置项目关键里程碑、能进行项目成本规划和管理、能提前预判和识别项目关键风险并进行有效应对、能应对客户各类需求并跨团队协调资源，保障项目按合同高质量履约，并确保客户满意度；
+
+3、具备良好的技术背景，熟悉云计算及大模型相关产品及组件，能够为客户提供基础的云产品、大模型相关培训，能够对产品提出改进意见，提高客户用云的体验；
+
+4、能够有效管理客户的预期，确保项目不会过度承诺导致超出项目团队的交付范围和交付能力，在项目交付过程中能有效维护客户关系，并能达成最终客户满意度；
+
+5、具备较强的商机洞察能力，能够在项目交付过程中，发现有效商机，并推动相关的资源提供有竞争力的解决方案，促成商机达成。
+
+
+
+具备以下条件优先：
+
+1、有阿里云ACP、ACE等认证；
+
+2、有技术开发背景，熟悉一种以上开发语言，熟练使用阿里云相关产品搭建开发及生产环境；
+
+3、有PMP或信息系统项目管理师证书；
+</details>
+
+---
+
+#### [阿里云智能-技术服务专家TAM-出海业务-北京/上海/杭州/南京/深圳/广州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000443001&track_id=SSP1762423212586qeCHPYqpRZ6084)
+
+📍 北京/深圳/杭州/南京/上海 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 作为出海客户企业客户技术服务工作的第一责任人，深入了解客户业务场景，与客户的架构、开发、运维团队深入合作，梳理分析客户现有云产品及应用架构，围绕企业客户上云、云上业务设计稳定性优化方案，从云上监控，主动发现，灾难演练，业务快恢/降级方案，高可用架构改造等方面协助客户持续优化云上稳定性。
+
+2. 与阿里云各团队充分合作，从客户架构视角出发进行问题处置、护航保障、风险治理，并沉淀输出最佳实践及工具产品，面向客户痛点主动进行专项高阶服务。
+
+3. 追踪客户关键稳定性问题，持续协助客户治理并不断推动阿里云产品及服务的优化改进。
+
+4. 协助云上企业客户进行架构改造落地，并持续迭代降低使用成本，提升性能及业务连续性。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 3年以上制造、健康、零售等行业大型互联网应用或集团型企业应用的解决方案、架构设计、监控方案、Devops、AIops、维护、高可用改造方案经验。
+
+2. 熟悉至少一个技术领域如：数据库，网络，OS，serverless，存储，音视频，大数据，大模型，Al等。
+
+3. 熟悉云计算产品与技术原理，并有实操使用经验，有阿里云公共云产品相关使用运维经验优先。
+
+4. 熟悉云原生的系统架构设计方法，有应用与数据迁移改造方案设计实施经验优先。
+
+5. 具有优秀的沟通技巧、团队合作经验、敬业精神和学习能力。
+
+6. 具有较强的抗压能力和执行力。
+
+
+
+加分项：
+
+1.有阿里云技术认证ACA（阿里云认证助理工程师）、ACP（阿里云认证工程师）、ACE（阿里云认证高级工程师）者优先。
+
+2.有基于阿里云产品的大规模应用开发或运维经验。
+
+3.有生产环境Al或大模型实施经验。
+</details>
+
+---
+
+#### [阿里云智能-国际化安全合规架构师-深圳](https://careers.aliyun.com/off-campus/position-detail?positionId=2006943003&track_id=SSP1762423212586wGCEWDKwbG4434)
+
+📍 深圳 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+阿里云专有云是面向政企行业客户的全栈云平台，为企业级客户（政府、金融、部委、央企等行业）提供专有云的产品和服务。
+
+该岗位主要负责专有云平台的安全技术架构，
+
+重点面向海外输出场景确保专有云平台在满足客户业务需求的同时满足客户安全合规和数据保密要求，
+
+同时规划设计有竞争力的安全产品和解决方案。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、5年以上云平台安全工作经验，深入了解云平台整体安全框架，熟悉云原生安全、计算、网络、虚拟化等相关技术；
+
+2、熟悉行业法律法规/标准，以及业界最佳实践，具备传统应用上云安全合规应审及方案设计经验；
+
+3、有大型互联网、运营商、金融行业内部安全保障工作经验，有安全攻防及事件监测应急响应经验优先；
+
+4、熟悉密码应用相关规范和密码相关知识，有云平台密码应用和国密改造相关经验优先；
+
+5、熟悉安全零信安全任体系，具有网络微隔离、SDP安全接入实施经验者优先；
+
+6、具有海外（含香港、澳门地区）工作经历者优先；
+
+7、熟悉云安全技术发展趋势，沟通能力强，能够提出创新方法助力业务发展。
+
+备注：持有阿里云ACA/ACP/ACE认证证书者优先
+</details>
+
+---
+
+#### [阿里云智能-容器ACS算力管控技术专家-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000263001&track_id=SSP1762423212586rztrVgWCxs4635)
+
+📍 杭州 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责阿里云Serverless容器产品的功能设计与迭代；
+
+2. 负责容器管控系统的架构设计、性能优化与高可用保障；
+
+3. 负责容器前沿技术的预研与技术难点攻关，为阿里云容器产品提供极具竞争力的弹性能力与系统稳定性。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 精通Java/Golang语言以及相关技术生态（5年以上开发经验），熟练掌握Java或Golang性能调优和高并发编程，具备良好的编码习惯；
+
+2. 具备大规模分布式系统的设计、研发与运维经验，熟悉分布式系统中间件和RPC框架的实现原理并熟练使用；
+
+3. 了解云计算领域IaaS、PaaS产品的设计与实现，对云产品API设计、微服务架构有深入的理解者优先；
+
+4. 熟悉大模型时序预测、机器学习分类算法者优先；
+
+5. 乐观、有韧性、具备持续学习的能力与强烈的主人翁意识；
+
+6. 熟练使用AI工具和平台，有提升开发效率、优化代码质量、加速问题排查与产品迭代经验者优先。
+</details>
+
+---
+
+#### [阿里云智能-前端技术专家-智能体验工程-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000403001&track_id=SSP1762423212586ZkHUxPhgmc2774)
+
+📍 杭州 | ⌛ 5年
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责 aliyun.com 对客产品的前端开发工作，包括网站、售卖、交易、用户、账号、费用等
+
+2. 负责阿里云运营支持体系的前端开发工作，包括产品商品管理、销售管理、客户、供需管理等
+
+3. 参与团队基础技术建设，提升业务质量及效能，并将技术能力沉淀输出
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 本科及以上学历，计算机相关专业优先
+
+2. 前端技术扎实，技术钻研能力强，对新事物和技术热情高，熟悉主流研发思想
+
+3. 在工程领域，如前端框架（React，Vue）、全栈、移动、中后台等领域有一项或多项深入研究和实践
+
+4. 执行力强，有良好的分析总结能力。能深入理解产品和业务，有效识别问题，找到并落地有效的解决方案
+
+5. 具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力
+</details>
+
+---
+
+#### [阿里云智能-技术服务专家TAM-公共云业务-深圳/广州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000383001&track_id=SSP1762423212586YZEzymZxKv6392)
+
+📍 深圳/广州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 作为企业客户技术服务工作的第一责任人，深入了解客户业务场景，与客户的架构、开发、运维团队深入合作，梳理分析客户现有云产品及应用架构，围绕企业客户上云、云上业务设计稳定性优化方案，从云上监控，主动发现，灾难演练，业务快恢/降级方案，高可用架构改造等方面协助客户持续优化云上稳定性。
+
+2. 与阿里云各团队充分合作，从客户架构视角出发进行问题处置、护航保障、风险治理，并沉淀输出最佳实践及工具产品，面向客户痛点主动进行专项高阶服务。
+
+3. 追踪客户关键稳定性问题，持续协助客户治理并不断推动阿里云产品及服务的优化改进。
+
+4.协助云上企业客户进行架构改造落地，并持续迭代降低使用成本，提升性能及业务连续性。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 3年以上制造、健康、零售等行业大型互联网应用或集团型企业应用的解决方案、架构设计、监控方案、Devops、AIops、维护、高可用改造方案经验。
+
+2. 熟悉至少一个技术领域如：数据库，网络，OS，serverless，存储，音视频，大数据，大模型，Al等。
+
+3. 熟悉云计算产品与技术原理，并有实操使用经验，有阿里云公共云产品相关使用运维经验优先。
+
+4. 熟悉云原生的系统架构设计方法，有应用与数据迁移改造方案设计实施经验优先。
+
+5. 具有优秀的沟通技巧、团队合作经验、敬业精神和学习能力。
+
+6. 具有较强的抗压能力和执行力。
+
+
+
+加分项：
+
+1.有阿里云技术认证ACA（阿里云认证助理工程师）、ACP（阿里云认证工程师）、ACE（阿里云认证高级工程师）者优先。
+
+2.有基于阿里云产品的大规模应用开发或运维经验。
+
+3.有生产环境Al或大模型实施经验。
+</details>
+
+---
+
+#### [阿里云智能-技术服务专家TAM-公共云业务-北京](https://careers.aliyun.com/off-campus/position-detail?positionId=100000363001&track_id=SSP1762423212586wJjQdOfklk3744)
+
+📍 北京 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 作为企业客户技术服务工作的第一责任人，深入了解客户业务场景，与客户的架构、开发、运维团队深入合作，梳理分析客户现有云产品及应用架构，围绕企业客户上云、云上业务设计稳定性优化方案，从云上监控，主动发现，灾难演练，业务快恢/降级方案，高可用架构改造等方面协助客户持续优化云上稳定性。
+
+2. 与阿里云各团队充分合作，从客户架构视角出发进行问题处置、护航保障、风险治理，并沉淀输出最佳实践及工具产品，面向客户痛点主动进行专项高阶服务。
+
+3. 追踪客户关键稳定性问题，持续协助客户治理并不断推动阿里云产品及服务的优化改进。
+
+4.协助云上企业客户进行架构改造落地，并持续迭代降低使用成本，提升性能及业务连续性。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 3年以上制造、健康、零售等行业大型互联网应用或集团型企业应用的解决方案、架构设计、监控方案、Devops、AIops、维护、高可用改造方案经验。
+
+2. 熟悉至少一个技术领域如：数据库，网络，OS，serverless，存储，音视频，大数据，大模型，Al等。
+
+3. 熟悉云计算产品与技术原理，并有实操使用经验，有阿里云公共云产品相关使用运维经验优先。
+
+4. 熟悉云原生的系统架构设计方法，有应用与数据迁移改造方案设计实施经验优先。
+
+5. 具有优秀的沟通技巧、团队合作经验、敬业精神和学习能力。
+
+6. 具有较强的抗压能力和执行力。
+
+
+
+加分项：
+
+1.有阿里云技术认证ACA（阿里云认证助理工程师）、ACP（阿里云认证工程师）、ACE（阿里云认证高级工程师）者优先。
+
+2.有基于阿里云产品的大规模应用开发或运维经验。
+
+3.有生产环境Al或大模型实施经验。
+</details>
+
+---
+
+#### [阿里云智能-资深JAVA研发工程师-交易计费平台-杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=100000343001&track_id=SSP1762423212586jgYDgAJZHB2992)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+技术方案设计
+
+• 收集、识别、分析客户需求，并确定技术方案的目标、范围和交付成果
+
+• 基于需求分析，进行技术可行性分析和方案评审，选择合适的技术选型、技术架构、数据架构和开发流程
+
+技术实现
+
+• 基于技术方案的拆解，按照任务目标和产出规范，完成任务/子任务的设计、编码开发和系统功能实现
+
+• 对编码进行阶段性的讨论和CodeReview，并通过调试优化，推动代码成功部署
+
+• 对开发中和部署后的程序进行必要的维护和迭代，包括值班oncall、升级工单处置、bug排查、问题诊断、产品体验改善、性能和成本优化等
+
+基础服务开发
+
+• 洞察和抽象团队内的共性技术需求并形成基础服务技术方案
+
+• 通过技术框架、技术领域SDK、web组件库、技术知识库等可复用能力的建设，不断提升团队研发效率和质量
+
+技术洞察与研究
+
+• 通过行业会议、技术媒体、学术研究、友商交流等方式，收集领域内的最新技术信息，包括但不限于技术原理、技术优劣势、应用场景等
+
+• 追踪并定期分析竞对产品的核心技术指标和发展方向
+
+• 通过内外部渠道，了解并洞悉客户需求，并凝练形成对应的技术洞察
+
+技术规划
+
+• 基于业务需求和技术洞察，制定技术团队的中长期发展规划和技术路线图
+
+• 体系性的设计各类配套规划，包括技术人员规划、技术基础设施规划、技术质量规划、技术安全规划等
+
+项目管理
+
+• 确定项目目标和范围，并拟定项目计划、预算和资源需求计划、项目风险评估、交付成果等
+
+• 组建项目团队，明确项目各岗位职责和任务，配备必要的资源，并设计高效的协作机制
+
+• 按项目计划进行落地实施，并对项目进度、数据、质量进行监控，确保项目保质保量实施
+
+• 总结项目经验和教训，反馈项目成果和绩效，为之后的项目管理沉淀经验总结
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+• 3年以上应用开发经验
+
+• 参与过完整的应用项目开发
+
+• 熟悉技术领域相关的前沿信息渠道，定期形成相关的前沿研究文档沉淀并能在团队中进行技术分享
+
+• 熟悉竞对和对标产品的核心技术指标、优劣势对比，对我们如何追赶和保持优势有一定的理解
+
+• 通过POC、产品经理、PDSA等内外部渠道理解客户诉求，并能结合自己的技术理解形成有价值的洞见
+
+• 独立负责多个技术模块或全部模块并可参与团队内或跨团队项目
+
+• 能够理解复杂度适中的业务需求和技术需求的关联性，做出合理的技术选型判断，并独立完成产品功能/相应SDK的技术方案设计
+
+• 能够负责一个大型项目的子模块开发职责，并提供高质量的代码产出和文档沉淀，积极参与推动code review，提交代码前完成自测，对技术领域基本原理有深刻理解，同时具备一定技术攻坚能力，同时具备一定技术攻坚能力，能够解决单点复杂技术问题和工单（如一个较为复杂业务的性能优化、一个较低概率出现的稳定性问题）
+
+• 具备较强的风险意识，能准确识别、暴露风险，并且推动风险得到有效解决
+
+• 子系统研发安全生产执行者
+
+• 具备较强的研发安全生产意识，熟悉所负责子模块、子系统以及横向关联子模块、子系统的安全生产风险及预防措施，能够处置和恢复较复杂的安全和稳定性故障
+
+• 在所负责的子模块、子系统的全链路研发流程中（需求理解、设计、测试、发布、运维）上严格遵循研发安全生产规范，保障系统的安全和稳定
+
+• 具备参与研发安全演练的技术能力
+
+• 熟悉系统使用场景，能根据业务场景设计系统的能力，抽象功能需求，优化性能
+
+• 对关联业务、业务发展、行业产品有基本了解
+
+• 正确认知所在技术模块的业务定位
+
+• 具备和业务或者团队内外的上下游产品的互动能力，能够主动理解任务/需求与团队和项目其他人工作之间关系
+
+• 初步具备中等复杂度项目的管理能力
+</details>
+
+---
+
+#### [阿里云智能-技术服务专家-能源行业-杭州/北京](https://careers.aliyun.com/off-campus/position-detail?positionId=2009043001&track_id=SSP1762423212586HtQWoHggSl2310)
 
 📍 杭州 | ⌛ 5年
 
@@ -1236,660 +1530,292 @@
 
 ---
 
-#### [阿里云智能-应用管理平台技术专家-北京/杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2000035801&track_id=SSP1762336808759oMJQnqeRVf9117)
+#### [阿里云智能-专有云资深产品技术架构师（AI方向）-北京/杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2000073502&track_id=SSP1762423212586ucCFgywPqY8995)
 
 📍 北京/杭州 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-阿里专有云应用运维与可观测团队，为专有云客户提供极致用云的解决方案与产品矩阵，帮助企业更好地管理IT服务和基础设施，提高运维效率、运维安全性以及业务连续性
+大模型产品架构师：
 
-岗位职责：
+1、负责混合云平台方向整体架构迭代演进、混合云方案设计及产品规划和落地；
 
-1、 参与并负责云+应用一体化运维平台的设计与实现，包括应用蓝图、自动化发布、应用容灾、资源编排等能力
+2、负责基于大模型应用视角整体设计专有云规划设计和落地；
 
-2、参与并负责全景监控的设计与实现，围绕健康画像构建监管控一体化AIOPS运维平台，实现故障的快速发现、智能定位以及高效恢复链路闭环
-
-3、参与并负责专有云日志服务SLS的设计与实现，为Log、Metric、Trace等可观测数据提供一站式采集、加工、查询与分析、可视化与告警、消费与投递等能力
-
-4、参与并负责专有云应用市场的设计与实现，基于开发者中心与交付中心打造专有云产品生态体系
-
-5、参与并负责专有云统一CMDB、流程引擎、终态引擎、监控采集和计算等基础技术的设计与实现
+3、负责整体系统设计实现和架构性能优化。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-岗位要求：
+1、本科及以上学历，熟悉基于大模型应用的大模型Infra和基础云资源的体系结构
 
-1、 熟悉Java基础技术栈，包括SpringBoot、Mybatis、分布式缓存、消息队列等，熟MySQL等主流数据库以及Linux下的常用命令
+2、有分布式系统的使用和开发的经验；
 
-2、熟悉常用设计模式，最好有大型应用的开发经验，具备应对大数据、分布式、高并发、高负载、高可用性等系统设计能力
+3.  对大模型的应用或者模型训练有较深刻的理解
 
-3、熟悉C++、Python开发优先，熟悉AI大模型、K8S开发&运维能力优先，熟悉日志查询、计算调度和存储引擎开发优先
+5、良好的代码能力，精通python/go/c/shell编程至少一种或多种；
 
-4、具备良好的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力
+6、有大型系统架构和解决方案经验，优先考虑具备落地经验；
+
+7、良好的沟通、协调与逻辑思维能力，具有很强的分析问题和解决问题的能力，对解决具有挑战性问题充满激情
+
+8、了解业内实践和趋势，有较好的前瞻性。具有较强的自主学习能力，具备良好的分析问题和解决问题的能力。
+
+
+
+
+
+备注：持有阿里云ACA/ACP/ACE认证证书者优先
 </details>
 
 ---
 
-#### [诚云科技-技术翻译专家-技术内容国际化](https://careers.aliyun.com/off-campus/position-detail?positionId=100000043003&track_id=SSP1762336808759jVcPFegPpT8537)
+#### [阿里云智能-AI 架构及后端工程师（ABE）-CRM方向-杭州/北京](https://careers.aliyun.com/off-campus/position-detail?positionId=2008743005&track_id=SSP1762423212586DBLBJvHUWw4475)
 
 📍 北京/杭州 | ⌛ 5年
 
 <details>
 <summary>职位描述</summary>
 
-1、产出符合质量要求的国际化技术文档，独立遵照云产品内容规范和阿里云公共材料翻译规范产出符合质量要求的国际化技术文档和多语言材料
+## Read me
 
-2、对云产品的多语言内容重构，独立按照要求对云产品的多语言内容重构，使之符合国际用户的使用习惯，提升云产品文档的自服务效率
+**阿里云 CIO 线** 致力于打造 AI 时代业界领先的企业 IT 系统，以 RaaS（Result as a Service）模式，通过 IT 系统的构建和应用向客户直接交付成果，帮助客户在 AI 时代获得长期优势。
 
-3、执行多语言内容质量提升计划，按照阿里云多语言内容QA制度和质量机制执行多语言内容质量提升计划
+我们视 AI 为新的生产力，并采用全新的软件开发范式来构建产品。生产关系匹配生产力，故我们设计了新的产研组织形式，不同于传统产研团队按岗位分工（PD、设计、前端、后端、测试），在新组织下我们设置了**产品设计前端工程师**、**架构与后端工程师**两种角色。
 
-4、持续改进用户体验，负责整合、分析各渠道的用户反馈，持续改进用户体验
+‒ 我们是一支以成果为核心的企业 IT 产研团队，聚焦将最新的 AI 技术落地到真实业务场景中，服务企业级客户。
+
+‒ 我们期待这样的你加入：人聪明，有品味，敢担当，有冲劲，有韧性。
+
+‒ 我们希望你有这样的能力：**数学思维**，抽象能力强；**语文表达**，写出好的 Prompt；**业务升维**，对业务的高维认知；**系统架构**，能设计复杂系统；**销售服务**，与客户建立信任和影响。
+
+‒ 我们想让每位同学都取得最佳成果，成为更好的自己。因此我们重视个人的基模、能力和意愿，而非传统职场资历。
+
+
+
+## Role
+
+作为**架构与后端工程师（Architecture & Backend Engineer，ABE）**，你将基于 AI 软件开发新范式构建 Micro - Agents 体系，并快速进行服务端开发。无论是新功能开发还是存量系统迭代，你将体验效率成倍提升，系统开发从未如此高效。
+
+你将拥有难得的机会，深入了解阿里云的业务及阿里云客户的业务，直接与一线用户合作，了解他们所面临的棘手问题和紧迫挑战，并使用最新的 AI 技术和关键业务数据来解决。无论是“精准分析需求，提升客户体验”，还是“分析业务痛点，让运营更高效”，你都将运用你的技术专长、创造力和解决问题的能力，赋能客户取得业务成果。
+
+
+
+## Core Responsibilities
+
+‒ **系统架构**：设计系统架构蓝图选择适合的技术栈，通过合理的技术选型和服务拆分，保障系统未来的高可用、可扩展与安全性。
+
+‒ **业务建模**：将业务抽象为结构化、高性能、易维护的领域模型，定义数据实体、关系和生命周期。
+
+‒ **API 实现**：与产品设计前端工程师密切合作，提供稳定、高效、安全的API服务，并共同保障端到端的体验。
+
+‒ **后端工程**：基于 AI 软件开发新范式建立从编码、测试到部署的流程，构建完善的可观测性体系，保障研发效率和线上服务的稳定性。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-• 5年以上技术内容写作/翻译/产品经理/技术开发/测试开发/运维经验；
+## Require
 
-• 有云计算行业经验者优先
+‒ 扎实的工程背景，有计算机科学、软件工程、数据开发、数学、物理等相关领域经验。
 
-• 计算机、通信相关海外留学工作背景优先
+‒ 深厚的后端技术功底，对主流技术栈有深入的理解和实践。
 
-• 深入理解某个技术领域相关云产品功能、基本应用场景和客户价值，能做基础的跨产品动手实践
+‒ 具有将AI技术与后端系统深度融合的能力，有丰富实践者优先。
 
-• 熟悉基本的系统架构概念和典型的云上应用架构
+‒ 拥有架构洁癖与技术品味，追求系统的优雅、简洁与长期价值。
 
-• 【加分项】：了解一种或几种编程语言的基本结构和语法，如Python、Java、JavaScript等，能够读懂和解释常见代码片段
+‒ 优秀的系统思维与抽象能力，能将复杂的业务需求解构为稳定、可演进的系统模型。
 
-• 能够用清晰的语言描述技术概念和流程，确保读者能够理解
-
-• 能根据中文技术内容输入的实际情况，在指导下选择多语言文档的生产策略（翻译/编译/原生写作）
-
-• 主动按照最新的高质量多语言文档标准对历史多语言内容做优化
-
-• 能够有效与开发人员、产品经理和其他技术人员沟通，确保对技术细节有准确的理解
-
-• 能够对流程中的相关业务方产生关于国际化内容的正向影响
-
-• 具备用户反馈信息收集、整理、分析的基本能力，并基于严重程度、影响面、对整体业务目标的影响，总结优先级
-
-• 了解多负责产品的主要用户群体和诉求，在指导下甄别影响用户体验的内容或促进产品改进
-</details>
-
----
-
-#### [诚云科技-技术内容专家-Aliyun(dot)com技术内容](https://careers.aliyun.com/off-campus/position-detail?positionId=2000016501&track_id=SSP1762336808759AvDTbpbNSW9573)
-
-📍 北京/杭州 | ⌛ 5年
-
-<details>
-<summary>职位描述</summary>
-
-1、产品文档owner，为该产品文档质量负责
-
-2、深入参与产品设计和研发，在云产品的设计、研发阶段深入参与，深入了解云产品
-
-3、遵循信息架构和文档规范要求，高质量完成文档的设计、开发及验证任务
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-• 5年以上技术内容写作/产品经理/技术开发/测试开发/运维经验；
-
-• 有to developer相关从业经验；
-
-• 云计算行业经验为加分项
-
-• 非常熟悉所负责的产品线业务与技术知识，是该领域的技术专家。同时对其他云计算技术领域也有一定的了解
-
-• 独立负责过某个复杂系统的开发/运维经验/产品设计经验/内容设计
-
-• 具备用户数据分析、反馈提炼总结的能力，快速总结沉淀用户体验相关洞察
-
-• 不断沉淀标准化分析洞察的方法、模型、流程，提高洞察效率
-
-• 能快速定位影响客户体验的产品、功能、流程等
-
-• 能够编写清晰、规范、专业的技术文档，使用简洁明了的语言描述技术概念和操作步骤，使用户易于理解、操作和搜索
-</details>
-
----
-
-#### [阿里云智能-无影大模型算法专家-上海/杭州](https://careers.aliyun.com/off-campus/position-detail?positionId=2006623001&track_id=SSP1762336808759KsirlmjSSC3784)
-
-📍 杭州/上海 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-一、GUI Agent多模态大模型研发与优化
-
-1. 设计并实现多模态大模型，解决跨模态语义对齐、动态数据处理等核心问题。
-
-2. 优化模型生成能力，支持复杂多模态交互，实现毫秒级响应。
-
-3. 参与GUI Agent数据集构建及数据质量提升相关工作。
-
-4. 参与大模型用户意图理解、任务规划及长任务执行端到端执行能力提升构建
-
-二、多 Agent 系统算法设计
-
-1. 构建多 Agent 协作框架，设计动态任务分配与博弈策略，解决资源争夺、动态联盟等复杂场景下的决策问题。
-
-2. 结合各类强化学习策略，优化协作效率。
-
-3. 参与工业级 Agent 系统落地，推动大模型与工具链的深度整合。
-
-三、行业场景落地与创新
-
-1. 探索生成式 AI 与 RAG（检索增强生成）的结合，提升垂直领域的知识推理能力。
-
-2. 探索行业Deep Research+强化学习结合，提升行业Deep Research竞争力。
-
-3. 熟悉AIGC视频生成或者图像生成技术，参与过业界知名视频生成项目优先，， 或者有视频生成模型优化技术经验。
-
-4. 跟踪前沿技术，推动技术方案的创新与落地。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-一、技术技能
-
-1. 模型开发：精通 Transformer 架构，熟悉多模态模型、大语言模型、视频生成模型。
-
-2. 工具链：熟练使用 PyTorch、TensorFlow、Transformers，掌握 Deepspeed、Magtran 等分布式训练工具。
-
-3. 算法优化：熟悉 SFT、RLHF、LoRA 等微调技术，具备模型压缩等轻量化经验。
-
-4. 分布式训练：了解 NCCL、Megatron-LM，有跨节点通信优化经验者优先。
-
-二、项目经验
-
-1. 至少参与过 1 个完整的大模型项目（如预训练、微调、部署），有AIGC、GUI Agent、金融、医疗等垂直领域经验者优先。
-
-2. 熟悉多模态或大语言模型数据处理流程，包括跨模态对齐、领域适配与模型压缩全链路优化。
-
-3. 有工业级 Agent 系统落地经验者加分。
-
-三、其他
-
-1. 具备良好的系统设计与工程化能力，能够从 0 到 1 构建技术方案。
-
-2. 较强的学习能力与问题解决能力，能够快速掌握前沿技术。
-
-3. 优秀的沟通协作能力，能够与产品、工程团队高效配合。
-
-四、加分项
-
-1. 在顶级会议（NeurIPS、ICML、CVPR）发表过论文，或在 Kaggle、天池等竞赛中获奖。
-
-2. 有开源社区贡献经验（如参与 Hugging Face、PyTorch 生态开发）。
+‒ 清晰的逻辑思辨与沟通能力，有效传递技术价值，以技术影响力驱动项目成功。
 </details>
 
 ---
 
 ## 淘天集团
 
-#### [未来生活实验室-大模型训练算法-北京/杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100005520006)
-
-📍 北京/杭州 | ⌛ 4年
-
-<details>
-<summary>职位描述</summary>
-
-1. 跟进和研发大规模语言模型（LLM）的预训练、持续训练、SFT、RLHF 等技术。
-
-2. 跟进多模态的大模型（vLLM）预训练、SFT、RLHF等技术。
-
-3. 研发基于大模型的淘宝问问助手、ChatBot、检索增强、Code、Longchain等下游应用。
-
-4. 结合以上方向的探索和研究，撰写发表论文，和业界、学术界保持良好的交流。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 自然语言处理、机器学习、数据挖掘、人工智能等相关专业的硕士生/博士生；
-
-2. 熟练掌握Tensorflow、Pytorch等深度学习框架，扎实的编程基础，具备独立的算法实现能力；
-
-3. 有LLM实操经验，参与过大模型预训练，SFT，RLHF等项目者优先；
-
-4.良好的逻辑分析能力和数理基础，对算法原理及应用有较深入的理解，在人工智能相关的各类国际顶级会议/期刊中发表过论文者优先。
-</details>
-
----
-
-#### [业务技术-iOS开发工程师-跨端技术](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006000003)
+#### [业务技术-AI Agent 应用开发工程师-供给行业运营方向](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100003900003)
 
 📍 杭州 | ⌛ 2年
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责 iOS 客户端跨端容器的技术设计和研发工作；
+1、搭建面向行业运营场景的AI应用，负责agent设计、业务模型抽象、工程开发等工作，促进运营方式更加智能化。
 
-2. 负责 iOS 客户端跨端容器的性能体验优化和能力建设；
+2、负责统一的智能运营平台建设，探索AI-Native的研发模式和应用形态，提升AI运营应用的研发效果和效率。
 
-3. 负责 iOS 客户端跨端引擎的容器对接和技术突破；
-
-4. 承担技术攻坚专项，支持业务研发，解决日常疑难技术问题。
+3、熟悉行业运营业务，通过技术驱动运营方式的变革，打造有影响力的AI应用产品。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 3年以上移动端项目开发经验，开发基础扎实，精通 Objective-C/Swift 等语言，熟练掌握网络、内存、线程等知识；
+1、具备AI应用研发经验，熟悉agent架构设计、上下文工程、RAG等解决方案，了解常见的深度学习算法。
 
-2. 业务理解能力强，能够较好的抽象业务需求；有一定的客户端架构设计经验，独立负责过客户端整体或者核心模块的设计；
+2、2年以上Java研发经验，具备良好的基础和编码能力，熟悉多线程、分布式、数据库、缓存等机制及框架。
 
-3. 在技术选型、架构设计、性能优化、监控运维等领域有工程实践经验；
-
-4. 有技术追求和专研能力，有责任心和合作精神；
-
-5. 熟悉业界常见的跨端技术方案，如 Weex、ReactNative、Flutter、小程序等，具备前端跨栈开发经验优先；
-
-6. 有 AI 、Agent 相关研发经验和能力的，择优录取；
+3、敢于探索，对AI有长期浓厚的兴趣，有技术追求，擅长通过技术解决业务问题，有toB/toP侧AI应用经验者优先。
 </details>
 
 ---
 
-#### [阿里妈妈-Java开发工程师(广告结算)-北京](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006580003)
+#### [业务技术-AI Agent 评测工程师-杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006740003)
 
-📍 北京 | ⌛ 2年
+📍 杭州 | ⌛ 1年
 
 <details>
 <summary>职位描述</summary>
 
-1. 2年以上JAVA开发经验，有至少1年以上的系统架构设计经验；
+1.有较强的复杂业务理解能力。
 
+2.全面把握产品的功能及非功能需求，设计有效的测试策略；提供有效功能测试设计和测试用例，开发自动化测试脚本并执行。
 
+3.能灵活创新、开发工作中需要的测试工具。
 
-2. 扎实的JAVA编程基础，熟悉运用JAVA生态相关开源框架及中间件（Spring、MyBatis、Dubbo、MQ等），有深入运用、实践、重构经验者优先；
+4.能参与系统改造升级，解决可测性问题及系统稳定性保障。
 
-
-
-3. 掌握常用设计模式，有中大型应用的开发经验，具备应对大数据、分布式、高并发、高负载、高可用性等系统设计能力；
-
-
-
-4. 具备良好的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力；
-
-
-
-5. 熟悉整个软件过程，能够沟通需求、把控项目进度，有良好的文档能力；
-
-
-
-6. 有专业的金融、钱包支付、资金结算、财资等领域经验者优先；
-
-
-
-7. 研发质量意识好，对系统质量有近乎苛刻的要求，有SRE相关建设经验者优先；
-
-
-
-8. 具备良好的自学能力，需要提供自身案例助证，将重点考核；
-
-
-
-9. 有敏锐的数据洞察力，灵活发散的思维，有创新开拓精神；
+5.有一定的Agent架构和搭建能力、Agent评测经验。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-我们是阿里妈妈广告结算团队，负责广告领域的资金结算业务，包括并不限于：
+1.本科及以上学历，计算机相关专业，良好的专业基础（数据结构、算法、编程语言、数据库等），对软件工程理论和实践均有深刻理解。
 
+2.具备丰富的中大型复杂系统软件测试分析及业务支撑经验，并能贴近业务，进行有效的方案整合。
 
+3.熟悉C/C++/Java/Python中至少一种编程语言。
 
-1. 负责面向品牌、效果、外投、联盟等主流商业化场景下的计费模式设计和计费能力建设；
+4.精通性能测试、自动化测试、安全测试及白盒测试领域之一。
 
+5.逻辑能力强、思维活跃、接受新事物能力强。
 
+6.责任心强，积极主动，善于沟通，有良好的团队合作能力。
 
-2. 负责广告主、生态媒体的资金账户全托管，为客户提供金融级的账户资金服务；
-
-
-
-3. 负责面向淘客媒体、生态代理的佣金分成与结算付款；
-
-
-
-4. 负责多种促销、优惠及权益体系建设，是广告客增大盘的重要基础；
-
-
-
-5. 学习能力与抗压能力强，对技术有热情，能快速跟进新技术并应用于业务。
+7.有AI相关经验优先。
 </details>
 
 ---
 
-#### [M&T事业部-产品技术-数据研发*杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100002940010)
+#### [业务技术-大模型算法专家-Agent方向](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100000920005)
 
 📍 杭州 | ⌛ 3年
 
 <details>
 <summary>职位描述</summary>
 
-1.负责淘工厂服务、商家、商品域数据体系建设，通过数据产品和数据工具，在快速响应支撑业务日常分析、决策优化、策略迭代的同时，确保高稳定性；
+1、全面跟进当前生成式模型及AI领域的能力边界，面向淘天集团复杂工程体系及海量数据建设智能化研发AI能力
 
-2.针对服务降本、商家引入、画像构建等业务核心问题，构建从数据采买/整合，到链路分析，以及智能数据服务的解决方案，推动&协同相关团队（如技术开发团队） 实现业务目标的持续改善;
+2、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的架构设计、模型训练与评测；
 
-3.依托阿里集团的大模型的能力（包括data agent），构建业务域的知识库，推动业务、产品等角色取数/分析效率的迭代和优化，大幅降低业务团队获取数据成本。
+3、运用知识图谱抽取、数据合成等方案，基于实际场景设计并持续优化领域知识语料，以及数据标注方法，优化机模型运料；
+
+4、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、RAG增强生成、工具调用、数据问答、文案生成等方面的能力；
+
+5、持续优化Agent算法与系统架构，构建端到端的智能体评测体系，开发自动化评估工具与多维评价指标，提升Agent系统性能与效率，打造业内领先的AI Agent技术方案。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.本科以上学历，统计、数学、计算机技术专业优先，有互联网行业经验；
+1. 计算机相关专业本科及以上学历，研究方向为自然语言处理、机器学习、深度学习等相关方向，或者在该领域有相关工作经验，精通Python编程，熟悉Java/C++中至少一门语言
 
-2.从事数据仓库领域2年以上，熟悉数据仓库模型设计与ETL开发，有海量数据处理经验。有电商或者渠道领域数据建设经验优先；
+2. 能够从复杂的业务场景中进行问题抽象、算法选型、算法优化以及不断提升效果，有较强的自我驱动力；
 
-3.熟悉数据仓库领域知识和技能以及实时流计算基数，包括但不局限于：数据集市设计、流数据计算，数据管理、数据质量、数据服务；有流数据计算处理经验优先；
+3. 了解阅读理解、序列标注、文本生成、文本分类等传统NLP任务，精通Python及PyTorch/TensorFlow等框架，具备Qwen、Llama、Deepseek等模型的二次开发流程
 
-4.对数据敏感，具有优秀的业务理解，数据分析和解决问题能力，对于把大数据和分析算法的结果能够应用到实际业务场景产生商业价值具有强烈的热情；有端到端解决业务问题经历优先；
+4. 深入理解Transformer架构、SFT/RL训练范式及Prompt工程，了解LangChain、AutoGen等Agent开发框架，有完整智能体系统搭建经验者优先
 
-5.具备较好的自我驱动和抗压能力，良好的沟通能力和团队合作精神，有一定的组织协调能力。
+5.有代码生成/知识图谱构建/智能问答系统/图计算等相关项目背景优先
 
-6.具备供应链相关背景知识的优先。
+6.了解Deepspeed和Megatron-LM等分布式训练框架，并有一定的多机多卡分布式训练与debug经验优先
+
+7. 在ACL、EMNLP、KDD、SIGIR、ICML、ICLR、NeurlPS等相关顶会有论文发表者优先
 </details>
 
 ---
 
-#### [业务技术-TTS算法专家-直播](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1193902)
+#### [产业带&中小商家事业部-测试开发工程师-测试开发](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006740002)
 
-📍 北京/杭州 | ⌛ 3年
+📍 杭州 | ⌛ 1年
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责淘宝直播数字人的语音合成系统开发，包括语音建模、情感表达、语速调节等功能的实现。
+1. 参与互联网软件产品测试的全流程，包括参与需求分析、设计评审，制定测试计划，设计和执行测试用例，进行BUG跟踪和软件质量分析等。
 
-2. 优化TTS引擎，提高语音合成的自然度和流畅度，使数字人的声音更加贴近真人。
 
-3. 研究并应用业界&学界前沿的语音合成大模型技术，提升直播互动体验。
 
-4. 与产品、设计团队紧密合作，将TTS技术无缝集成到直播平台中，提升用户参与感。
+2. 保证被测系统的质量，并通过测试流程和方法创新，努力提升研发的质量和效率。
+
+
+
+3.参与产品需求和架构设计评审，保证产品的可测试性。
+
+
+
+4.深入业务和背后技术方案细节，提前识别项目风险并通过质量技术手段解决问题。
+
+
+
+5. 有电商交易链路测试经验优先。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 计算机科学、人工智能或相关专业本科及以上学历，有语音合成、数字人技术背景者优先。
+1.工科、计算机或其他相关专业本科以上学历，1年以上测试开发工作经验。
 
-2. 精通Python、C++等编程语言，对语音信号处理、深度学习有深入理解。
 
-3. 有语音合成系统开发经验，大模型研发经验优先。
 
-4. 具备良好的团队合作精神，优秀的沟通能力和解决问题的能力。
+2.精通C/C++/Java/Python等至少一种编程语言。
 
-5. 对电商直播行业有一定了解，有数字人项目经验者优先。
+
+
+3.具有很强的业务分析能力，较好的沟通表达和综合协调能力，对质量保证有深刻理解，具有一定的业务建模能力。
+
+
+
+4.具备测试技术预研、选型、设计开发、统一规划的能力，具备自动化测试工具或测试系统设计开发经验者优先。
+
+
+
+5.逻辑能力强、思维活跃，接受新事物能力强；责任心强，积极主动，善于沟通，良好的团队合作能力。
 </details>
 
 ---
 
-#### [业务技术-数据科学家-杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=7000046710)
+#### [推荐技术-高级Java研发工程师-杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006760003)
 
-📍 杭州 | ⌛ 2年
+📍 杭州 | ⌛ 1年
 
 <details>
 <summary>职位描述</summary>
 
-1.基于淘系全域数据，建立多领域的用户全生命周期数据和用户理解体系，通过主动的数据分析来挖掘和发现电商业务各场景的增长机会
+1. 团队负责淘宝首页、信息流的业务研发。本次招聘推荐架构、AI Agent方向的Java工程。
 
-2.数据驱动和结果导向，设计合适的分析和数科解决方案，利用运筹优化，博弈论，因果推断，机器学习建模等方法对手淘内各场景的有效行为提升、用户留存等问题建模分析和策略推动，实现用户规模及用户粘性的增长
+2. 持续打磨用户体验、升级系统架构，为数亿用户建设体验极致、高并发、高可用、高效能的在线系统。
 
-3.数据产品建设，负责科学分析能力产品落地，主要包括多维分析、归因分析、智能tips等多种数据科学组件
+3. 深入推荐全链路，通过工程架构、数据链路升级，优化系统性能，提升迭代效率，突破模型天花板。
+
+4. 以用户体验、推荐效率为目的，参与大模型技术在用户理解、算法链路、产品创新的深度应用。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.计算机、统计、应用数学、运筹学、经济学或者类似专业的教育背景，有通过算法帮助业务获得增长或拓展业务边界与探索出更多业务可能的经验
+1. Java/Go基础扎实，熟悉IO、多线程、集合等工具，熟悉数据库、缓存、消息、搜索等中间件。
 
-2.学习能力强，能快速定位和学习电商业务，深入理解业务的前提下能结合业务场景进行前瞻性思考和布局，有电商领域数据驱动业务增长项目经验的优先
+2. 掌握常用设计模式和面向对象原则，具备分布式、高并发、高可用、大数据的系统设计能力。
 
-3.有商业sense和产品感觉，能结合自身业务通过数据探索商业本质的设计与思考，能够很好地把产品和业务问题转化成分析问题，同时也能够很好地把分析的结果转化成业务决策和数据产品
+3. 业务理解强，能通过交流沟通、技术调研，寻找更优的解决方案，实现产品创新和算法提效。
 
-4.优秀的逻辑思维能力和创造力，能快速学习和持续创新，足够豁达，有好奇心，有热情，有激情
+4. 技术热情高，能主动学习大模型原理，跟进AI发展动态，应用到日常研发工作。
 
-5.团队协作能力佳，责任心强，执行力强，有目标感，抗压能力强，独立、主动的工作态度
-
-6.nlp、搜索推荐、机器学习、深度学习算法经验是加分项
-</details>
-
----
-
-#### [业务技术-用户&内容技术-数据科学](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=7000045502)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责淘宝搜索&推荐数据分析，通过科学的指标体系定义和探索性数据分析，准确描述业务现状，快速发现和定位各方向的问题与机会；
-
-2. 对信息流、文本搜索、语音搜索等产品形态熟悉，对业务数据进行处理和分析，深入理解电商和搜推算法原理、持续改善算法&运营策略，助力可持续的增长；
-
-3. 将复杂问题进行拆解、定义，利用数据挖掘、统计建模方法提出相应的产品策略改进假设或数据科学解决方案原型。能根据业务需求完成较为深入的专项数据分析与洞察，透过数据发现/预测/驱动产品体验优化及业务发展
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 具有5年以上数据分析、数据挖掘相关工作经验，统计学、计算机、经济学等数据科学、计算机、数据挖掘相关专业本科以上学历；
-
-2. 具备扎实的统计学、机器学习、因果推断等数据科学理论基础及应用经验；
-
-3. 对数据价值探索充满热情，对数据敏感，善于从数据中发现问题，能够在不确定性的问题中构建框架，将数据转化为有效的信息定量洞察；熟悉A/B Testing实验理论和流程；
-
-4. 具有良好的沟通表达能力和团队合作精神，有一定的组织协调能力，学习能力强有责任心，不断挑战自己
-</details>
-
----
-
-#### [业务技术-数据开发工程师-杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=7000009601)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-1、面对EB级存量数据和万亿条级别的新增数据量的挑战，建设淘宝搜索、推荐和内容离线和实时数据仓库，沉淀数据资产，提升数据易用性和数据质量。
-
-2、搭建商家和达人数据产品，管理者核心报表体系，计算业务核心数据指标并保障数据产出时效。
-
-3、支持对内应用，通过大模型、向量检索、数据湖、图查询等技术实践满足丰富的业务需求，帮助研发提效和业务看数提效
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、两年以上数据仓库或数据集市的工作经验；
-
-2、熟悉数据仓库模型、业务敏感度高、熟悉ETL流程，有较强的SQL编写能力；
-
-3、熟悉大数据体系，有hive/spark/flink开发经验；
-
-4、具有良好的沟通、团队合作精神、敬业精神；
-
-5、对新的技术有追求，熟悉大模型相关的技术点
-</details>
-
----
-
-#### [业务技术-多模态算法工程师-Agent方向](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=7000046709)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-1.主导基于大模型的AI Agent全生命周期研发，重点聚焦多模态Agent建设，包括但不限于GUI Agent/图文理解Agent/图文评估Agent，构建具备视觉感知和推理能力的多模态Agent应用；
-
-2.运用SFT、RL等Post-training训练方法，探索多模态与RL的结合，提升大模型/多模态大模型在自主规划（Planning）、多步推理、多模态RAG、工具调用、UI界面理解、复杂图文理解、局部细节感知等方面的能力；
-
-3.跟踪LLM、VLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点突破任务规划与复杂推理、研发测试自动化、computer use、大规模商品图文分析、图文细节理解与评估等方向的应用创新；
-
-4.持续优化多模态能力与已有Agent架构的集成，快速构建具备多模态能力的Agent应用，提升Agent系统性能与效率，提供AI Agent技术方案
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；
-
-2.对大模型前沿技术充满热情，具备攻克复杂技术难题的能力，能够快速实现Paper→Code→Solution的技术转化；
-
-3.精通Python及PyTorch/TensorFlow等框架，具备Qwen、Llama、Deepseek等模型的二次开发经验者优先，熟悉Qwen-VL、Gemini、GPT-4o等多模态大模型优先
-
-4.深入理解Transformer架构、SFT/RL训练范式及Prompt工程，了解LangChain、AutoGen等Agent开发框架，有完整智能体系统搭建经验者优先。
-</details>
-
----
-
-#### [业务技术-Agent应用算法工程师-供给智能](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100001220015)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-1、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的应用架构设计、数据构建、模型训练与评测；
-
-2、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、RAG增强生成、工具调用、数据问答等方面的能力；
-
-3、构建Agent RL所需的环境、训练方法，设计合理的Reward Function和优化函数，激发模型在垂直领域内的泛化性，探索无/少人类专家样本依赖的Agent优化方案；
-
-4、跟踪LLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点突破工具集成复杂推理、数据洞察、AI搜索等方向的应用创新；
-
-5、持续优化Agent算法与系统架构，构建端到端的智能体评测体系，开发自动化评估工具与多维评价指标，提升Agent系统性能与效率。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；
-
-2、熟悉MoE模型架构设计和原理，具有MoE模型预训练或者强化学习训练实操经验者优先；
-
-3、精通Python及PyTorch/TensorFlow等框架，具备Qwen、Llama、Deepseek等模型的二次开发经验者优先；
-
-4、深入理解Transformer架构、SFT/RL训练范式及Prompt工程，了解LangChain、AutoGen等Agent开发框架，有完整智能体系统搭建经验者优先；
-
-5、熟悉常用的RL训练框架和训练技巧，有Verl、ROLL等强化学习训练框架使用经验者优先。
-</details>
-
----
-
-#### [业务技术-Agent数据算法工程师-供给智能](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100001160021)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-1、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的应用架构设计、数据构建、模型训练与评测；
-
-2、重点探索模型后训练数据质量评估和清洗Pipeline的体系化构建，构建高质量路径级（CoA）训练数据的自动化校验和清洗方案；
-
-3、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、RAG增强生成、工具调用、数据问答等方面的能力；
-
-4、跟踪LLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点关注模型评测Benchmark、数据构建、Agent自动化评测等技术和应用方向；
-
-5、结合AI基建产品构建起人机协同的Agent训练数据质量和规模的持续提升优化技术能力，为各垂类Agent构建起高质量的训练数据池。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；
-
-2、具有大模型预训练数据构建Pipeline搭建经验者优先，具备路径级（CoA）数据采集与质量评估经验者优先；
-
-3、精通Python及PyTorch/TensorFlow等框架，具备Qwen、Llama、Deepseek等模型的二次开发经验者优先；
-
-4、深入理解Transformer架构、SFT/RL训练范式及Prompt工程，有AI搜索系统或Agent记忆系统搭建经验者优先；
-
-5、能熟练使用各种大数据处理工具，能快速在大数据处理链路中集成各类算法模型能力调用，具备完整的离线大规模数据处理技能栈者优先。
-</details>
-
----
-
-#### [业务技术-Agent算法工程师-记忆召回](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100001220016)
-
-📍 杭州 | ⌛ 3年
-
-<details>
-<summary>职位描述</summary>
-
-1、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的应用架构设计、数据构建、模型训练与评测；
-
-2、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、RAG增强生成、工具调用、数据问答等方面的能力；
-
-3、重点探索AI搜索技术在电商经营知识问答场景的应用落地，优化表征/倒排/图索引的知识召回效果，通过路径级数据的SFT训练+强化学习微调优化模型自主搜索并提供精准问答的能力；
-
-4、跟踪LLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点突破AI搜索、Agent记忆系统方向的应用创新；
-
-5、持续优化Agent算法与系统架构，构建面向问答和AI搜索场景的端到端智能体评测体系，开发自动化评估工具与多维评价指标，提升Agent系统性能与效率。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；
-
-2、有2年以上传统搜索引擎召回优化相关经验，具备精细化提升搜索召回效果的技术能力，熟悉图引擎和图召回者优先；
-
-3、精通Python及PyTorch/TensorFlow等框架，具备Qwen、Llama、Deepseek等模型的二次开发经验者优先；
-
-4、深入理解Transformer架构、SFT/RL训练范式及Prompt工程，有AI搜索系统或Agent记忆系统搭建经验者优先；
-
-5、熟悉常用的RL训练框架和训练技巧，有Verl、ROLL等强化学习训练框架使用经验者优先。
-</details>
-
----
-
-#### [1688-搜推高级算法工程师-大模型](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=7000024804)
-
-📍 杭州 | ⌛ 2年
-
-<details>
-<summary>职位描述</summary>
-
-构建下一代基于大型语言模型（LLM）的智能搜索系统，通过深度语义理解与用户意图解析，实现从“关键词匹配”到“需求精准洞察”的跨越，推动搜索技术从信息检索向智能交互与决策赋能的范式升级！
-
-1.负责设计并实现基于LLM的智能搜索架构，优化语义理解、意图识别与结果排序算法；
-
-2.构建用户需求画像系统，结合实时行为数据动态调整搜索策略，提升搜索结果相关性与用户满意度；
-
-3.探索生成式搜索技术（如Query扩展、结果摘要生成），推动搜索从“信息呈现”向“决策辅助”升级。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.硕士及以上学历，计算机/人工智能相关专业，3年以上NLP或搜索算法经验；
-
-2.熟悉语义匹配模型（如DSSM、Transformer）、用户意图分类与Query改写技术；
-
-3.具备大数据处理能力（Spark/Flink），熟悉搜索系统全流程（召回、排序、重排）；
-
-4.在多模态理解、信息检索方向有顶会（ACL/ICML/NeurIPS/WWW）论文发表者优先；
-
-5.对用户行为分析、需求挖掘有深刻理解，能通过A/B测试驱动算法优化。
+5. 加分项：搜推工程经验、AI Agent经验。
 </details>
 
 ---
@@ -1928,7 +1854,173 @@
 
 ---
 
+#### [未来生活实验室-agent算法专家-杭州/北京](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006760005)
+
+📍 北京/杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 深入探索LLM在深度推理、深度研究（Deep Research）、Code Agent等领域的技术研究，包括plan、tool usage、rag、memory、agent reasoning等技术，推动AI技术在智能体产品应用中的突破
+
+2. 探索code agent在AI创新应用领域优化算法，包括coding memory、 code agent feedback、code任务下长文本压缩、code search等。
+
+3. 探索工业级的Agent算法方案，提升Agent系统的执行效率和结果对齐准确度。在创新应用场景中，优化长上下文场景的Agent推理算法架构，探索System2技术边界。
+
+4. 跟进大模型智能体前沿技术趋势，结合实际业务需求，将技术应用到实际业务场景；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 计算机或相关专业本科以上学历，硕士博士优先；
+
+2. 具有良好的英文阅读能力，可以快速理解前沿论文和技术文档并评测效果；
+
+3. 具备NLP大模型算法知识，有大模型相关使用经验，有AutoGen、LangChain、LangGraph等Agent框架产品落地经验优先；有deep research、code agent相关产品算法经验者优先；
+
+4. 在ACL/EMNLP等人工智能学术会议或期刊上发表过论文者优先；
+
+5. 出色的问题解决能力和创新能力，能够从实际业务问题出发，解决复杂的技术挑战。
+</details>
+
+---
+
+#### [未来生活实验室-多模态大模型算法专家-北京/杭州](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100000860006)
+
+📍 北京/杭州 | ⌛ 2年
+
+<details>
+<summary>职位描述</summary>
+
+淘天集团未来生活实验室，聚焦于AI的发展，打造支撑电商及AI Native的大模型基座能力，兼顾对1-3年内和未来生活场景相关的前沿技术的研究和关注。既要支持好各个前台场景的AI化，又肩负起探索未来技术趋势的责任。
+
+1. 探索多模态大模型，包括多模态大模型预训练、SFT微调、及RLHF对齐等技术；
+
+2. 探索图像和视频的统一表征方法，以及长视频的高效表征压缩技术；
+
+3. 探索将多模态大模型用于图像理解、视频理解、视觉推理、视觉多轮交互、实时对话等任务；
+
+4. 探索原生多模态大模型的架构与训练范式；
+
+5. 结合淘天业务场景，推动多模态大模型在淘天搜索、推荐、广告等业务中的应用。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、硕士及以上学历，2年以上相关工作工作，计算机视觉、自然语言处理、机器学习、数据挖掘、人工智能等相关专业的硕士或博士；
+
+2、具备较好的编程能力，动手能力强，熟练使用至少一种开源深度学习框架;
+
+3、优秀的英文文献阅读能力,有人工智能顶会顶刊论文发表者优先，ACM竞赛获奖者优先;
+
+4、熟悉多模态预训练、视觉表征、多模态对齐、视频理解、多模态检索、SFT、RLHF等技术者优先。
+</details>
+
+---
+
+#### [天猫校园-前端开发工程师-产品技术部](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=100006180003)
+
+📍 杭州 | ⌛ 1年
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责C端业务场景的研发；
+
+2. 配合交互设计师及视觉设计师实现交互效果，配合后台工程师完成前端开发；
+
+3. 负责提升研发和运营效率的通用组件、工具和平台的前端开发工作；
+
+4. 与其它工程师进行研发配合，通过组内设计评审、代码评审，保证代码的稳定可靠性
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 计算机、通信、电子信息等对口专业优先；
+
+2. 熟练掌握前端主流技术栈，前端框架 React / Vue 至少一种；
+
+3. 至少掌握一种后端语言: C++ / Python / Golang / Node / Rust 等，并有项目经验；
+
+4. 对业务有良好的理解，对数据敏感，关注用户体验，并能够持续优化；
+
+5. 有良好的沟通和有团队协作能力，拥有开源项目、成熟作品者优先；
+
+6. 学习能力强，做事主动，责任心强
+</details>
+
+---
+
 ## 字节跳动
+
+#### [前端研发工程师（房产C端）-生活服务](https://jobs.bytedance.com/experienced/position/7563603655343343925/detail)
+
+📍 杭州
+
+<details>
+<summary>职位描述</summary>
+
+1、支持生活服务房产业务平台C端方向的前端架构设计与开发工作，业务场景聚焦于抖音端内，覆盖搜索、Feed卡、Lynx/H5承接页等，帮助用户快速找到心仪房源并促成最终转化；
+
+2、负责产品前端技术架构设计及实现，对其中的技术难点进行调研并完成攻坚，与其他研发同学协同保障产品技术健壮性；
+
+3、对产品的用户体验以及迭代的研发效率、稳定性、性能负责，从前端技术角度给出相应的解决方案和实施落地。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机、通信等相关专业，具有3年及以上前端研发经验；
+
+2、熟练掌握JavaScript、TypeScript、ES6规范、网络通信等前端知识，了解前端工程化工具的用法和原理；
+
+3、熟练使用React/Vue等常见前端框架，对其原理有一定理解，能够进行问题排查、性能优化等；
+
+4、有好奇心、求知欲，探索新技术，并能够主动发掘新技术并推动技术落地，给团队和业务带来增量价值；
+
+5、能够与团队其他成员融洽的沟通，以共赢的心态协作完成业务和技术的项目；
+
+6、有全栈能力、社区贡献经验的优先。
+</details>
+
+---
+
+#### [AI Native工程师（即梦）-剪映CapCut（北京）](https://jobs.bytedance.com/experienced/position/7563280293324540213/detail)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1、负责即梦端到端的核心功能开发，负责多模态生成链路，通过调研、评估和引入前沿AI能力，优化和编排AI生成链路，协同产品、算法等团队提升用户体验；
+
+2、负责Agent的开发，参与框架搭建，Prompt调优，工具开发，上下文管理；
+
+3、负责AINative研发模式探索，和Coding Agent配合提供技术栈高质量上下文，包括不限于Rules、Skills等；
+
+4、负责跟踪AI技术趋势，关注语言模型、多模态模型最新动态，基于对模型的判断，思考人机交互等新范式在业务中的落地场景，驱动产品创新。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、熟悉MySQL、Memcache、Redis、消息队列等常用服务组件；
+
+2、精通React/Vue等现代前端框架中的一种或多种，具备复杂单页应用开发经验；
+
+3、熟悉互联网架构体系，对微服务治理、稳定性建设、性能优化、流控等有较好的理解和实践；
+
+4、具备产品思维，能够以用户为出发点，结合业务有效落地并实现收益，能参与需求设计并提出技术可行性建议，与产品、设计团队高效协作；
+
+5、对Agent技术有实践经验，并能清晰阐述如何通过Agent解决实际业务问题；
+
+6、熟悉AI应用开发流程者优先，有端到端跨技术栈开发能力的优先，有AIGC功能落地经验者优先。
+</details>
+
+---
 
 #### [产品质量经理-PICO](https://jobs.bytedance.com/experienced/position/7563232820883622149/detail)
 
@@ -2024,6 +2116,84 @@
 4、理解操作系统、虚拟化技术、数据库、分布式存储系统和深度学习等应用软件架构原理；
 
 5、在团队、跨团队的项目推动和组织方面有成功经验，具备良好的沟通能力和领导力，能够带领团队解决复杂的技术问题，推动项目的成功实施。
+</details>
+
+---
+
+#### [前端研发工程师-用户增长（上海）](https://jobs.bytedance.com/experienced/position/7553913256365394194/detail)
+
+📍 上海
+
+<details>
+<summary>职位描述</summary>
+
+1、负责抖音C端研发，包括端内用户激励体系、用户增长活动；负责抖音、抖音极速Web产品迭代；
+
+2、关注业务指标、转化链路，探索精细化体验优化，分人群、分机型、分场景，将用户体验做到极致；
+
+3、深入研究高性能跨平台动态化渲染方案、Web技术体系，负责架构设计、性能优化、SEO优化等工作；
+
+4、负责助力于增长、留存、研发效率等方面的平台化建设。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机基础扎实，熟练掌握JavaScript/CSS；
+
+2、掌握当前流行的前端框架，如React/Vue，并熟悉其衍生生态（如Redux、Vite等）；熟悉一种构建工具（如Webpack/FIS/Esbuild等）；
+
+3、了解跨端技术栈，熟悉客户端、服务端开发模式，能站在其他角色角度给出改进建议，并推动落地，熟悉一门后端语言（Node/Python/Go等）；
+
+4、熟练掌握数据结构、算法、设计模式、网络通信相关计算机基础知识；具备良好的系统模块设计能力，并能在日常研发中灵活使用； 
+
+5、对技术保持好奇，有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力；关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中。
+
+
+
+加分项
+
+1、有Hybrid/Flutter/ReactNative/小程序/Weex相关开发经验者；
+
+2、有数据策略类产品开发经验的加分；
+
+3、有大型C端活动开发经验者；
+
+4、有开源作品或者技术博客。
+</details>
+
+---
+
+#### [前端研发工程师-大模型平台](https://jobs.bytedance.com/experienced/position/7549096557377227016/detail)
+
+📍 上海
+
+<details>
+<summary>职位描述</summary>
+
+1、参与大模型能力建设及大模型平台的前端功能设计和实现，提供全链路配置、中台化、内容引入，包括模型能力、数据标注/生成等业务，探索在通用业务场景的落地和实现；
+
+2、参与平台工程技术体系建设，研发工具链打造DevOps解决方案、Node.js基础功能抽象、研发基础库和OpenAPI等内容；
+
+3、参与前端性能优化、稳定性建设、代码重构及可视化等工具建设，提高页面加载速度和运行效率；
+
+4、参与前端交互和体验优化，通过组件化、流程化、配置化与搭建能力等方式支持产品运营及研发提效工作；
+
+5、关注前端技术发展，探索和引入新技术以提升产品竞争力。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机、软件、通信等相关专业，1年以上前端开发经验；
+
+2、熟练掌握JavaScript、CSS、HTML、协议、安全、网络、性能优化等前端技术，对主流前端框架（React、Vue等）至少一种有深入应用并理解其设计原理；
+
+3、对用户体验、交互操作流程及用户需求有一定了解；
+
+4、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力；
+
+5、有大模型行业经验/Node.js相关开发经验加分项，关注相关行业前沿技术者优先。
 </details>
 
 ---
@@ -2154,6 +2324,40 @@
 
 ---
 
+#### [前端研发工程师-TikTok](https://jobs.bytedance.com/experienced/position/7543517043178965266/detail)
+
+📍 杭州
+
+<details>
+<summary>职位描述</summary>
+
+团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok 在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。
+
+
+
+1、负责TikTok前端研发工作，包括但不限于页面交互、数据可视化、客服系统等；
+
+2、理解业务需求，进行技术规划和架构设计，承担技术攻坚；
+
+3、探索和优化前端团队的开发模式和流程规范，帮助团队提高开发效率和代码质量。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机基础扎实，至少熟悉一种前端框架（React/Vue/Angular），并理解框架背后的设计思想；
+
+2、熟悉Node.js，了解Express/Koa等框架，具有服务端程序开发经验者优先；
+
+3、理解前端工程化思想，能够设计良好的系统模块和组件，具有良好的代码结构和规范意识；
+
+4、具备良好的沟通和协作能力，能够积极与产品、设计团队合作，更好地理解和满足客户需求；
+
+5、具备敏锐的问题分析和解决能力，能够快速定位和解决前端问题，保证产品的稳定性和可靠性。
+</details>
+
+---
+
 #### [AI Agent高级研发工程师-剪映用户增长](https://jobs.bytedance.com/experienced/position/7542814036670138642/detail)
 
 📍 深圳
@@ -2196,6 +2400,48 @@
 
 ---
 
+#### [资深云原生架构师-计算](https://jobs.bytedance.com/experienced/position/7538709219131541767/detail)
+
+📍 上海
+
+<details>
+<summary>职位描述</summary>
+
+1、负责字节跳动ToB云原生一个或多个技术领域的顶层架构设计和规划；
+
+2、调研云原生最新和未来发展方向，推动产品和技术架构的演进；
+
+3、能够运用技术和业界影响力推动新技术领域的规划，落地和布道；
+
+4、承担关键项目的架构设计，负责技术决策和执行。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机相关专业，5年以上基础架构工作经验；
+
+2、具备大型分布式系统或云计算重要领域的架构或开发经验；
+
+3、熟悉主流云计算厂商的技术演进趋势和架构实现；
+
+4、具备云计算中虚拟化，云原生，安全，网络，中间件等领域的研发或架构经历；
+
+5、具有良好的沟通、团队协作能力，架构方案推动和落地能力；
+
+6、熟悉业界AI框架，有AI推理经验，具有设计开发托管类云服务的经验者优先。
+
+
+
+加分项：
+
+1、熟悉至少一种主流的机器学习框架（TensorFlow/PyTorch）；
+
+2、有以下某一方向领域的经验：AI Infrastructure，HW/SW Co-Design，High Performance Computing，ML Hardware Architecture（GPU，Accelerators，Networking）。
+</details>
+
+---
+
 #### [光学量测系统开发工程师-PICO](https://jobs.bytedance.com/experienced/position/7538265128953825554/detail)
 
 📍 上海
@@ -2230,36 +2476,74 @@
 
 ---
 
-#### [服务端开发负责人-抖音群聊](https://jobs.bytedance.com/experienced/position/7524646071138732295/detail)
+#### [前端开发工程师（算法工程平台）-国际化内容安全平台](https://jobs.bytedance.com/experienced/position/7532326035007949064/detail)
 
-📍 北京
+📍 上海
 
 <details>
 <summary>职位描述</summary>
 
-1、负责抖音即时通讯群聊方向的服务端研发及管理工作；
+团队介绍：国际化内容安全平台团队致力于为字节跳动国际化产品的用户维护安全可信赖环境，通过开发、迭代机器学习模型和信息系统以更早、更快发掘风险、监控风险、响应紧急事件，以人工智能技术支持业务发展，力求更高效、更敏捷、更全能地维护站内生态安全。
 
-2、负责该方向的系统架构设计和技术规划制定、落地；
 
-3、充分理解产品规划，与PM良好协同，带领团队做好业务支撑，并通过技术驱动业务更好的发展；
 
-4、负责该方向的技术团队搭建、人才培养和团队管理。
+1、建设全球化产品的内容审核管理域能力，负责国际化业务的机器审核管理域全栈服务的设计、研发和上线运维，服务国际化产品的多地域审核需要；
+
+2、持续完善模型消费，策略管理发布，审核运营等机器审核管理能力，与业务、产品、运行域共同决策产品及技术架构，保障管理过程高效、安全、易用；
+
+3、建设稳定、高性能、易扩展的审核管理平台架构，持续优化前端Framework可扩展性，完善工程一致性，提升平台体验、性能和稳定性；
+
+4、持续提升管理域服务的可用性、稳定性和鲁棒性，持续优化服务架构分层和调用链，保障数据一致性，提升可观测性、完善容灾降级等兜底方案；
+
+5、保障产品研发顺畅合作，优化合作流程，提升研发效率和质量，为管理域需求交付结果和过程负责。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、本科及以上学历，计算机、通信等相关专业，5年以上计算机相关工作经验；
+1、计算机、通信和电子信息科学等相关专业优先；
 
-2、良好的软件架构设计能力和编码能力，能够做重要业务、技术项目的攻坚；
+2、有服务端开发经验、英语听说读写流利；有业务安全平台、通用技术平台设计建设经验；有个人技术产品、开源作品或活跃的开源社区贡献者优先；
 
-3、熟悉互联网架构体系，对微服务拆分、服务治理、负载均衡、流控等有较好的理解和实践；
+3、深入了解一门技术语言，如JavaScript/Go/Java等语言，使用过React或Vue.js等主流开发框架；
 
-4、能够深入理解业务和技术现状，设计合理的长期系统架构，制定和拆解该方向的中长期技术规划，持续改善已有服务，优化系统薄弱点，提升系统性能、稳定性、扩展性；
+4、积极乐观，责任心强，工作认真细致，具备良好的服务意识，具有良好的跨团队沟通与协作能力。
+</details>
 
-5、积极主动、自驱力强，深入了解业务并与业务中各角色建立沟通，能独立负责一块业务，迅速推进项目与问题的解决；
+---
 
-6、有服务端团队管理经验优先。
+#### [前端开发工程师（机器审核）-国际化内容安全平台](https://jobs.bytedance.com/experienced/position/7525374465086228744/detail)
+
+📍 上海
+
+<details>
+<summary>职位描述</summary>
+
+团队介绍：国际化内容安全平台团队致力于为字节跳动国际化产品的用户维护安全可信赖环境，通过开发、迭代机器学习模型和信息系统以更早、更快发掘风险、监控风险、响应紧急事件，以人工智能技术支持业务发展，力求更高效、更敏捷、更全能地维护站内生态安全。
+
+
+
+1、建设全球化产品的内容审核管理域能力，负责国际化业务的机器审核管理域全栈服务的设计、研发和上线运维，服务国际化产品的多地域审核需要；
+
+2、持续完善模型消费，策略管理发布，审核运营等机器审核管理能力，与业务、产品、运行域共同决策产品及技术架构，保障管理过程高效、安全、易用；
+
+3、建设稳定、高性能、易扩展的审核管理平台架构，持续优化前端Framework可扩展性，完善工程一致性，提升平台体验、性能和稳定性；
+
+4、持续提升管理域服务的可用性、稳定性和鲁棒性，持续优化服务架构分层和调用链，保障数据一致性，提升可观测性、完善容灾降级等兜底方案；
+
+5、保障产品研发顺畅合作，优化合作流程，提升研发效率和质量，为管理域需求交付结果和过程负责。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机、通信和电子信息科学等相关专业优先；
+
+2、有服务端开发经验、英语听说读写流利；有业务安全平台、通用技术平台设计建设经验；有个人技术产品、开源作品或活跃的开源社区贡献者优先；
+
+3、深入了解一门技术语言，如JavaScript/Go/Java等语言，使用过React或Vue.js等主流开发框架；
+
+4、积极乐观，责任心强，工作认真细致，具备良好的服务意识，具有良好的跨团队沟通与协作能力。
 </details>
 
 ---
@@ -2292,6 +2576,58 @@
 4、理解操作系统、虚拟化技术、数据库、分布式存储系统和深度学习等应用软件架构原理；
 
 5、在团队、跨团队的项目推动和组织方面有成功经验，具备良好的沟通能力和领导力，能够带领团队解决复杂的技术问题，推动项目的成功实施。
+</details>
+
+---
+
+#### [高级前端开发工程师-TikTok（上海/杭州）](https://jobs.bytedance.com/experienced/position/7520217089988462856/detail)
+
+📍 上海
+
+<details>
+<summary>职位描述</summary>
+
+团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok 在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。
+
+
+
+TikTok研发团队，旨在实现TikTok业务的研发工作，搭建及维护业界领先的产品。加入我们，你能接触到包括用户增长、社交、直播、电商C端、内容创造、内容消费等核心业务场景，支持产品在全球赛道上高速发展；也能接触到包括服务架构、基础技术等方向上的技术挑战，保障业务持续高质量、高效率、且安全地为用户服务；同时还能为不同业务场景提供全面的技术解决方案，优化各项产品指标及用户体验。 
+
+在这里， 有大牛带队与大家一同不断探索前沿， 突破想象空间。 在这里，你的每一行代码都将服务亿万用户。在这里，团队专业且纯粹，合作氛围平等且轻松。目前在北京，上海，杭州、广州、深圳分别开放多个岗位机会。
+
+
+
+1、负责TikTok隐私合规安全方向，通过技术驱动解决前端领域隐私安全，需要调研和结合公司研发基建体系、流程，将隐私保护技术在业务场景下落地；
+
+2、全栈式推进：与公司Web基建、网关基建等紧密合作，进行能力联通，实现前端、服务端、大数据的整体架构；
+
+3、平台工具建设：设计并实现技术切面的解决方案，进行平台PaaS化，提供高效接入的平台工具产品；
+
+4、项目优化升级：持续提升所负责项目的架构合理性，优化性能与稳定性，同时致力于提高研发效率，推动项目高效迭代发展；
+
+5、深度配合监督管理部门、法务等解决业务场景中的问题，为TikTok业务隐私合规安全保驾护航。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，具备前端开发实战和全栈实践经验；
+
+2、有良好的计算机基础，理解计算机原理、数据结构和网络协议等，扎实的编程能力、追求良好的编码规范；
+
+3、熟练掌握前端领域的技术栈，包括但不限于主流前端开发框架（React/Vue等）、前端工程化、Hybrid等，具备良好的前端架构设计能力；
+
+4、具备优秀的业务理解能力，有良好的团队沟通协作能力，有强烈的责任感推进技术落地，能够独立承担并完成复杂任务；
+
+5、具备以下经验优先考虑：
+
+1）熟练使用至少一种服务端语言（Node.js/Python/Golang等）；
+
+2）熟悉DB、Cache、MQ、Nginx、Serverless等领域技术的优先；
+
+3）英语熟练者或有海外/外企工作经历者优先；
+
+4）有主导或搭建过网站经验，或有技术博客、开源项目经验者优先。
 </details>
 
 ---
@@ -2338,375 +2674,93 @@ TikTok研发团队，旨在实现TikTok业务的研发工作，搭建及维护�
 
 ---
 
-#### [大模型算法工程师-搜索广告](https://jobs.bytedance.com/experienced/position/7514524939623893256/detail)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、负责字节跳动搜索广告算法优化工作，探索LLM和Ranking相结合，在生成式召回、LRM等方向深入探索，提高Ranking全漏斗的变现效率；
-
-2、利用NLP等技术进行多模态、图文内容理解、直播内容理解等建模优化，应用于整个搜广Ranking链路，提高变现效率；
-
-3、对深度学习算法、图神经网络算法和强化学习算法具备深厚功底，利用机器学习算法行建模优化，提升转化效率；
-
-4、针对搜索广告场景进行针对性特征建设和建模优化，提高搜广变现效率。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、具备优秀的编码能力，扎实的数据结构和算法功底；
-
-2、优秀的分析问题和解决问题的能力，对解决具有挑战性问题充满激情；
-
-3、良好的沟通表达能力和团队精神；
-
-4、具备推荐系统、计算广告相关领域或直播、电商业务有经验者优先。
-</details>
-
----
-
-#### [大模型训练优化工程师-Seed](https://jobs.bytedance.com/experienced/position/7501986530232207623/detail)
-
-📍 上海
-
-<details>
-<summary>职位描述</summary>
-
-团队介绍：字节跳动 Seed 团队成立于 2023 年，致力于寻找通用智能的新方法，追求智能上限。团队研究方向涵盖 LLM、GenMedia、AI for Science、机器人等，在中国、新加坡、美国等地设有实验室和岗位。
-
-Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期望成为世界一流的 AI 研究团队，为科技和社会发展作出贡献。目前团队已推出业界领先的通用大模型以及前沿的多模态能力，支持豆包、扣子、即梦等超过 50 个应用场景。
-
-
-
-1、负责超大规模机器学习系统架构的设计开发，解决系统高并发、高可靠性、高可扩展性等技术难关；
-
-2、覆盖机器学习系统多个子方向领域的工作，包括：资源调度、分布式模型训练、数据管理、高性能计算等；
-
-3、负责机器学习系统前瞻技术的调研和引入，比如：最新硬件架构、异构计算系统、编译优化技术、强化学习RL/Agent环境交互技术等的引入落地；
-
-4、与算法部门深度合作，进行算法与系统的联合优化。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机、软件工程、人工智能等相关专业优先；
-
-2、工程或机器学习算法有深厚的功底和经验；
-
-3、历史上解决过难题，遇到难题时能静下心，没有畏难情绪，能查到底层，观察敏锐，逻辑清晰；
-
-4、由衷热爱技术，有强烈的工作责任心，较好的学习能力、沟通能力和自驱力；
-
-5、良好的沟通协作能力，能和团队一起探索新技术，推进技术进步。
-
-
-
-加分项：
-
-1、熟悉LLM、NLP、CV、语音相关的算法和技术，熟悉大模型训练、Diffusion、RL算法者优先；
-
-2、有以下某一方向领域的经验：高性能计算/CUDA，RDMA/通讯库，系统算法联合优化，异构加速硬件体系，分布式系统和大数据架构。
-</details>
-
----
-
-#### [网络资源与交付管理工程师-基础设施](https://jobs.bytedance.com/experienced/position/7501540169955199240/detail)
-
-📍 上海
-
-<details>
-<summary>职位描述</summary>
-
-1、对接业务需求，跟进网络规划，发起网络资源和设备采购，并跟进资源交付开通与设备到货；
-
-2、中长期需求对接，设备安全库存建设与管理；
-
-3、跟进网络交付项目，能提前发现交付中的风险和问题，并协调各方解决问题，确保网络项目交付SLA达成；
-
-4、总结网络项目交付中遇到的问题，协调各方优化交付流程；
-
-5、打通需求、规划、设备物料供货、调货、库管、资管、网络资源采购交付各环节，不断建设和优化网络端到端交付的平台能力。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历；
-
-2、多年数据中心或骨干网络规划、建设交付、配置开局和运维经验；
-
-3、熟悉数据中心网络基础设施，熟悉网络设备供电、网络设备上下架、布线工勘与施工；
-
-4、熟悉运营商静态单线、动态BGP等公网带宽；熟悉城域DCI、光缆、长途专线等网络资源；
-
-5、熟悉TCP/IP、IPv6、BGP、ISIS、OSPF、SR等协议，有大规模数据中心网路规划、建设项目经验；熟悉OTN传输优先。
-</details>
-
----
-
-#### [AI智能体开发工程师-广告效能](https://jobs.bytedance.com/experienced/position/7494256267562354952/detail)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、参与探索大语言模型在抖音集团广告业务场景的应用边界；
-
-2、以提升广告业务研发效率为目的，参与推动大模型技术在素材生成、代码生成、技术评审、效能提升等研发流程中的应用；
-
-3、参与设计、开发和部署基于AI Agent的端到端解决方案，持续探索AI应用开发支撑研发效能提升的最佳实践；
-
-4、基于业务研效提升的实际需要，结合AI技术栈（大语言模型、知识图谱、自动化决策引擎等），设计可扩展、高可用的架构，并协同跨职能团队实现技术落地。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机、软件工程、人工智能等相关专业，具备扎实的计算机基础；
-
-2、熟悉Linux操作系统和开发环境，熟练掌握Python/Golang等一种或多种编程语言并深入了解语言特性，具备良好的数据结构、算法基础和系统设计能力；
-
-3、熟悉AI Agent开发框架（LangChain、AutoGPT等）及云计算平台（AWS Lambda、Azure Bot Service等）；对AI行业保持强烈的求知欲，了解LLM、提示工程、RAG、知识图谱、SFT、强化学习等技术；
-
-4、具备AI解决方案架构经验，主导过至少一个AI Agent相关项目（智能客服、虚拟助手、自动化流程Agent等）；
-
-5、善于沟通，能将复杂的技术方案转化为业务语言，工作积极主动，责任心强，具备良好的团队协作能力。
-</details>
-
----
-
-#### [CPU软硬件协同工程师-Data](https://jobs.bytedance.com/experienced/position/7488607306092448007/detail)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、通过对业务应用和系统软件的分析，基于软件定义芯片设计需求，协同芯片团队完成业界领先的架构设计；
-
-2、负责自研Benchmark体系建设，构建权威的能够反映软件特征的性能分析和评估基准；
-
-3、负责Workload特征提取与分析，以及仿真工具的建设，打造基于Workload进行架构探索和设计的工具链；
-
-4、负责芯片研发阶段的性能仿真、验证和调优，结合架构创新，打造新硬件的性价比优势；
-
-5、负责服务器CPU代际切换优化，解决CPU架构和性能问题，使能新特性，优化Workload性能，确保达到预期性价比目标。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、深入理解计算机体系结构 (x86/ARM64/RISC-V)、编译原理、和C/C++；
-
-2、熟悉服务器CPU芯片架构，了解Core、SNoC、DDRC、和SoC相关IP与协议；
-
-3、理解典型互联网业务架构和逻辑，如微服务、搜推广、AI、大数据、编解码、存储等，有业务性能分析和调优经验，熟悉业界开源Benchmark；
-
-4、有Workload分析、Tracing、切片的经验，理解SimPoint基本原理，了解应用Trace提取和仿真分析；
-
-5、熟悉芯片仿真建模的基本原理和方法，如QEMU/GEM5/NVMain/SystemC等。
-
-
-
-加分项：
-
-1、有参与过实际的服务器芯片项目，包括需求分析、架构设计、Specification撰写、或性能分析优化等；
-
-2、熟悉基本的性能分析方法，如PMU/PEBS/LBR/PT、Roofline/Top-down、VTune/Perf/DynamoRIO。
-</details>
-
----
-
-#### [广告算法架构工程师-Ads Infra](https://jobs.bytedance.com/experienced/position/7488221855745493266/detail)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、负责抖音集团广告算法服务（召回/粗排/精排/混排/创意与样式优选）的架构设计与实现，支撑亿级广告候选排序，优化模型分发速度，提升在线推理性能；
-
-2、负责建设抖音集团广告算法服务的深度学习能力（深度模型实时训练/深度模型在线推理/深度模型召回），探索业界前沿算法的工程落地并助力业务可持续增长；
-
-3、设计并实现高性能、高可用的排序策略框架，承载高吞吐、低延迟的广告系统架构需求；
-
-4、设计并实现广告投放系统的延迟、降级、限流、算力分配的自动化、一体化平台与架构，提升广告系统的变现效率与稳定性。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机、软件工程等相关专业，具备扎实的计算机基础；
-
-2、熟悉Linux操作系统和开发环境，熟练掌握C++/Golang/Java等一种或多种编程语言并深入了解语言特性，具备良好的数据结构、算法基础和系统设计能力；
-
-3、善于沟通，工作积极主动，责任心强，具备良好的团队协作能力；
-
-4、具备互联网广告系统、搜索引擎、个性化推荐系统开发经验者优先，熟悉至少一种主流深度学习框架或大数据框架者优先。
-</details>
-
----
-
-#### [SRE运维工程师-广告业务](https://jobs.bytedance.com/experienced/position/7488175719743572242/detail)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、支持抖音集团广告系统的稳定性建设，保障系统持续、稳定运行；
-
-2、参与广告系统稳定性架构设计，保障系统的长期高可用与可维护；
-
-3、参与广告系统机房建设，容灾方案设计、演练和实施；
-
-4、参与广告系统的机器资源管理与规划，通过运营机制和优化手段提升资源效率；
-
-5、参与广告系统运维工作自动化，涵盖线上变更、服务监控配置、快速建站部署、资源管理等专项。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机、软件工程等相关专业，具备扎实的计算机基础；
-
-2、深入了解报警监控、容灾架构、成本运营等SRE工程领域知识并具有实践经验；
-
-3、熟悉Linux操作系统和开发环境，熟悉Shell/Python/Java/Golang/C等一种或多种编程语言并深入了解语言特性，熟悉网络、存储等相关技术原理；
-
-4、具备较强的分析、解决问题能力和抗压能力，有强烈的责任心和优秀的协作沟通能力；
-
-5、具备广告/推荐/搜索等场景的业务运维开发经验者优先。
-</details>
-
----
-
-#### [大模型应用算法研究员-豆包大模型](https://jobs.bytedance.com/experienced/position/7483757464094968072/detail)
-
-📍 上海
-
-<details>
-<summary>职位描述</summary>
-
-1、专注改进大模型在现实世界复杂任务的效果，追求通用可规模化的方法，包括不限于复杂推理、多模态、自主Agent、以及可扩展监督和大规模数据合成等方法；
-
-2、推动大模型技术在高难度场景中的前沿应用，包括不限于Agent系统、专业咨询、科研协作、深度洞察、个性化教育等高价值场景；
-
-3、面向广泛的现实世界高价值任务，设计科学、严谨的量化评测体系，提升模型的智能水平。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、扎实的机器学习基础，具备创新研究能力和优秀的编程能力，能快速验证和实现新想法，熟悉大模型数据、策略、算法优化者优先；
-
-2、在国际顶会或顶级期刊（如ACL/EMNLP/NAACL/NeurIPS/ICML/ICLR/CVPR/COLT等）发表过高质量论文，或取得过有重要影响力的研究成果，和大模型相关者优先；
-
-3、对AI技术的实际落地和突破性应用充满热情，追求技术创新与现实价值的结合；
-
-4、良好的自驱力，思维敏捷，追求本质，敢于挑战未知问题，乐于在技术攻关中探索技术前沿，能主动学习并快速成长。
-</details>
-
----
-
 ## 滴滴
 
-#### [资深客户端开发工程师 (J251104005)](https://talent.didiglobal.com/social/p/59827)
+#### [高级软件研发工程师 (J250526015)](https://talent.didiglobal.com/social/p/56866)
 
 📍 北京
 
 ---
 
-#### [终端开发工程师（质量平台） (J251104008)](https://talent.didiglobal.com/social/p/59830)
-
-📍 北京
-
----
-
-#### [资深/高级数据仓库研发工程师 杭州 (J251010006)](https://talent.didiglobal.com/social/p/59469)
+#### [两轮车高级测试开发工程师 (J250822003)](https://talent.didiglobal.com/social/p/58659)
 
 📍 杭州
 
 ---
 
-#### [Solution Architect (J251104001)](https://talent.didiglobal.com/social/p/59823)
+#### [专家工程师 (J250806027)](https://talent.didiglobal.com/social/p/58343)
 
-📍 上海
+📍 杭州
 
 ---
 
-#### [前端专家工程师 (J251029001)](https://talent.didiglobal.com/social/p/59749)
+#### [高级研发工程师 (J250821001)](https://talent.didiglobal.com/social/p/58637)
 
 📍 北京
 
 ---
 
-#### [后端研发工程师 (J251104010)](https://talent.didiglobal.com/social/p/59832)
+#### [专家/资深JAVA研发工程师-资金平台 (J251106004)](https://talent.didiglobal.com/social/p/59866)
 
 📍 北京
 
 ---
 
-#### [资深算法工程师 (J251013008)](https://talent.didiglobal.com/social/p/59512)
-
-📍 北京
-
----
-
-#### [高级/资深前端开发工程师 (J251104013)](https://talent.didiglobal.com/social/p/59835)
+#### [高级研发工程师 (J251106001)](https://talent.didiglobal.com/social/p/59863)
 
 📍 成都
 
 ---
 
-#### [高级/资深前端工程师 (J251030015)](https://talent.didiglobal.com/social/p/59779)
+#### [自动驾驶传感器工程师 (J251031015)](https://talent.didiglobal.com/social/p/59796)
 
 📍 北京
 
 ---
 
-#### [高级 Android 开发工程师 (J250731027)](https://talent.didiglobal.com/social/p/58236)
+#### [自动驾驶传感器工程师 (J251031014)](https://talent.didiglobal.com/social/p/59795)
 
 📍 北京
 
 ---
 
-#### [高级Android研发工程师 (J250509005)](https://talent.didiglobal.com/social/p/56619)
+#### [高级Go研发工程师 乘补方向 (J250213008)](https://talent.didiglobal.com/social/p/55226)
 
 📍 北京
 
 ---
 
-#### [前端研发工程师 (J251029011)](https://talent.didiglobal.com/social/p/59759)
+#### [商业分析专家 (J250730025)](https://talent.didiglobal.com/social/p/58204)
 
 📍 北京
 
 ---
 
-#### [高级算法工程师-安全技术 (J241106018)](https://talent.didiglobal.com/social/p/54421)
+#### [高级研发工程师(搜广推方向) (J250630012)](https://talent.didiglobal.com/social/p/57561)
 
 📍 北京
 
 ---
 
-#### [资深数据研发工程师 (J251103017)](https://talent.didiglobal.com/social/p/59816)
+#### [资深Java研发工程师（保险） (J250923027)](https://talent.didiglobal.com/social/p/59337)
 
 📍 北京
 
 ---
 
-#### [后端开发高级/资深工程师-业务安全 (J240904003)](https://talent.didiglobal.com/social/p/53684)
+#### [决策规划工程师 (J250917009)](https://talent.didiglobal.com/social/p/59196)
 
 📍 北京
 
 ---
 
-#### [专家算法工程师-安全技术 (J250423015)](https://talent.didiglobal.com/social/p/56397)
+#### [（资深）数据仓库研发工程师 (J241016009)](https://talent.didiglobal.com/social/p/54155)
+
+📍 北京
+
+---
+
+#### [保险风险算法 (J250915021)](https://talent.didiglobal.com/social/p/59144)
 
 📍 北京
 
@@ -2714,342 +2768,400 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 
 ## 网易
 
-#### [资深数据分析师（LOFTER社区内容&生态）](https://hr.163.com/job-detail.html?id=70230)
+#### [语音识别算法工程师](https://hr.163.com/job-detail.html?id=71648)
 
-📍 杭州市
+📍 北京市
 
 <details>
 <summary>职位描述</summary>
 
-1、负责社区生态指标体系和分析体系建设，监控异动并给出归因分析，刻画内容供给、推荐策略以及用户策略对内容生态的影响；
+1.  负责语音识别模型的设计与开发，持续优化模型结构以提升识别准确率和鲁棒性；
 
-2、负责社区内容专项分析，探索探索内容流量结构以及创作者价值等生态问题，并深度参与重要生态底层改造；
+2.  跟踪国内外语音识别领域前沿技术，包括端到端模型、自监督学习等主流算法进展；
 
-3、探索社区创作者激励以及内容供需等复杂实验方法探索和沉淀，参与内容实验框架设计等；
+3.  参与大规模语音数据的处理与建模，构建高质量的训练与评测体系；
 
-4、聚焦创作者成长与体验、用户增长与泛化等场景中的数据科学及策略问题，探索生态的长期演化与健康。
+4.  开展语音大模型的研发工作，探索在低资源、远场、噪声等复杂场景下的应用优化；
+
+5.  参与多模态大模型的融合与创新，推动语音与其他模态（如文本、视觉）的联合建模；
+
+6.  协同工程团队完成模型部署与性能调优，支持产品落地与实际应用场景需求。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、3年以上数据分析相关工作经验，具备内容生态、搜索和推荐系统分析、流量分析、用户增长经验者优先，经济学，计算机，统计学数学专业优先；
+1. 硕士及以上学历，计算机、人工智能、电子信息或相关专业，具备扎实的数学和算法基础；
 
-2、熟练掌握SQL（必须），且能使用Python、R等，具有机器学习算法基础，对观测数据因果推断方法（PSM、DID、因果森林等方法）有基础了解；
+2. 3年以上语音识别相关领域工作经验，熟悉主流语音识别框架（如Kaldi、ESPnet、DeepSpeech等）及深度学习模型（如Transformer、Conformer）；
 
-3、具备构建数据指标体系知识框架，曾有过构建指标体系经验;掌握基本数据分析方法，对数据落地到业务有一定经验，有专业的分析报告撰写能力；
+3. 熟练掌握Python和常用深度学习框架（如PyTorch、TensorFlow），具备大规模语音数据处理和模型训练优化经验；
 
-4、良好的沟通能力、团队合作精神和主动意识，具备抽象思维能力，善于从数据中发现问题并推动产品迭代。
+4. 具备语音大模型或多模态大模型研发经验，了解自监督学习、预训练-微调范式者优先；
+
+5. 能持续跟进国际前沿技术进展，独立分析问题并推动模型迭代，具备良好的沟通能力和团队协作精神；
+
+6. 在语音识别、语音合成或自然语言处理相关顶会（如ICASSP、Interspeech、NeurIPS）发表过论文者优先。
 </details>
 
 ---
 
-#### [高级/资深中间件开发工程师](https://hr.163.com/job-detail.html?id=66197)
+#### [资深数据开发工程师（杭州）](https://hr.163.com/job-detail.html?id=63699)
 
 📍 杭州市
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责云音乐微服务、可观测性和存储相关中间件的设计与研发工作；
+1、负责网易集团财经数据中台的数仓规划与设计
 
-2. 从用户视角解决业务在使用过程中遇到的各种疑难问题，能够挖掘业务实际需求给出中间件的最佳实践与演进方案；
+2、完成相关原始数据采集、清洗、整理、去重和治理，保证数据及时性、完整性、一致性和准确性。
 
-3. 以产品化思维完善中间件相关设计，打造稳定、易用的微服务与中间件解决方案，赋能业务高效创新。
+3、参与业务需求调研，根据业务需求设计数据仓库维度模型，并完成数据模型开发，沉淀数据指标。
+
+4、持续改进优化ETL、分析处理等问题，对结构化的数据做数据分析；
+
+5、对项目开发进度、代码质量进行管控、完成技术文档的沉淀。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 3 年以上 JAVA 开发经验，熟练应用线程、IO、网络、JVM等内容，有较强的架构分析设计能力和方案整合能力；
+1、本科及以上学历，计算机、软件工程或相关专业出身，4年以上数据仓库开发工作经验，精通业务数据梳理、数据仓库模型设计与ETL开发．有较强的开发调优能力。
 
-2. 计算机理论基础扎实，对数据结构与算法、操作系统原理、TCP/IP等有一定的理解；掌握分布式系统基本原理，熟悉负载均衡、缓存、一致性、高可用等机制；
+2、精通数据仓库理论体系，对数据处理、维度建模、数据治理等有深刻的认识和实战经验。能够快速地理解业务模型及数据模型。
 
-3. 熟悉微服务架构，具备相关平台与技术栈的经验，包括但不限于：ZK、Dubbo/gRPC、网关、配置中心、可观测性、MQ、缓存等；
+3、精通sql，熟悉Oracle、Mysql、mongo、Doris等主流数据库的一种或多种，熟悉数据库的原理，熟练数据库相关开发工作并注重sql的性能。
 
-4. 有自研相关中间件经验者优先，有多活架构、云原生、容器化、AI等方向经验是加分项，对开源项目有贡献是加分项；
+4、熟悉Linux开发环境，熟悉Sql开发．熟练使用Python、shell等脚本语言。
 
-5. 对技术有足够的热爱，积极尝试新技术，并愿意深入到细节，对工作中的质量问题、效率问题低容忍度；
+5、熟悉Hadoop、Hive、Hbase、spark、flink等工作原理、开发、配置调优。
 
-6. 具备良好的团队合作精神，善于主动学习与思考，对工作积极严谨，勇于承担压力，并以结果为导向推进目标达成。
+6、有数据挖掘及分析相关工作经验尤佳。
+
+7、逻辑思维能力强、有责任心、对新技术保持热情、抗压能力强。
 </details>
 
 ---
 
-#### [大数据-Java开发工程师（实时计算方向）](https://hr.163.com/job-detail.html?id=71474)
+#### [高级/资深服务器运维工程师](https://hr.163.com/job-detail.html?id=64613)
 
 📍 杭州市
 
 <details>
 <summary>职位描述</summary>
 
-1.参与网易内部Flink 计算引擎的代码的维护与开发。
+1、负责服务器系统安装和问题排障； 
 
-2.参与网易内部 Flink cdc 功能的研发
+2、负责分析解决服务器运行中的各类硬件问题； 
 
-3.负责业务支持
+3、负责服务器状态监控和数据分析，及时发现并解决潜在问题； 
+
+4、负责服务器硬件的调研，测试，输出技术报告，持续跟进技术发展趋势； 
+
+5、协助服务器带外（Out-of-band）管理，开发自动化运维工具； 
+
+6、编写和维护知识库文档，跟踪、推进问题修复进展。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.计算机相关专业本科及以上学历，3年以上大数据开发经验
+1、本科及以上学历，对数据敏感，有较好的数据分析能力； 
 
-2.精通 Apache Flink，Flink CDC, 熟悉 Flink 流处理和批处理编程模型, 有实际的开发经验
+2、具备3年以上工作经验，硬件运维、系统运维等优先；
 
-3.熟悉实时计算架构及常用组件，如 Kafka、Zookeeper、HBase、Redis 等
+3、具备Shell、Python和Ansible编程能力，能熟练使用linux命令开展工作； 
 
-4.熟练掌握 Java 或 Scala 编程，具备扎实的编程基础
+4、熟悉服务器、HDD、SSD、RAID卡、网卡等部件的工作原理和对应测试工具； 
 
-5.熟悉大数据生态系统（Hadoop、Spark、Hive 等）者优先
+5、有服务器带外管理，Debian, Rocky, CentOS系统安装和运维经验优先； 
 
-6.熟悉分布式系统原理，有高并发、大规模数据处理经验
+6、工作有激情，热爱互联网行业，有互联网行业从业经验优先有大规模服务器运维经验优先； 
 
-7.了解常见数据结构和算法，具备良好的系统设计和问题定位能力
-
-8.具备良好的沟通能力和团队合作精神，能够快速响应和解决问题
-
-
-
-加分项:
-
-1、熟悉iceberg、paimon、amoro 的加分，对数据湖技术及应用有独到的见解，contributor加分
-
-2、熟悉开源社区的工作方式，有过开源软件的二次开发经验，加分。
-
-3、熟悉容器化技术（Kubernetes）
+7、诚信正直，有较强的主动性、学习能力、自驱力、沟通能力。
 </details>
 
 ---
 
-#### [高级/资深前端开发工程师（数据产品）](https://hr.163.com/job-detail.html?id=65802)
+#### [资深IDC暖通工程师](https://hr.163.com/job-detail.html?id=65561)
 
-📍 杭州市
+📍 安顺市
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责数据产品中心BI、管报、数据引擎等业务系统和平台的前端技术设计和开发工作；
+1、负责数据中心暖通系统的日常运维管理，包括设备巡检、维护计划的制定与监督执行。
 
-2. 关注系统质量、性能和体验，解决系统开发中的技术难点，并参与架构的持续升级；
+2、负责暖通系统相关技术文档的编制、审核与维护更新，确保文档的准确性和完整性
 
-3. 能够高效的借助各类技术工具，排查系统问题，给出初步方案并跟进解决；
+3、定期对暖通系统进行性能分析，识别能效提升空间，提出并实施优化方案
 
-4. 参与各系统需求分析和评审，并给出技术可行性方案，并确保后续交付过程的准确性和还原度；
+4、快速响应并解决暖通系统故障，确保数据中心环境控制不中断。
 
-5. 参与团队内前端基础设施建设，如数据可视化组件库封装；
+5、负责数据中心暖通系统的节能措施落实，优化运行策略，降低能耗成本；
 
-6. 和团队内外做好协同，主动沟通工作，及时上报风险，按期保质保量交付需求；
+6、负责对运维人员进行暖通技能培训和能力培养，提升维护团队整体技术水平；                                                                                                            7、完成上级领导交办的其他任务，支持数据中心的日常运营和项目推进。		
+
+
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、本科及以上学历，计算机相关专业，3年以上前端经验，有数据平台和数据可视化项目开发经验，具备较好的沟通和表达能力，责任心强，工作务实并坚持长期主义，对业务有Owner意识；
+1、大学本科及以上学历，暖通、空调、制冷、热能与动力工程、建筑环境与设备工程等相关专业  
 
-2、扎实的前端技术基础，深入理解 React 底层机制，熟悉 Canvas、ECharts、VTable、SpreadJS 两种或以上技术；具备较强的源码分析能力，有大型项目性能优化和系统重构的经验；
+2、3年以上数据中心行业暖通专业运维技术管理经验，持有注册暖通工程师证优先
 
-3、具备较好的前端数据可视化平台、工具开发能力，具备低码数据搭建平台、数据图表的定制化开发经验；
+3、熟悉数据中心暖通系统的设计、施工、运维和优化，包括冷源选择、气流组织、温湿度控制策略等
 
-4、学习能力和主动性强，能积极发现并解决工作中各类问题，能够通过技术方式减少或替代重复性工作，提升业务交付效率和质量；
+4、熟悉暖通、给排水专业标准及规范，了解数据中心风冷、水冷设备差异及品牌。
 
-5、有AI辅助研发、AI辅助数据分析等相关实践可加分；
+5、具备较强的沟通协调能力，能够与电气工程师、弱电工程师及IT团队紧密合作
+
+6、具有良好的团队合作精神、责任心和抗压能力。	
+
+
 </details>
 
 ---
 
-#### [资深游戏数据分析师](https://hr.163.com/job-detail.html?id=71104)
+#### [资深研发效能工程师](https://hr.163.com/job-detail.html?id=66529)
 
 📍 杭州市
 
 <details>
 <summary>职位描述</summary>
 
+1、负责相关测试左移工作的建设，包含整体质量体系和质量方案设计，持续集成方案建设与优化等工作； 
 
+2、负责自动化测试工作的建设，包含后端服务的自动化测试分级以及工具平台的建设和维护工作； 
 
-1. 结合运营目标，深入分析游戏数据（包括留存及流失，游戏内经济、付费、玩家行为模式等）及用户反馈，挖掘背后的原因和驱动因素，并能依据数据表现提出合理建议；
+3、负责工程效能体系建设和推动研发工程效能改进等工作。 
 
-2. 协同相关团队建立完善的运营数据分析框架和流程，包括数据采集、清洗、存储、分析和可视化，确保数据质量和分析结果的可靠性；
-
-3. 通过数据规律分析，构建模型，为游戏运营决策提供支撑或趋势预测。
-
-4. 能够有效的指导他人进行数据分析工作
-
-
+4、积极和业务测试一起密切协同，通过创新和技术手段，发现&解决测试过程中的痛点，提升测试质量和效率。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 统计学、数学、计算机科学或相关专业，本科以上学历。
+1、本科及以上学历，5年以上开发工作经验，熟悉Linux操作系统，熟练掌握Java、Python等主流编程语言，有后台开发经验者优先； 
 
-2. 有4年以上游戏数据分析师或相关职位经验，拥有游戏长线运营经验者优先。
+2、在CI/CD、自动化测试、全链路压测、容灾演习、混沌工程、监控告警等领域中，有相关实践经验优先；
 
-3. 精通 SQL、Python、R 等数据分析工具
+3、具备自动化测试经验，精通多种主流自动化工具原理及使用，有相关自动化测试框架开发经历，熟悉自动化测试在流水线中的应用； 
 
-4. 具备良好的沟通能力，能够清晰有效地将数据分析结果传达给游戏团队。
+4、熟悉DevOps、K8S、云原生、微服务架构并有实践者优先； 
 
-5. 热爱游戏，熟悉海外休闲品类
+5、杰出的自我驱动学习能力，能独立思考，乐于接受挑战，在压力中突破自己； 
+
+6、思维逻辑清晰，良好的沟通交流及团队协作能力，性格开朗， 善于沟通和事务推进，有团队管理经验者优先。
+</details>
+
+---
+
+#### [资深软件测试工程师(费控系统)](https://hr.163.com/job-detail.html?id=66734)
+
+📍 杭州市
+
+<details>
+<summary>职位描述</summary>
+
+1、按照产品架构和业务要求，制定和推进测试策略，测试计划和测试方法，提升财经域的质量保障能力； 
+
+2、通过测试相关流程、策略、方法和工具等创新，努力提升测试的质量和效率； 
+
+3、自动化测试框架及业务测试支撑工具开发，web端、APP端、服务端、Windows客户端不限； 
+
+4、发现工作中的效率提升点，调研并能够开发相应测试工具和框架，提升测试效率,立项研发并落地 ；
+
+5、配合产品、开发、测试 一起优化和改进代码结构、发布过程、配置管理，顺利实施持续集成。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、工科、计算机或其他相关专业本科以上学历，至少5年以上测试开发工作经验 
+
+2、精通Java/Python/C++等至少一门语言，掌握SpringBoot、Vue、React、Bootstrap、testNG等技术栈，熟悉常见的数据库，熟练掌握Mysql，Mongodb，Redis等 
+
+3、具有较强的业务分析能力，较好的沟通表达和综合协调能力，对质量保证有深刻理解，具有一定的业务建模能力，有金融、资金、税务、财务等相关领域测试经验，熟悉场景资金安全质量保证手段，有相关方案的落地应用 
+
+4、逻辑能力强，高度的责任心、上进心，积极主动、良好的团队合作能力，自我学习和分析解决问题的能力 5、杰出的自我驱动学习能力，能独立思考，乐于接受挑战，在压力中突破自己； 
+
+6、有团队管理经验者优先，有相关的专项测试经验者优先。
+</details>
+
+---
+
+#### [软件测试开发工程师](https://hr.163.com/job-detail.html?id=67109)
+
+📍 杭州市
+
+<details>
+<summary>职位描述</summary>
+
+1、按照产品架构和业务要求，制定和推进测试策略，测试计划和测试方法； 
+
+2、通过测试相关流程、策略、方法和工具等创新，努力提升测试的质量和效率； 
+
+3、自动化测试框架及业务测试支撑工具开发，web端、APP端、服务端、Windows客户端不限； 
+
+4、发现工作中的效率提升点，调研并能够开发相应测试工具和框架，提升测试效率,立项研发并落地 ；
+
+5、配合产品、开发、测试 一起优化和改进代码结构、发布过程、配置管理，顺利实施持续集成。
+
+职位要求1、工科、计算机或其他相关专业本科以上学历，至少5年以上开发或测试开发工作经验 2、精通Java/Python/C++等至少一门语言，掌握SpringBoot、Vue、React、Bootstrap、testNG等技术栈，熟悉常见的数据库，熟练掌握Mysql，Mongodb，Redis等 3、具有较强的业务分析能力，较好的沟通表达和综合协调能力，对质量保证有深刻理解，具有一定的业务建模能力 4、逻辑能力强，高度的责任心、上进心，积极主动、良好的团队合作能力，自我学习和分析解决问题的能力 5、杰出的自我驱动学习能力，能独立思考，乐于接受挑战，在压力中突破自己； 6、有团队管理经验者优先，有税务、营收、资金相关方向测试经验者优先。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、工科、计算机或其他相关专业本科以上学历，至少5年以上开发或测试开发工作经验； 
+
+2、精通Java/Python/C++等至少一门语言，掌握SpringBoot、Vue、React、Bootstrap、testNG等技术栈，熟悉常见的数据库，熟练掌握Mysql，Mongodb，Redis等 ；
+
+3、具有较强的业务分析能力，较好的沟通表达和综合协调能力，对质量保证有深刻理解，具有一定的业务建模能力 ；
+
+4、逻辑能力强，高度的责任心、上进心，积极主动、良好的团队合作能力，自我学习和分析解决问题的能力；5、杰出的自我驱动学习能力，能独立思考，乐于接受挑战，在压力中突破自己； 
+
+6、有团队管理经验者优先，有税务、营收、资金相关方向测试经验者优先。
+</details>
+
+---
+
+#### [高级/资深IDC运维工程师](https://hr.163.com/job-detail.html?id=68485)
+
+📍 安顺市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责数据中心基础设施（如暖通、电力、弱电等方面）等设施设备的维护、管理；
+
+2、负责数据中心基础设施日常维护及故障报修，保持机房运行环境的良好状态；
+
+3、制定数据中心基础设施维护作业计划，按计划执行确保高质量完成；
+
+4、负责数据中心基础设施的故障处理，包括软硬件设备的维修和更新维护工作，确保设备正常运行；
+
+5、协助主管处理数据中心的紧急事件，确保快速恢复服务；
+
+6、定期更新操作手册（如SOP、MOP、EOP等），确保运维工作的标准化和规范化；
+
+7、协调和配合各相关设备厂商维修人员进行各项维修维护工作；7、负责为现场运维人员提供技术支持和培训，提升团队整体能力。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、电气、暖通、智能化等数据中心相关专业，本科及以上学历；
+
+2、三年以上数据中心维护经验；
+
+3、掌握数据中心基础设施（如UPS、AHU、末端空调、发电机、配电柜等）的工作原理、维保流程及相关标准，熟悉具体的维护方案；
+
+4、具备大型数据中心工作经验者优先；
+
+5、具有较强的责任心、工作主动性，较好的执行能力、沟通能力及团队协作能力。
+
+
+</details>
+
+---
+
+#### [高级it技术支持工程师](https://hr.163.com/job-detail.html?id=70545)
+
+📍 上海市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责输出专业、优质的IT技术支持，提供高效、贴心的IT现场解决服务； 
+
+2、现场解决服务领域涵盖：计算机软、硬件、投影、电视、电话、文印、视频设备、多媒体终端、移动设备等； 
+
+3、基于ITSM、ITIL标准化流程平台，按需解决和跟踪员工IT需求事件；
+
+4、负责电脑资产管理、配件管理，达成资产准确率； 
+
+5、掌握计算机基础、熟悉Windows、Mac操作系统； 
+
+6、根据业务不同需求，保持开放、持续学习新的知识和技能，并灵活运用，给工作带来价值产出。 
+
+7、主管安排的其他工作
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上计算机网络，软件相关专业； 
+
+2、熟练掌握Windows/Mac/iOS产品线常用维护技巧，能深入浅出的讲出维护原理； 
+
+3、对计算机信息服务行业抱有热忱的心态，思维敏捷； 
+
+4、擅于思考，勇于发现，勤于总结，乐于分享者优先考虑； 
+
+5、具备基础的计算机硬件理论知识，熟悉常用办公软件； 
+
+6、具备良好的沟通技巧和团队协作能力，积极向上的工作态度，具有强烈的客户服务意识。
+</details>
+
+---
+
+#### [IDC资源规划专员](https://hr.163.com/job-detail.html?id=70651)
+
+📍 杭州市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责集团IDC机房&机架位资源的生命周期管理，包含需求管理、资源规划、容量运营、综合布线、资源交付回收等；
+
+2、负责集团各业务IDC资源需求对接管理，跟进业务需求滚动预测&需求变更，确保交付SLA； 
+
+3、负责IDC资源的整体规划，制定中长期规划、跟进短期规划实施并根据业务变化动态调整； 
+
+4、持续优化并实现供需交付端到端的流程线上化，建立容量监测体系，保障资源供给健康度指标； 
+
+5、负责统筹协调业务机房搬迁、机架整合，不断优化基础设施成本； 
+
+6、参与基础设施成本分摊及成本运营管理；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，5年以上IDC资源规划、需求&容量管理或交付相关经验； 
+
+2、熟悉数据中心端到端交付全流程，有一定的项目管理经验，有PMP证书或PM经验优先； 
+
+3、逻辑性强，具备一定的数据分析能力，有业务敏感度和成本意识； 
+
+4、具有较强的抗压能力和创新能力，乐于接受有挑战的工作、敢于突破常规模式；善于团队合作，有责任感、较强的沟通协调能力。
 </details>
 
 ---
 
 ## 京东
 
-#### [系统规划岗](https://zhaopin.jd.com/web/job/job_info_list/3)
+#### [金融产品专家（京东金条）](https://zhaopin.jd.com/web/job/job_info_list/3)
 
 📍 北京
 
 <details>
 <summary>职位描述</summary>
 
-1、规划并完善服务系统数字化能力，针对业务需求进行市场调研、友商对标，联动上下游业务流程及系统现状，输出系统解决方案，并推动产研及业务落地；
+1. 负责贷中交易链路（交易、还款、额度管理）的产品设计与优化，确保用户体验的持续提升；  
 
-2、负责上门、寄修、到店等形式服务系统相关需求梳理，设计需求提报、优先级排序、资源冲突升级等相关流程规则，并定期同步问题及进度；
+2. 推动信贷产品模式的创新与孵化，结合业务场景需求，为用户提供差异化的产品服务；  
 
-3、负责业、产、研需求对接过程中的遇到的系统问题、工单问题等日常运营工作。
-</details>
+3. 与跨部门团队紧密合作，确保产品规划的有效落地，推动业务目标的实现；  
 
-<details>
-<summary>职位要求</summary>
+4. 跟踪行业动态，研究市场趋势，持续优化产品策略，保持产品的市场竞争力；  
 
-1、本科学历，计算机或供应链相关专业优先；
-
-2、有售后服务系统项目规划经验、拥有安装、维修、清洗、回收等业务经验优先；
-
-3、具备高数据敏感度，数据分析能力，能透过数据表象挖掘问题根源；
-
-4、擅长项目的计划与实施、流程优化、需求及运营数据分析、资源统筹与进度管理，有系统项目规划经验优先；
-
-5、强结果导向，协同推动力强，坚韧抗压，优秀的口头和书面沟通表达能力；
-
-6、较好的体验设计意识，主动学习、独立思考，用户意识强，能站在用户角度思考问题。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [搜索策略产品经理](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1.负责京东搜索导购交互、流量机制、流量效率等内容，提升搜推的用户体验；
-
-2.结合公司和部门经营方向，并与京东各品类和平台业务运营团队协作，持续提升不同用户不同需求场景的搜索流量分发能力；
-
-3.从品类增长问题出发，分析用户需求和供给结构，洞察增长机会点，设计相应的搜推解决方案，驱动品类增长。
-
-
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.5年以上互联网产品工作经验，有大型搜推工作经验者优先，能够独立推动完整项目者优先；
-
-2.具备产品宏观视角，能够独立负责产品设计和落地，良好的数据分析和挖掘能力；
-
-3.优秀的用户视角和洞察力，擅长从用户场景及产品体验角度出发思考问题；
-
-4. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [移动端开发工程师（端智能方向）](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 广东
-
-<details>
-<summary>职位描述</summary>
-
-1、端智能SDK开发与维护：负责设计、开发和高性能优化端智能SDK，为业务提供稳定、高效的策略执行与AI推理环境。
-
-2、业务支持与接入：封装简洁易用的API，支持各业务方快速接入端智能能力，并解决线上问题。
-
-3、性能优化与稳定性建设：持续进行SDK的性能、内存、功耗优化，建立完善的监控体系，保障端侧智能服务的稳定性。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、学历与经验：计算机相关专业本科及以上学历，3年以上iOS/Android开发经验。有SDK开发、性能优化或端智能相关经验者优先。
-
-2、技术能力：
-
-精通Java/Kotlin或Objective-C/Swift，C/C++，深入理解移动端架构、内存管理及多线程编程。
-
-具备扎实的算法和数据结构基础，对性能敏感，有丰富的调优经验。
-
-熟悉网络通信、数据序列化、组件化等开发技术。
-
-了解AI模型部署（如TFLite）或脚本引擎（如Lua、CPython）者优先。
-
-3、综合素质：具备优秀的系统设计能力和业务抽象能力，责任心强，乐于技术攻关，追求极致的性能优化，对新技术有强烈的好奇心，具有良好的团队协作精神。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [算法工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1、负责京东物流体验和NLP算法工作，共同搭建业界领先的算法系统；
-
-2、深入理解业务和深度学习，优化模型&策略，持续提升用户体验；
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-职位要求：
-
-1、具备优秀的编码能力，扎实的数据结构和算法功底；
-
-2、优秀的分析问题和解决问题的能力，对解决具有挑战性问题充满激情，有良好的沟通表达能力和团队精神；
-
-3、熟悉机器学习/深度学习、图网络算法、NLP、大模型中一项或多项；
-
-4、结合业务场景，构建物流领域的垂类大模型，熟悉分布式训练原理，有对应的实践落地经验优先；
-
-5、有顶会论文者优先。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [Java后端研发工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 北京
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责物流和供应链，履约系统，履约相关算法系统核心业务系统的设计、开发与维护，确保系统，特别是履约算法相关的稳定性和高效性；参与关键项目的技术方案设计，解决复杂的技术难题；
-
-2. 根据业务需求，进行系统架构的优化与重构，提升系统性能，确保业务的快速发展；
-
-3. 参与制定技术规范和标准，推动团队技术能力的提升；带领团队完成技术难题攻关，推动技术创新；
-
-4. 与产品、运营等部门紧密合作，深入理解业务需求，提供技术解决方案，推动业务目标的实现；
-
-5. 跟踪行业内的技术动态，引入先进的技术和工具，持续优化技术栈，提升团队的技术竞争力。
+5. 负责产品的全生命周期管理，包括需求分析、产品设计、项目管理、上线运营等，确保产品的成功推出与持续优化。
 </details>
 
 <details>
@@ -3057,63 +3169,29 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 
 1. 教育背景
 
-   学历要求：本科及以上学历，计算机科学、软件工程等相关专业优先，专业不限亦可考虑；
+   学历要求：本科及以上学历，金融、经济、管理等相关专业优先；
 
 2. 工作经验
 
-   工作经验：3-5年软件开发相关工作经验，具备大型互联网公司或相关领域的工作背景者优先；
+   工作经验：3-5年金融产品或相关领域工作经验，具备信贷产品设计与管理经验；
 
 3. 能力要求：
 
-   技术能力：精通Java编程语言，熟悉Spring、MyBatis等主流框架；具备良好的代码编写习惯，能够编写高质量、高效率的代码；熟悉微服务架构，了解分布式系统原理；有较强的系统设计能力，能够独立完成模块设计与开发；
+   产品能力：具备较强的产品规划与落地能力，能够独立负责信贷产品的创新孵化与优化；熟悉金融产品的全生命周期管理，包括但不限于产品设计、用户体验优化、风险控制等；
 
-   业务理解：具备良好的业务理解能力，能够快速理解业务需求并转化为技术方案；有较强的逻辑思维能力，能够从技术角度分析和解决业务问题；
+   沟通技巧：具备简单、直接、高效的沟通方式与技巧，能够与跨部门团队有效沟通，推动项目进展；
+
+   创新精神：具备突破创新的精神与意愿，能够在现有产品基础上提出创新性的产品方案；
 
 4. 基本素质
 
-   团队协作：具备良好的沟通能力和团队合作精神，能够与团队成员、跨部门协作，共同推进项目进展；
+   客户导向：以客户为先，能够从客户需求出发，设计满足市场需求的金融产品；
 
-   问题解决：具备独立分析和解决问题的能力，面对复杂问题时能够冷静思考，提出有效的解决方案；
+   担当精神：具备强烈的责任心与担当精神，能够在压力下保持高效工作；
 
-   责任心：具有强烈的责任心和使命感，对工作认真负责，能够承受一定的工作压力；
+   团队合作：具备良好的团队合作精神，能够在团队中发挥积极作用，共同推动项目成功；
 
-   创新思维：具备创新意识，关注技术发展趋势，能够不断学习新技术，提升个人技术能力和团队技术水平。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [数据分析岗](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 江苏
-
-<details>
-<summary>职位描述</summary>
-
-1、负责客服运营体验相关项目的报表制作、指标监控和分析，能够下探根因问题并为业务部门提供运营改善支持和成本监控预警，促进客户体验提升
-
-2、负责客户体验的底层数据设计、统计与输出等数据基础搭建和线上化建设。参与核心指标口径/目标合理性评估与管理，支持业务或中台的专项性数据需求
-
-3、负责干系项目/指标的履约率达成管理与核心运营分析，提前识别业务运营潜在问题并开展专项论证分析，跟进干系部门改善与项目达成，促进客户体验提升
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1、本科及以上学历，计算机专业、有数仓项目经验优先，能熟练使用PPT、EXCEL、 WORD等常用办公软件，会SQL、PowerBi;
-
-2、具备专业的数据分析能力和项目推动能力，具备搭建线上化数据看板的能力和过往经验
-
-3、具备优秀的专项推动、跨部门沟通、业务理解转化能力，可独立输出贴近业务的分析报告和跨部门项目推动
-
-4、有体验管控经验，有良好的成本意识，抗压能力强
-
-符合京东价值观:客户为先、创新、拼搏、担当、感恩、诚信。
-
-
+   持续学习：具备持续学习的意愿，能够紧跟行业发展趋势，不断提升自身专业能力。
 
 
 
@@ -3122,138 +3200,336 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 
 ---
 
-#### [家电安装运营岗](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 山东
-
-<details>
-<summary>职位描述</summary>
-
-职责要求：
-
-1、攻坚克难与技术支援：负责区域内或跨区域的疑难杂症技术支持，为一线师傅提供远程或现场的技术指导，制定复杂故障的解决方案。
-
-2、技术能力赋能及监控：负责组织和实施所在区域服务工程师的技术培训，包括新产品技术、新工艺、常见故障排查等。审核重大服务方案，对服务流程提出改进建议，参与服务质量的抽查与评估，推动团队整体技术水平的提升。
-
-3、服务标准化知识沉淀：系统性收集、分析、编写本省区的典型故障案例库、技术快报和经验手册，形成可复用的知识资产。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-任职要求：
-
-1、技能要求：多品类*多场景安装技能跨度大为优
-
-2、经验要求：具备至少五年售后服务技术实战经验，持有国家认可的特种作业操作职业资格证书。
-
-3、素质要求：专科及以上，具备出色的客户沟通能力，能向非专业人士清晰解释问题；拥有极强的责任心和服务意识，能独立管理从接单到闭环的全流程，乐于分享，具有工匠精神。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [充电桩安装运维岗](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 山东
-
-<details>
-<summary>职位描述</summary>
-
-职责要求：
-
-1、攻坚克难与技术支援：负责区域内或跨区域的疑难杂症技术支持，为一线师傅提供远程或现场的技术指导，制定复杂故障的解决方案。
-
-2、技术能力赋能及监控：负责组织和实施所在区域服务工程师的技术培训，包括新产品技术、新工艺、常见故障排查等。审核重大服务方案，对服务流程提出改进建议，参与服务质量的抽查与评估，推动团队整体技术水平的提升。
-
-3、服务标准化知识沉淀：系统性收集、分析、编写本省区的典型故障案例库、技术快报和经验手册，形成可复用的知识资产。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-任职要求：
-
-1、技能要求：以新能源充电桩为主【家用、商充、场站依次升维】
-
-2、经验要求：具备至少三年以上单一或多品牌售后服务技术实战经验，持有国家认可的特种作业操作职业资格证书。
-
-3、素质要求：专科及以上，具备出色的客户沟通能力，能向非专业人士清晰解释问题；拥有极强的责任心和服务意识，能独立管理从接单到闭环的全流程，乐于分享，具有工匠精神。
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [技术支持工程师岗](https://zhaopin.jd.com/web/job/job_info_list/3)
-
-📍 江苏
-
-<details>
-<summary>职位描述</summary>
-
-1.解决系统运营过程中出现的问题；解答系统用户以及相关业务方的咨询；跟进系统问题的解决;
-
-2.协调系统线上验证；分析、管理日常系统问题，形成系统运营报告；
-
-3.综合分析系统运行状况，提出有效优化方案，促进系统提升；参与并推进系统运营工作体系化和规范化。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1.计算机、电子商务等相关专业，本科以上学历；
-
-2.具备良好的数据分析能力，能够熟练使用SQL等数据分析工具；
-
-3.具有AI、业务系统实施、运营支持和等相关工作经验者优先；
-
-4.能够承受较大的工作压力；良好的团队协作精神和服务意识，细致周到的做事风格；
-
-5.良好的表达能力、沟通能力，能够与用户、开发、业务部门进行良好的沟通；
-
-
-
-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
-</details>
-
----
-
-#### [APP客户端开发工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+#### [Java技术专家](https://zhaopin.jd.com/web/job/job_info_list/3)
 
 📍 北京
 
 <details>
 <summary>职位描述</summary>
 
-1.主导 APP 客户端（iOS 或 Android 平台）全流程开发，从起始的需求挖掘，到设计架构，再到编码实现、严格测试，直至上线运营及后续维护，确保 APP 功能完善、运行稳定且用户体验上乘；
+1.设计并实现基于大模型的智能体架构，支撑机器人及其他硬件载体的本体控制，以及各类生活、教育类服务；
 
-2.密切关注 APP 开发前沿技术，结合公司业务特性，积极引入创新技术手段，持续优化 APP 性能，全方位提升产品竞争力，使 APP 在运行效率、界面流畅度等关键指标上保持行业领先；
+2.支持智能机器人及其他智能硬件载体的语音交互、人机对话、应用调度等；
 
-3.深度参与产品需求评审，与产品、设计、后端开发等多部门高效协同，精准解读业务需求，将其转化为切实可行的技术方案，助力产品从概念构思高效落地为成熟产品；
+3.设计和开发AI Agent应用服务平台，满足大规模并发需求处理，满足时延、多租户、稳定性等各类技术性指标；
 
-4.依据产品迭代规划，按时且高质量完成 APP 新功能开发，同时对既有功能进行优化升级，及时处理线上问题，全力保障 APP 的稳定运行，不断提升用户满意度；
+4.设计和开发多Agent协同交互框架，支持使用一套标准协议接入内外部开发的Agent，并实现信息的安全隔离；
 
-5.参与 APP 的技术选型与架构搭建，确保架构具备良好的扩展性、稳定性与安全性，能适应业务的快速发展与变化，为 APP 的长期发展奠定坚实技术基础。
+5.设计和开发适配机器人智能终端和云服务的部署架构，并实现根据不同场景的Agent服务调度。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1.需求与设计：与产品团队深度沟通，充分理解 APP 功能需求、业务逻辑与用户体验期望，为产品设计提供专业技术视角的建议。基于需求，制定详尽的 APP 客户端技术方案，涵盖架构设计、技术选型、接口设计等关键环节，确保技术方案契合业务需求，具备良好的扩展性、稳定性与性能表现；
+1.本科及以上学历，计算机科学、人工智能或相关专业，具备同类系统的主导开发经验；
 
-2.开发实现：运用对应编程语言，如 Java、Kotlin（针对 Android 平台）或 Objective - C、Swift（针对 iOS 平台），独立完成 APP 客户端各功能模块的编码工作，保证代码具备高可读性与可维护性。负责 APP 界面设计与交互实现，利用各类 UI 框架，打造美观、易用、符合用户操作习惯的 APP 界面，提升用户使用体验。实现 APP 与后端服务器的数据交互，熟练运用 HTTP/HTTPS 协议、RESTful API 等技术，确保数据传输安全、稳定且高效；
+2.具备精湛的架构设计、编程、系统部署和调试能力；
 
-3.测试优化：编写并执行 APP 客户端单元测试用例，对开发完成的功能模块进行全面细致的测试，及时发现并修复潜在代码缺陷与漏洞，保障功能正常运行。积极参与 APP 集成测试与系统测试，与测试团队紧密配合，对 APP 整体性能、兼容性（不同手机型号、操作系统版本）、稳定性进行全面测试与优化，确保 APP 产品质量过硬。运用性能分析工具，对 APP 进行性能调优，包括优化内存使用、加快界面加载速度、降低 CPU 占用率等，提升 APP 运行效率与用户体验；
+3.对语音交互、人机对话或AI Agent有扎实的技术积累和项目经验者优先；
 
-4.维护迭代：负责线上 APP 的日常维护工作，及时响应并妥善处理用户反馈问题与线上故障，全力保障 APP 稳定运行。根据产品迭代计划与业务需求变更，对 APP 进行功能升级与迭代开发，持续优化产品功能与用户体验。关注移动应用开发技术发展趋势与行业动态，适时引入新技术、新工具，不断提升 APP 技术水平与竞争力；
+4.对于 AI模型和模型部署有较强的理解和掌握，对于模型的优化有一定的了解。
 
-5.文档与协作：编写详细、规范的技术文档，包括功能设计文档、接口文档、操作手册等，确保技术知识有效沉淀与团队内部共享。与产品、设计、后端开发、测试等团队成员保持密切沟通与协作，积极参与团队技术讨论，共同攻克技术难题，推动项目顺利进行.
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [智能机械臂产品现场维养](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1、负责物流场景视觉引导机械臂项目的现场安装、调试及部署；
+
+2、负责物流场景视觉引导机械臂项目现场的日常维护和保养；
+
+3、负责物流场景视觉引导机械臂项目现场的功能测试，文档维护，信息反馈；
+
+4、支持研发工程师对设备现场进行远程升级、维护；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科以上学历，1~3年工作经验
+
+2、具有工业机械臂项目的维护、保养经验
+
+3、熟悉主流机械臂的操作、及简单应用开发
+
+4、熟悉机械臂工作站组成，能够看懂简单的机械及电气图纸，可根据图纸对设备进行电气及机械维护
+
+5、有较好的执行力和沟通能力
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [机器智能软件工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责关节或移动机器人相关应用软件的开发和部署；
+
+2. 负责代码的单元测试，以及视觉算法、运动控制算法的集成和部署；
+
+3. 负责2D、3D相机，及各类机器人硬件驱动接口的开发和集成；
+
+4. 负责箱内拣选、拆垛、混合码垛、供包等物流场景的机器人应用软件、界面开发、部署；
+
+5. 负责工业（多关节）、协作机器人及其它非标机器人的在物流场景下的应用研发工作；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 本科及以上学历，机器人、计算机、自动化相关专业毕业； 
+
+2. 熟悉Linux工作环境，面向对象设计方法，多线程，Socket，WebSocket，Qt或其他GUI框架；
+
+3. 熟悉机器人软件架构设计和系统开发，熟悉进程间通信DDS、ZMQ等； 
+
+4. 编程基本功扎实，精通C++11/14、 Python等编程语言；
+
+5. 有良好的编程风格和工作习惯，熟练使用常用的开发工具；
+
+6. 熟悉机器人操作系统ROS，具有机器人软件开发，机器视觉等相关基础和项目经历者优先；
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [机械臂机械工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1、负责视觉引导多关节机器人、SCARA、DELTA及其他机器人整体方案设计
+
+2、负责研发适配不同场景的端拾器，满足多SKU抓取的需求
+
+3、负责供应链建设，器件库的维护和拓展，负责机械件的选型、测试用例设计和测试报告输出
+
+4、供应商设计方案可行性评估及提出优化建议
+
+5、负责仿真相关的规范制定及报告类、文件类的归档等工作
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科以上学历，具有物流设备相关的设计开发经验，具备多关节机器人等类型研发设计经验优先
+
+2、具有扎实的基础知识体系，对于机械结构、工程材料、表面处理、冷/热加工、生产工艺、装配、现场工程部署及现场调试有丰富的经验
+
+3、熟练掌握常用的传动机构，熟悉各种电机的性能特点，能根据需要进行合理选型；能对相关结构进行运动或动力学建模、分析及仿真
+
+4、熟练掌握两种以上三维和二维绘图软件，熟悉制图、出图流程及相关制图标准
+
+5、具有独立开发设备的能力，熟悉新产品的研发流程，可独立承担某种新产品的研发以及研发过程中协调、组织工作
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [机器智能软件工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责关节或移动机器人相关应用软件的开发和部署；
+
+2. 负责代码的单元测试，以及视觉算法、运动控制算法的集成和部署；
+
+3. 负责2D、3D相机，及各类机器人硬件驱动接口的开发和集成；
+
+4. 负责箱内拣选、拆垛、混合码垛、供包等物流场景的机器人应用软件、界面开发、部署；
+
+5. 负责工业（多关节）、协作机器人及其它非标机器人的在物流场景下的应用研发工作；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 本科及以上学历，机器人、计算机、自动化相关专业毕业； 
+
+2. 熟悉Linux工作环境，面向对象设计方法，多线程，Socket，WebSocket，Qt或其他GUI框架；
+
+3. 熟悉机器人软件架构设计和系统开发，熟悉进程间通信DDS、ZMQ等； 
+
+4. 编程基本功扎实，精通C++11/14、 Python等编程语言；
+
+5. 有良好的编程风格和工作习惯，熟练使用常用的开发工具；
+
+6. 熟悉机器人操作系统ROS，具有机器人软件开发，机器视觉等相关基础和项目经历者优先；
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [机械臂机械工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1、负责视觉引导多关节机器人、SCARA、DELTA及其他机器人整体方案设计
+
+2、负责研发适配不同场景的端拾器，满足多SKU抓取的需求
+
+3、负责供应链建设，器件库的维护和拓展，负责机械件的选型、测试用例设计和测试报告输出
+
+4、供应商设计方案可行性评估及提出优化建议
+
+5、负责仿真相关的规范制定及报告类、文件类的归档等工作
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科以上学历，具有物流设备相关的设计开发经验，具备多关节机器人等类型研发设计经验优先
+
+2、具有扎实的基础知识体系，对于机械结构、工程材料、表面处理、冷/热加工、生产工艺、装配、现场工程部署及现场调试有丰富的经验
+
+3、熟练掌握常用的传动机构，熟悉各种电机的性能特点，能根据需要进行合理选型；能对相关结构进行运动或动力学建模、分析及仿真
+
+4、熟练掌握两种以上三维和二维绘图软件，熟悉制图、出图流程及相关制图标准
+
+5、具有独立开发设备的能力，熟悉新产品的研发流程，可独立承担某种新产品的研发以及研发过程中协调、组织工作
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [AI产品经理岗](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1. AI产品规划​​：调研物流行业痛点，制定AI产品技术路线图，分析物流业务系统需求，设计AI功能优先级
+
+​​2. 产品全生命周期管理​​
+
+​​需求转化​​：将物流业务需求转化为AI技术方案
+
+​​原型设计​​：输出高保真原型及PRD文档，明确AI功能边界
+
+​​研发协作​​：主导跨部门协作（算法/技术团队），确保AI模型开发与部署
+
+​​3. 技术可行性评估与风险管理​​：评估AI技术边界，设计方案
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机/数据科学/物流管理化相关专业
+
+2、5年以上AI产品经验，主导过2个以上AI产品从0到1落地
+
+3、熟悉AI基础技术及场景应用
+
+4、有财务AI项目成功案例（如智能报销、动态定价系统）
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [算法开发](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 广东
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责海外电商场景的搜推营销等算法开发工作；
+
+2. 负责推荐算法和机器学习模型优化，提升算法的应用效果。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 计算机科学等相关专业，本科以上学历；
+
+2. 数据结构和算法功底扎实，有良好的编程能力，熟练使用python、Java或C++；
+
+3. 熟悉常见的机器学习模型、图神经网络模型、序列模型，熟悉Tensorflow或者PyTorch开发平台，了解大数据处理平台Spark等；
+
+4. 加分项包括获得国际竞赛奖项或者在国际前沿会议期刊上发表过论文；
+
+5. 具有跨境电商行业经验者优先。
+
+
+
+符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
+</details>
+
+---
+
+#### [软件开发工程师](https://zhaopin.jd.com/web/job/job_info_list/3)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1.物流财务领域系统架构，参与需求分析、架构设计、技术决策以及详细设计；
+
+2.优化现有系统架构、性能，适应业务变化发展；
+
+3.把握复杂系统设计，保证架构质量；
+
+4.解决系统关键问题及技术难点；
+
+5.前瞻性规划应用架构演进，并推进落地，负责核心代码编写；
+
+6.行业相关领域前沿技术研究及技术创新、落地。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1.本科及以上学历，计算机或相关专业，5年以上JAVA大型复杂系统设计开发经验；
+
+2.精通JAVA及JVM，掌握容器、NIO、多线程、GC等技术细节，能熟练阅读源码；
+
+3.精通spring技术栈开发框架，了解技术细节与实现原理；
+
+4.精通MySQL、ES、redis、MQ等中间件，掌握技术细节可进行调优;
+
+5.精通 Java 及面向对象设计开发，有良好的设计、建模能力，熟悉常见设计模式与使用场景.
 
 
 
@@ -3264,128 +3540,228 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 
 ## 小红书
 
-#### [国际化后端leader](https://job.xiaohongshu.com/social/position/18022)
+#### [前端开发专家-蒲公英&买手](https://job.xiaohongshu.com/social/position/14453)
 
-📍 深圳市
+📍 上海市/北京市
 
 <details>
 <summary>职位描述</summary>
 
-1、全球化技术战略与架构，负责小红书国际化业务的后端整体技术规划、系统设计和演进，构建高可用、可扩展、安全的全球化技术架构。
+工作职责
 
-2、核心系统建设与攻坚， 主导跨国、跨地域的分布式系统设计，攻克高并发、低延迟、数据一致性等核心技术难题，保障全球各区域用户的极致体验。
+1、负责小红书蒲公英平台业务的前端研发，包括BK撮合（商单撮合）、买手（达人）成长，作为业务Partner参与到产品决策讨论；
 
-3、业务赋能与高效交付，领导后端团队，紧密协同产品、前端和算法等全球跨职能团队，确保业务需求高质量、高效率地交付和上线。
+2、参与创新业务场景探索，如基于AI探索新的撮合模式，带来业务新的增长点；
 
-4、技术探索与创新， 跟踪并引入业界先进的后端技术（如云原生、边缘计算、AI基础设施等），并将其应用于国际化业务场景，为产品创造技术壁垒和核心竞争力。
+3、与产品协力设计和规划内容撮合和买手分销业务，通过技术迭代支撑业务目标的达成；关注线上产品的体验和质量并持续优化，为用户提供顺畅的产品链路；
 
-5、团队管理与人才发展，负责国际化后端团队的搭建、技术梯队建设和人才培养，打造一支具备全球视野、顶尖技术能力和高度自驱力的工程师团队。
 
-6、跨文化协作与推动， 具备优秀的跨文化沟通和协作能力，能够有效组织和协调跨地域、跨时区的技术团队，推动公司级重点项目的落地。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、扎实的计算机科学基础，精通Java/Go/Python等至少一门主流后端语言，对其生态和底层原理有深入理解。
+任职资格
 
-2、具备大规模分布式系统架构设计经验，深刻理解微服务、容器化、数据库、缓存、消息队列等技术的选型与应用。
+1、本科及以上学历，计算机、软件工程及相关专业，3-5年前端研发工作经验；
 
-3、熟悉全球化系统架构的挑战，如全球网络加速、多地域数据部署与同步、跨境数据合规（如GDPR）等，并有相关的实战经验。
+2、精通JavaScript、HTML、CSS等前端基础技能，熟悉W3C标准，了解常见的HTML5及CSS3特性；
 
-4、对代码质量、研发流程、DevOps有深刻见解，能够建立并推行高效的工程规范和质保体系，提升团队整体交付效率。
+3、熟练掌握Vue和React Native框架，对微前端、跨端技术有较深的理解和实践；
 
-5、拥有3年以上的技术团队管理经验，曾领导过15人以上的后端团队，具备优秀的团队建设、人才发展和绩效管理能力。
+4、对前端应用性能优化有一定的研究和经验，能够编写高效、可维护的代码；
 
-6、出色的沟通协调能力、项目推动力和解决问题的能力，具备高度的责任心和强大的内在驱动力，能承受快节奏业务下的压力。
+5、具备良好的稳定性意识与经验，熟悉稳定性相关工具使用、问题排查常规手段；
 
+6、有较强的逻辑能力和学习能力，乐于面对挑战，具备团队合作精神，有AICoding相关经验加分；
+</details>
 
+---
+
+#### [数据仓库专家](https://job.xiaohongshu.com/social/position/18045)
+
+📍 上海市/北京市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责小红书集团整体基础数据建设（涵盖社区、电商、广告等业务方向），提供通用、稳定、丰富、高效的公共数据能力，提升数据支持业务的效率，探索数据的增量价值；
+
+2、面向社区、电商、广告等业务方向，建设专题数据，提供丰富易用的数据服务，直接支持公司业务决策分析，赋能业务；
+
+3、建设公司全站数据治理和管理体系，结合业务+元数据+技术，推进资源成本的优化，提高数据服务的数据质量，保障数据产出的稳定性。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，五年以内数据研发经验；
+
+2、有较为丰富的数据仓库研发经验，熟悉数据仓库、数据体系和数据价值的建设及优化；
+
+3、掌握数据管理治理的相关理论，熟悉数据治理、数据标准、企业级数据建模、主数据、元数据管理等方法论；
+
+4、熟悉大数据架构，具备实时或离线数据研发能力，熟悉Hive，Kafka，Spark，Storm，Hbase，Flink等相关技术并有相关开发经验；
+
+5、具备快速学习能力、跨团队沟通协作能力，有较强的逻辑思维能力和解决问题能力。
+</details>
+
+---
+
+#### [AI平台高级前端工程师](https://job.xiaohongshu.com/social/position/18040)
+
+📍 北京市/上海市/深圳市/杭州市
+
+<details>
+<summary>职位描述</summary>
+
+任职资格：
+
+本科及以上学历，计算机相关专业，3-5年前端开发经验。
+
+扎实的计算机基础知识，熟悉HTML、CSS、JavaScript等Web标准技术。
+
+精通主流前端框架，如React、Vue等，有实际项目经验。
+
+熟悉前端工程化体系，包括但不限于Webpack、Babel、ESLint等工具。
+
+有良好的系统架构设计能力，能够设计和实现复杂的前端系统。
+
+具备良好的沟通能力和团队协作精神，能够快速适应团队文化和工作节奏。
+
+对用户体验有深刻的理解，能够从用户视角改善平台体验。
+
+有强烈的好奇心，对前沿技术保持敏感，愿意不断学习和尝试新技术。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+工作职责：
+
+参与小红书内部AI平台QuickSilver的前端开发工作，负责平台的前端架构设计和实现。
+
+与后端团队紧密合作，实现数据管理、模型管理、模型训练、压缩、推理、部署、服务管理、资源调度等功能。
+
+优化前端性能，提升用户体验，确保平台的稳定性和高可用性。
+
+设计和实现前端交互界面，提升平台的易用性和美观性。
+
+参与前端技术选型和技术预研，推动前端技术的发展和创新，引入和推广新的技术和工具。
 
 加分项：
 
-有从0到1主导或深度参与过成功出海产品的后端架构设计经验。
+1. 有AI平台或相关领域的开发经验，了解大模型（LLM/MLLM/SD/CV/NLP）的基本原理和应用场景。
 
-熟悉多云（AWS, GCP, Azure等）架构和治理，具备成本优化经验。
+2. 有大规模分布式系统的开发经验，熟悉Kubernetes、Docker等容器技术。
 
-在内容推荐、社交网络、音视频等领域有深厚的技术积累。
+3. 有前端可视化相关工作经验，熟悉Echarts、G2等图表组件库。
 
-在技术社区（如GitHub, Stack Overflow, 技术博客）有活跃贡献或影响力。
+4. 有中大型前端系统架构工作经验，熟悉微前端、Serverless等技术。
+
+5. 有开源项目经验，对开源社区有贡献。
 </details>
 
 ---
 
-#### [国际化客户端leader](https://job.xiaohongshu.com/social/position/18020)
+#### [AI平台高级研发工程师（大模型平台方向）](https://job.xiaohongshu.com/social/position/18037)
 
-📍 深圳市
+📍 北京市/上海市/杭州市/深圳市
 
 <details>
 <summary>职位描述</summary>
 
-1、负责小红书国际化客户端技术体系的设计和建设，支撑全球化业务高效迭代，确保高质量的交付和卓越的工程效率
+工作职责：
 
-2、主导跨端架构和端智能等前沿技术在国际化业务中的探索与应用，通过技术创新为全球业务赋能
+1、负责大模型平台的架构设计和核心功能研发，构建云原生架构，设计高可用、高性能的微服务体系； 
 
-3、负责国际化客户端技术团队的搭建和人才梯队建设，培养具备全球视野的技术人才
+2、负责构建面向大模型全流程的DevOps，与下游云原生平台深度融合，支撑大模型在公司内各业务生产链路稳定高效地落地；
 
-4、推动跨地域、跨时区的技术协作，建立高效的全球化研发流程和协作机制
+3、负责万卡规模GPU集群效能分析及优化，通过调度策略优化、在离线混部、GPU虚拟化、存储&网络加速等手段，提升GPU集群使用效率； 
 
-5、关注全球移动技术发展趋势，将先进技术应用于国际化产品中，提升产品全球竞争力
+4、将平台和框架结合，通过任务调度、弹性容灾、性能优化等措施端到端提升AI生产效率，涉及k8s/kubeflow、网络通信、分布式训练等； 
 
+5、优化各AI平台性能，提升系统稳定性和可扩展性，保障大规模并发场景下的服务质量与用户体验；
 
+6、持续研究分析业内创新AI平台产品，优化技术方案，改进产品功能，提升创新能力与产品体验。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、具备扎实的Android或iOS技术功底，深入理解移动端底层架构和技术原理
+任职要求：
 
-2、熟悉大前端后端技术栈，掌握系统设计方法论，能够进行端到端的全球化架构设计
+1、本科及以上学历，计算机、人工智能等相关专业优先； 
 
-3、精通移动端开发生命周期，具备建立高效研发流程、工程规范和质效体系的能力
+2、优秀的代码能力，精通Java/Golang/Python其中至少两门语言，了解C/C++； 
 
-4、拥有丰富的团队管理经验，曾成功管理20人以上的技术团队。
+3、深入理解操作系统、算法、数据库、数据结构等计算机基础知识； 
 
-5、出色的全球跨团队组织协调能力，能够推动公司级/全球化重大项目的顺利落地
+4、熟悉云原生技术栈，包括K8s、Docker、微服务架构等，有k8s或kubeflow的实战经验； 
 
-6、高度责任感和自我驱动力，优秀的问题解决能力和应急处理能力
+5、熟悉至少一种深度学习训练或推理框架（TensorFlow/PyTorch/Onnx/TensorRT）的原理及使用方法； 
 
-7、对技术充满热情，在GitHub、Stack Overflow等全球技术社区活跃并有贡献者优先
+6、有机器学习平台产品化经验，深度参与过MLOps工具链建设，对AI基础设施、模型服务化有理解和实践。
 
-8、有国际化产品开发经验，熟悉不同地区的用户习惯和技术生态特点
+7、熟悉AI训练部署全流程，具备相关应用场景的开发经验，了解AI领域技术发展趋势； 
 
+8、责任心强、合作沟通顺畅，具备良好的团队协作能力。
 
+加分项：
 
-加分项
+1、有AI大模型应用落地经验及AI平台相关开发经验
 
-具备多语言能力，能够适应多元化工作环境
-
-有成功的国际化产品从0到1搭建经验
-
-熟悉全球主要市场的移动开发生态和合规要求
+2、有分布式系统设计经验和大规模在线服务架构建设相关经验
 </details>
 
 ---
 
-#### [生态研发工程师](https://job.xiaohongshu.com/social/position/16574)
+#### [后端开发/专家-电商开平/服务商体系/AI开放](https://job.xiaohongshu.com/social/position/17905)
+
+📍 上海市/北京市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责小红书电商开放平台的0-1建设，包括但不限于电商黄金链路（供给、交易、营销、履约等）业务能力开放、AI能力开放、三方对接提效、数据安全等功能建设；
+
+2、负责小红书服务商技术体系的0-1建设，包括但不限于服务商引入、获客、育商、运营、考核等功能建设；
+
+3、负责小红书服务市场的0-1建设，包括但不限于推荐、交易、履约、结算、评价体系等功能建设；
+
+4、参与系统架构升级和稳定性建设，通过技术手段持续提升开放平台对接效率和体验、服务商运营效率和服务市场撮合效率，同时保障大促（如 618、双 11）期间电商核心链路的稳定运行；
+
+5、深入分析业务现状，挖掘业务痛点，持续打磨技术和业务能力，建设行业一流的电商开放生态，助力小红书电商GMV的快速增长。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，计算机/软件开发相关专业，2年及以上服务端开发经验，精通JAVA/GO/C++等语言中的至少一种；
+
+2、有复杂业务系统的建设经验、稳定性建设经验优先，熟悉高可用、高性能、高并发常见解决方案，熟悉常用存储和中间件的使用和性能优化；
+
+3、具备责任心与自驱力，良好的沟通协作、应急响应与处理问题的能力，具有比较强的问题分析和处理能力；
+
+4、有开放平台、服务商体系相关业务经验优先。
+</details>
+
+---
+
+#### [数据采集&解析工程师](https://job.xiaohongshu.com/social/position/14336)
 
 📍 北京市/上海市
 
 <details>
 <summary>职位描述</summary>
 
-1. 负责风控后端审核系统（人工/机器）及引擎的架构设计与优化，解决核心系统的性能瓶颈、架构演进问题，并保障线上系统的稳定性和高可用性。
+1、负责分布式爬虫系统的设计与优化 
 
-2. 负责内容安全模型平台的功能开发与系统稳定性保障，进行高质量的系统设计与实现，支撑亿级日活（DAU）产品的数据流处理、运营系统、审核系统等核心平台的建设与维护。
+2、负责大规模广域爬虫引擎的部署、开发、维护 
 
-3. 参与大规模机器学习在线推理框架的研发、优化与维护，确保模型高效、稳定地服务于线上业务。
+3、负责大规模网页数据采集系统开发，互联网资源清洗和结构化，网页转码，网页聚合，信息抽取，网页分类
 
-4. 持续优化在线服务与离线计算任务的性能，设计并实施高并发、多机房部署、容灾备份等关键方案，保障系统弹性与业务连续性。
 
-5. 参与风控策略的技术实现与落地，为策略迭代提供高效、可靠的技术支持。
-
-6. 关注技术前沿，参与技术选型与架构演进，推动风控技术栈的持续升级。
-
-7. 协同风控策略、算法、数据、产品及运营团队，高效沟通，共同达成业务目标。
 
 
 </details>
@@ -3393,273 +3769,343 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 <details>
 <summary>职位要求</summary>
 
-1. 本科及以上学历，计算机科学、软件工程或相关专业，至少3年分布式系统开发经验。
+1. 3年以上爬虫 或 数据解析开发经验，熟练掌握 python、java、go 之一的语言
 
-2. 具备扎实的Java编程基础，精通Java集合框架，深刻理解分布式存储、计算、消息队列（如Kafka/RocketMQ）、微服务治理等核心技术原理与应用。
+2. 熟悉分布式爬虫架构，熟悉常见的风控策略、JS混淆、浏览器引擎 
 
-3. 拥有丰富的线上系统稳定性保障和性能调优经验，具备复杂生产环境下的快速故障定位（trouble-shooting）和解决能力。
+3. 熟悉chromium内核/js/dom/html/css 等网页相关语言，能够完成数据解析工作，有大模型解析经验者优先 
 
-4. 具备大数据平台研发经验，熟练掌握并应用Spark、Hadoop、Flink等主流大数据处理技术栈。
+4. 熟悉Linux常用命令，独立完成日常部署更新等，熟悉SSH、redis、mongodb等工具的使用
+</details>
 
-5. 具备良好的数据敏感度和逻辑分析能力，能够进行深层次的数据探查和业务问题分析，对业务风险有较强的洞察力（业务sense）；有数据分析或算法模型落地经验者优先。
+---
 
-6. 拥有内容安全、风险控制、反作弊等相关领域业务经验者优先考虑。
+#### [计算引擎专家（Ray方向）](https://job.xiaohongshu.com/social/position/14470)
 
-7. 优秀的沟通协作能力和责任心，能够积极主动地推动项目进展和解决复杂问题。
+📍 北京市/上海市/杭州市
 
-8. 具备较强的学习能力和技术热情，能快速适应业务需求和技术变化。
+<details>
+<summary>职位描述</summary>
+
+1.基于开源项目 Ray，打造业内领先的通用分布式计算引擎；基于Ray框架支撑公司内AI业务的数据处理、模型训练和在离线推理场景。
+
+2.参与Ray内核及相关生态的功能开发、性能优化工作。
+
+3.完善Ray在混合云架构的产品化能力，提供高可用、高易用性、高效能的集群服务。
+
+4.参与开源共建与合作，提升团队与个人在业界的影响力。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1.本科及以上学历，计算机相关专业；
+
+2.精通 C++/Python/GO等编程语言；
+
+3.熟悉常见的分布式计算框架，如Spark/Flink；有机器学习相关背景优先;
+
+4.有Ray框架及业务应用开发经验者优先。
+</details>
+
+---
+
+#### [广告算法工程师（下载/品牌/种草）-商业算法](https://job.xiaohongshu.com/social/position/9687)
+
+📍 北京市/上海市/杭州市
+
+<details>
+<summary>职位描述</summary>
+
+团队介绍
+
+负责下载/小程序、种草、品牌广告在小红书站内的投放优化，致力于打造一流的商业化系统链路、模型能力和机制策略；
+
+
+
+工作职责：（满足以下任一即可）
+
+1、负责广告召回模块中的架构演进、模型建设和策略设计；
+
+2、负责广告精排模块中的CTR、CVR模型的深入优化及整体的特征体系建设，优化深转，优化广告主成本达成；
+
+3、负责bidding策略优化与迭代，对出价建模和调控算法有深入了解，通过算法帮助客户提升广告投放效果，使客户达到营销效率最大化；
+
+4、负责全链路中序列建模、蒸馏学习、级联模型及其他业界重点技术的突破；
+
+5、负责库存预估和在线分配等算法的迭代优化；
+
+
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机相关专业，本科以上学历， 至少1年以上工作经验；
+
+2、在机器学习、数据挖掘、NLP、搜推广系统、运筹优化等一个或多个算法领域有扎实的理论基础和丰富的研发经验，对算法原理及应用有较深入的理解；
+
+3、具有很强的编程能力，至少熟练java/python/golang/c++其中一种开发语言，熟练掌握tensorflow/pytorch；
+
+4、良好的逻辑思维能力，善于发现和推理不同事物之间的关系和影响，具备优秀的分析和解决问题的能力，对解决具有挑战的问题充满激情，具备良好的主动性和求知欲，具备良好的沟通协作和抗压能力；
+
+5、有较多的程序开发经验，对数据结构和算法知识应用熟练，有大数据处理经验者更优；
+
+6、在互联网效果和品牌广告、自然搜索、自然推荐中某一领域有工作经验者更佳。
+</details>
+
+---
+
+#### [信息流广告算法工程师-商业算法](https://job.xiaohongshu.com/social/position/17153)
+
+📍 上海市/北京市
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责展示广告召回模块中的架构演进、模型建设和策略设计；
+
+2. 负责展示粗排模块中的CTR、CVR、LTR模型的深入优化；
+
+3. 负责展示广告精排模块中的CTR、CVR模型的深入优化及整体的特征体系建设；
+
+4. 负责展示广告创意模块中的多模态内容理解、模态特征融合和创意优选模型的建设；
+
+5. 负责展示广告混排模块的框架改造及context模型持续升级，实现多方混排内容的变现效率及用户体验最大化；
+
+6. 排序机制：针对小红书广告业务特点，挖掘、建模、利用各类能够提升平台长期价值的目标因子；
+
+7. 用户体验：包括但不限于密集度、疲劳度等体验优化，敏感人群uplift建模提升LT等等；
+
+8. 技术突破：探索生成式推荐、大模型在广告场景落地；跨场域跨业务one model；roi约束的范畴探索scaling law的应用等等。
+
+（满足以上任一即可）
+
+
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 计算机相关专业，本科以上学历， 2年以上工作经验；
+
+2. 在机器学习、数据挖掘、NLP、搜推广系统、运筹优化等一个或多个算法领域有扎实的理论基础和丰富的研发经验，对算法原理及应用有较深入的理解；
+
+3. 具有很强的编程能力，至少熟练java/python/golang/c++其中一种开发语言，熟练掌握tensorflow/pytorch；
+
+4. 良好的逻辑思维能力，善于发现和推理不同事物之间的关系和影响；
+
+5. 具备优秀的分析和解决问题的能力，对解决具有挑战的问题充满激情，具备良好的主动性和求知欲，具备良好的沟通协作和抗压能力；
+
+6. 有较多的程序开发经验，对数据结构和算法知识应用熟练，有大数据处理经验者更优；
+
+7. 在互联网效果和品牌广告、自然搜索、自然推荐中某一领域有工作经验者更佳。
+</details>
+
+---
+
+#### [NLP/多模态算法工程师](https://job.xiaohongshu.com/social/position/14524)
+
+📍 北京市/上海市
+
+<details>
+<summary>职位描述</summary>
+
+1、负责将内容理解、机器学习、流量调控算法能力落地于小红书笔记/评论/直播/商品/账号/广告生态治理场景，技术驱动小红书生态和画风优化
+
+2、具体负责多模态识别、计算机视觉、自然语言处理、语言/多模态大模型、决策树模型等算法的研发迭代，通过样本去噪、样本生成、模型创新、自监督、few-shot等手段持续提高治理效果
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、计算机、电子信息、自动控制、软件工程、数学等相关专业，硕士及以上学历；
+
+2、优秀的分析、解决问题能力，对新技术充满好奇，敢于挑战高难度，善于提出解决方案并快速验证；
+
+3、了解大模型应用阶段的样本处理、prompt设计、模型微调、推理优化等技巧，乐于探索大模型在审核场景的落地；
+
+4、熟练掌握TensorFlow、PyTorch、Caffe、MXNet等深度学习框架中的至少一种；
+
+5、具备优秀的编程能力和经验，熟悉Python、C/C++、Java等编程语言，具有扎实的数据结构和算法功底；
+
+6、具备优秀的研究和创新能力，在CVPR、ICCV、ECCV、NIPS、ICML、SIGGRAPH等会议上发表过论文者优先；参加过ACM竞赛者优先；
 </details>
 
 ---
 
 ## SHEIN
 
-#### [Java架构师-平台治理方向（南京/上海）](https://app.mokahr.com/social-recruitment/shein/2933#/job/5f586c56-ad1d-4d6f-9f4b-86b274e3d3f9)
+#### [项目经理](https://app.mokahr.com/social-recruitment/shein/2933#/job/661ed7b7-04e1-45ae-8495-13a2514af404)
 
-📍 南京市/上海市
-
-<details>
-<summary>职位描述</summary>
-
-<p><strong>Java架构师 - 平台治理方向</strong></p><p><br></p><p><strong>工作地点： 优先南京、其次上海</strong></p><p><br></p><p><strong>【职位描述】</strong></p><p>负责构建和优化支撑全球电商业务健康、安全、合规的核心治理平台。技术决策将直接影响平台商品质量、商家合规水平、消费者信任和整体营商环境。</p><p><br></p><p><strong>【核心职责】</strong></p><p>1、平台治理中台架构设计：负责平台治理领域（不限于商品质检、资质合规、风险处置、商家体验等）的业务中台与数据中台架构设计，实现高内聚、低耦合的系统解耦。规划和设计可扩展、高可用的治理核心系统，包括但不限于规则引擎、工作流引擎、任务调度平台、实时/离线风控系统。</p><p>2、核心系统研发与攻坚：主导不限于商品信息治理系统、实物质检履约系统、商家合规证书管理平台、处置与处罚系统的架构设计与技术难点攻关，构建一体化的商家体验平台，包括申诉、咨询、任务中心，提升商家满意度和运营效率。</p><p>3、技术与创新驱动：引入大数据、机器学习等技术，提升平台在图片/文本识别、风险商家挖掘、智能质检等方面的自动化能力和准确率。优化海量数据（商品、订单、行为日志）下的实时计算与批量处理性能，保障系统在亿级流量下的稳定与低延迟。</p><p>4、团队与标准建设：制定团队技术规范、代码规范，主导核心代码的编写与评审。培养和指导高级工程师，提升整个团队的技术设计和架构能力。</p><p><br></p><p><strong>【职位要求】</strong></p><p>1、基本要求：计算机相关专业本科及以上学历，8年以上Java开发经验，3年以上大型分布式系统架构设计经验。精通Java及生态，深入理解JVM、多线程、并发编程、NIO、网络通信等，具备丰富的性能调优经验。精通Spring Cloud、Dubbo等微服务框架，对其核心原理有深刻理解。</p><p>2、架构与中间件：深入理解分布式系统原理，具备高并发、高可用、可扩展系统设计经验。精通MySQL、Redis、Elasticsearch、RocketMQ/Kafka等主流中间件，了解其工作原理与最佳实践。有丰富的分库分表、读写分离、分布式事务实践经验。</p><p>3、业务经验（具备以下至少两项）：有电商平台治理、风控、交易、商品、商家等核心系统架构经验者优先。熟悉规则引擎（如Drools, URule）或工作流引擎（如Activiti, Camunda）的应用与定制。有大数据处理经验，熟悉Flink/Spark/Kafka在实时风控或数据清洗中的应用。了解机器学习平台的基本流程，有将AI模型应用于内容审核、图像识别的项目经验。</p><p>4、软技能：优秀的业务抽象能力、系统分解能力和技术规划能力。强烈的责任心和团队协作精神，善于沟通，能承担压力。</p>
-</details>
-
----
-
-#### [风控产品经理-反爬](https://app.mokahr.com/social-recruitment/shein/2933#/job/ec4f5bfb-a3ad-4682-b140-6677578d651b)
-
-📍 南京市/上海市
+📍 广州市
 
 <details>
 <summary>职位描述</summary>
 
-<p>岗位职责：</p><p>1、负责风控产品的市场调研、需求分析，结合公司发展要求，制定风控核心功能或者整体平台的产品规划；</p><p>2、负责整体风控产品的设计和落地，包括交易反欺诈、账户安全、营销作弊、内容安全等风险识别和治理（可精通某一模块）；</p><p>3、协同算法、研发等技术团队，协调组织算法、开发、测试资源，推动算法模型产品上线及迭代优化。</p><p><br></p><p>任职要求：</p><p>1、本科以上学历，5年以上产品经理经验，有风控中台搭建经验优先；</p><p>2、计算机、金融、统计学、数学等相关专业优先，有数据产品经验优先；</p><p>3、具备良好的逻辑分析和学习理解能力，能够在复杂场景下抓住核心问题，并快速给出可行的解决方案；</p><p>4、出色的沟通能力、合作能力，能够很好的协调整合多方资源，推动项目上线，有大型项目带队经验者优先。</p>
+<p>工作职责：</p><p>1、独立负责业务型项目0-1交付，输出项目方案，编制项目计划，管理项目的执行，监督项目进展并及时解决项目过程问题；</p><p>2、紧密结合业务变化，主动挖掘项目机会，拉通相关方评估项目可行性并共识项目方向，主导立项并拉通相关方配合完成项目交付；</p><p>3、结合项目、业务发展阶段，总结项目经验，并进行适用当前业务阶段的项目知识赋能，如开设项目经验分享课、组织项目交流会等；</p><p>4、统筹管理部门项目事宜，并协同解决卡点问题，在项目过程中赋能业务成长，长期通过项目交付辅助业务指标提升。</p><p><br></p><p>任职要求：</p><p>1、本科学历，项目管理专业、具备PMP证书优先；</p><p>2、至少3-5年项目管理经验，需要有0-1项目管理交付经验；</p><p>3.  熟悉项目实施流程、项目管理方法论；熟练掌握项目管理工具和软件，如Microsoft Project、PowerPoint、Excel等；</p><p>4.  具备团队合作精神和自我驱动能力，能够有效带领项目团队解决问题。</p>
 </details>
 
 ---
 
-#### [深圳—推荐产品经理（商详/频道）](https://app.mokahr.com/social-recruitment/shein/2933#/job/ba6a94c8-46a1-4bd0-89ef-93670f8b5377)
+#### [南京—用户增长运营（签到/会员）](https://app.mokahr.com/social-recruitment/shein/2933#/job/f4ce0995-52c3-40a1-95a6-6f612f1c1f71)
+
+📍 南京市
+
+<details>
+<summary>职位描述</summary>
+
+<p>岗位职责：</p><p>1、负责用增老客相关业务策略，对业务核心指标负责；</p><p>2、负责国家站会员精细化运营，制定付费会员产品运营方案并推进落地执行，同时关注损益表现，不断提升国家站在籍会员规模、续费率和会员增量收益指标；</p><p>3、负责优化会员站内购买链路、表达形式及视觉呈现，结合利益点包装和促销玩法提升各入口会员转化效率，寻找增长和转化的有效路径；</p><p>4、负责在籍会员日常经营，提高会员权益感知，并持续优化权益体系；通过结合营销节奏策划限时会员营销活动，保证会员在籍期间的下单转化和访问活跃度；</p><p>5、关注用户群体差异性，针对不同人群特征和活跃转化表现不断测试和沉淀有效经营手段；</p><p>6、对接产研团队，推进C端和B端的产品功能优化，并数据验证产品有效性，持续迭代</p><p>7、负责团队内其他用增相关产品运营，包括但不限于成长型等级会员、签到促活、站内信等。</p><p><br></p><p>任职要求：</p><p>1、本科及以上学历，英语大学六级或英专四级及以上优先；有3年及以上付费会员/用户运营/会员运营/用户增长经验者优先；</p><p>2、具备较强的数据分析能力和逻辑性，并能通过分析结论进行业务判断和及时调整；</p><p>3、具备较强的业务规划视野，同时关注用户体验感知，站在用户角度思考和规划；</p><p>4、有较强的抗压能力，具备较好的跨部门沟通能力和问题处理能力，团队意识强；</p><p>5、有积极向上的工作态度，自我驱动力和责任心强</p><p>6、对欧美、中东等国家营销节点和风俗禁忌有一定了解</p>
+</details>
+
+---
+
+#### [资深K8S工程师（网络&GPU方向）](https://app.mokahr.com/social-recruitment/shein/2933#/job/0bcca94f-ec9b-43ec-895b-4227171bd9ec)
+
+📍 南京市
+
+<details>
+<summary>职位描述</summary>
+
+<p>职位简介</p><p>负责在 大规模 Kubernetes 集群 中设计、优化云网络架构与 GPU 虚拟化调度体系，支持 AI、大数据、电商等业务场景。您将深入 Linux 内核、虚拟化与容器网络技术栈，运用 eBPF 等工具提升系统性能与稳定性，并推动跨云平台的资源优化与整合</p><p><br></p><p>核心职责</p><p>设计与优化 Kubernetes 云网络架构（CNI、VPC），确保高性能、低延迟和稳定性。</p><p>基于 Cilium/Calico 等网络插件进行二次开发，支持跨集群通信和多租户隔离。</p><p>研究与落地 GPU 虚拟化技术（vGPU、MIG、GPU Passthrough），实现多租户隔离与动态资源调度</p><p>应用 eBPF、perf、sysdig 等工具监控和分析网络与 GPU 虚拟化性能瓶颈。</p><p>在 混合云/多云环境 中实现跨平台网络与 GPU 兼容性优化</p><p>开发定制 Kubernetes 设备插件和 Operator，优化容器网络与 GPU 资源管理。</p><p><br></p><p>任职要求</p><p>本科及以上学历，5 年以上 Linux 系统/网络及虚拟化经验，2 年以上 Kubernetes 生产环境经验。</p><p>精通 Kubernetes 网络架构、CNI 插件、云网络虚拟化（VXLAN、SR-IOV、Geneve 等）。</p><p>熟悉 GPU 虚拟化与调度技术（NVIDIA vGPU、MIG、GPU Operator 等）。</p><p>精通 Linux 网络栈与性能调优，熟悉 DPDK、RDMA 等网络加速技术。</p><p>熟练使用 eBPF、perf、tcpdump、ftrace 进行性能分析与故障排查。</p><p>精通 Go / C / C++，有定制网络插件或 GPU 调度工具研发经验。</p><p>有多云或混合云平台资源优化成功案例者优先。</p>
+</details>
+
+---
+
+#### [质量专家（云平台）](https://app.mokahr.com/social-recruitment/shein/2933#/job/ad4e7af9-3864-481f-8a18-2cc5c25a71a4)
+
+📍 南京市
+
+<details>
+<summary>职位描述</summary>
+
+<p>岗位职责：</p><p>1、主导云平台相关产品（如DevOps工具链、Kubernetes、中间件等）的测试与质量保障，制定并执行测试方案；</p><p>2、搭建自动化测试体系，优化测试流程和工具链，提升效率和覆盖率；</p><p>3、深度参与需求分析与设计，提供质量保障方案，确保系统功能与性能稳定；</p><p>4、牵头云平台质量小组，负责质量标准及流程的宣贯与落地；</p><p>5、分析与解决测试中发现的复杂问题，推动质量问题快速闭环与改进。</p><p><br></p><p>职位要求：</p><p>1、5年以上测试经验，有云平台或分布式系统测试经验；</p><p>2、熟悉Kubernetes、DevOps工具链和云平台技术，并有相关测试实战经验；</p><p>3、对中间件（如Elasticsearch、Tair等）与数据库（如MySQL、Redis）有性能测试经验；</p><p>4、熟练掌握脚本语言（Python/Shell等）进行测试脚本开发；</p><p>5、优秀的问题定位与分析能力，具备跨团队协作和质量管理经验。</p><p><br></p><p>加分项：</p><p>* 掌握CI/CD测试、自动化测试工具（如Selenium、JMeter）或高并发场景测试经验；</p><p>* 有推动质量标准建设和团队质量文化宣贯工作经验。</p>
+</details>
+
+---
+
+#### [数据科学家（ABT）](https://app.mokahr.com/social-recruitment/shein/2933#/job/9346217c-b60a-43ad-8df3-625f9a4a05e0)
 
 📍 深圳市
 
 <details>
 <summary>职位描述</summary>
 
-<p>岗位职责</p><p>1、负责SHEIN商城个性化推荐（策略方向），主要是商品详情页场域策略方向，以提升平台GMV和用户连带购买为核心目标</p><p>2、深度分析电商用户在网站的行为路径，结合业务诉求与场景生态，为改进策略提供依据，完成推荐策略升级</p><p>3、设计相关策略与目标评估体系&amp;方法，擅长将业务目标与问题转化为算法技术手段，完成不同推荐策略的效果验证并持续优化</p><p>4、与业务、算法、数据等团队紧密协作，推动不同推荐策略的效果验证和持续优化，思考人货匹配的策略，提升整体转化</p><p><br></p><p>任职要求</p><p>1、3年以上电商工作经验，个性化推荐产品经验丰富</p><p>2、熟悉个性化推荐策略，有效率增长、用户路径设计策略等相关领域经验者优先 </p><p>3、善于思考，有很强的逻辑思维能力和解决问题的能力、能理解和抽象业务逻辑 </p><p>4、能够发现问题并推动上下游团队，协调相关资源并合理利用</p>
+<p>职位描述：</p><p>1) 根据业务需求，设计、迭代AB实验平台的评估框架和评估方法（如波动消除、异动归因等），不断优化实验平台产品能力，为业务提供专业的数据科学支持；</p><p>2) 深入理解业务需求，为业务提供实验设计、数据分析等支持和指导；</p><p>3) 对于给定的分析问题，能够快速产出结论或分析报告；</p><p><br></p><p><br></p><p>任职要求：</p><p>1) 统计学基础扎实，对实验科学领域理论工作有浓厚兴趣和钻研精神；</p><p>2) 精通AB常用检验方法（T检验、卡方检验等），知道如何测量指标分布，指标假阳率、power等数据；</p><p>3) 熟悉Hive, Hadoop 等大数据计算框架，熟练SQl，Python；</p><p>4) 逻辑思维、分析问题能力较强，有数分背景；</p><p>5) 有AB实验平台工作经验者优先；</p>
 </details>
 
 ---
 
-#### [ 深圳—品类增长运营（推荐策略）](https://app.mokahr.com/social-recruitment/shein/2933#/job/d79d7f2b-6522-4fed-933d-30750a47cf6b)
+#### [资深后台开发工程师（ABT）](https://app.mokahr.com/social-recruitment/shein/2933#/job/a683ce06-a422-4e93-a10e-1bf93904ba49)
 
-📍 深圳市
+📍 上海市/深圳市/北京市
 
 <details>
 <summary>职位描述</summary>
 
-<p>岗位职责 ：</p><p>1、分析海外市场的用户消费行为与品类偏好，结合用户调研及数据挖掘，提炼品类核心优化点，为搜推算法提供精细化迭代方向。</p><p>2、协同搜推算法，定位低效匹配问题，优化推荐模型的人货匹配逻辑，提升品类转化效率</p><p>3、对用户及商品的进行分层，挖掘品类的增量机会，数据分析优化驱动品类增长，提升平台商品丰富度与用户粘性</p><p>4、协同品类运营团队，确保推荐策略与货品供给高效匹配，推动数分团队建立品类*推荐效果评估体系</p><p><br></p><p>任职要求</p><p>1、教育背景：统招本科及以上学历，计算机、统计学、市场营销、电子商务等相关专业优先。  </p><p>2、经验要求：3年以上电商/快时尚行业经验，具备跨境平台品类运营或推荐策略相关经验者优先。</p><p>3、核心能力：市场敏感度，对时尚趋势、海外用户消费习惯有敏锐洞察，能快速捕捉品类机会。跨团队协作能力，具备项目推动力，能高效协调算法、产品、品类等多部门资源。</p>
+<p>岗位职责：</p><p><br></p><p>AB实验平台建设，包括分流逻辑、配置下发系统、实验配置平台、指标平台等</p><p><br></p><p><br></p><p><br></p><p>岗位要求：</p><p><br></p><p>-计算机及相关专业本科及以上学历，具有扎实的代码功底，熟悉常用的算法和数据结构</p><p><br></p><p>-精通Java语言和框架，具有良好的编程习惯，熟悉Linux开发环境，掌握设计模式</p><p><br></p><p>-掌握多线程及高性能的设计编码及性能调优，有高并发应用开发经验，对服务治理体系有充分的理解和应用</p><p><br></p><p>-熟悉StarRocks/Hive/CK/Spark/Flink/ES等计算框架，熟悉Docker技术及Kubernetes容器调度系统</p><p><br></p><p>- 具备独立分析问题、解决问题能力和沟通能力</p><p><br></p><p>- 具备AB实验后台开发经验者优先；</p><p><br></p><p>- 具备一定的架构能力，有大容量、高性能、分布式系统的设计开发经验优先；</p><p><br></p><p>注：base地优先深圳，其次上海、北京</p>
 </details>
 
 ---
 
-#### [上海—UI视觉设计师（电商频道）](https://app.mokahr.com/social-recruitment/shein/2933#/job/38601a32-d0e3-494c-b9ef-4501b0e5650d)
+#### [资深算法工程师（商品治理）](https://app.mokahr.com/social-recruitment/shein/2933#/job/de7e06e4-7b27-4b9a-b170-49dbeb3c61d8)
 
-📍 上海市
+📍 南京市/上海市/深圳市/北京市
 
 <details>
 <summary>职位描述</summary>
 
-<p>职位描述</p><p>1. ﻿﻿负责SHEIN运营频道类用户体验设计相关工作；</p><p>2. ﻿﻿根据业务诉求和产品定位深入分析、洞察设计价值，从用户角度出发产出优质、创新的视觉解决方案；</p><p>3. ﻿﻿与业务团队、研发团队深入协作，保障方案高质量落地上线，协同产品实现业务目标；</p><p>4. ﻿﻿沉淀设计经验、参与制定设计规范，驱动频道设计风格&amp;规范的落地，链路呈现统一；</p><p>5. 关注行业变化，保持对竞品、设计趋势、优秀设计案例的跟踪&amp;分析。</p><p><br></p><p>职位要求</p><p>1. ﻿具备国际化审美能力与优异的视觉设计能力，关注细节，追求像素级精准度；</p><p>2. 逻辑清晰具备一定交互设计能力，推动力强，具备体系化的用户体验思维，主动发现并优化产品体验；</p><p>3. ﻿敢于尝试&amp;突破，善于总结项目中的成功/失败因素，指导后续设计，不断提升自身设计能力，并给团队成员带来正向影响；</p><p>4. ﻿具有团队合作精神，沟通能力强，可以有效地与产品、开发等团队成员协作；</p><p>5.  5年以上的互联网电商/跨境电商产品设计经验，额外有IP创意设计经验加分。</p><p><br></p><p>备注：请随简历+作品集~</p>
+<p>岗位职责</p><p>1. 深入理解业务痛点，负责治理算法和策略解决方案，建设相关质量评估体系，推进业务应用和优化工作</p><p>2. 负责与产品、业务运营沟通对接，保障治理策略落地，长期跟踪并对结果负责</p><p>3. 基于分析策略、多模态算法、大模型理解能力，驱动治理人审平台的智能化建设和降本增效</p><p><br></p><p>任职要求</p><p>1. 计算机相关专业，硕士以上学习，扎实的机器学习经验、优秀的数据分析能力，在以下领域有深入研究实践：计算机视觉/自然语言处理/多模态/大模型/数据科学等</p><p>2. 有商品治理业务经验优先，熟悉LLM前沿技术，有大模型训练和微调经验优先</p><p>3. 优先的逻辑思维能力，积极主动，责任心强，良好的团队合作和沟通能力。</p><p><br></p><p>此岗位base上海/南京/深圳/北京都OK~</p>
 </details>
 
 ---
 
-#### [深圳—产品运营（推荐策略）](https://app.mokahr.com/social-recruitment/shein/2933#/job/2a563925-8188-4445-931c-8cce2b33fe46)
+#### [高级/资深后台开发工程师（GO）](https://app.mokahr.com/social-recruitment/shein/2933#/job/583aed48-aee7-4366-b10e-b21ffa99b086)
 
-📍 深圳市
+📍 南京市
 
 <details>
 <summary>职位描述</summary>
 
-<p>岗位职责 ：</p><p><br></p><p>1、分析海外市场的用户消费行为与品类偏好，结合用户调研及数据挖掘，提炼品类核心优化点，为搜推算法提供精细化迭代方向。</p><p><br></p><p>2、协同搜推算法，定位低效匹配问题，优化推荐模型的人货匹配逻辑，提升品类转化效率</p><p><br></p><p>3、对用户及商品的进行分层，挖掘品类的增量机会，数据分析优化驱动品类增长，提升平台商品丰富度与用户粘性</p><p><br></p><p>4、协同品类运营团队，确保推荐策略与货品供给高效匹配，推动数分团队建立品类*推荐效果评估体系</p><p><br></p><p><br></p><p><br></p><p>任职要求</p><p><br></p><p>1、教育背景：统招本科及以上学历，计算机、统计学、市场营销、电子商务等相关专业优先。  </p><p><br></p><p>2、经验要求：3年以上电商/快时尚行业经验，具备跨境平台品类运营或推荐策略相关经验者优先。</p><p><br></p><p>3、核心能力：市场敏感度，对时尚趋势、海外用户消费习惯有敏锐洞察，能快速捕捉品类机会。跨团队协作能力，具备项目推动力，能高效协调算法、产品、品类等多部门资源。</p>
+<p>工作职责：</p><p>1、主要负责混合云平台产品设计、研发工作支撑各种类型业务、中间件基于k8s 进行容器化的发布和管理；</p><p>2、持续集成/持续交付（CI/CD）流水线的设计、开发和维护，确保代码从开发到生产的快速、可靠交付；  </p><p>3、基于Kubernetes的多集群管理、多集群部署、自动迁移等建设工作；</p><p>4、阶段性承担公司成本相关系统的设计与开发，包括账单处理、成本计算、预算执行分析等核心模块。</p><p><br></p><p>任职要求：</p><p>1、本科及以上学历，计算机相关专业优先；</p><p>2、3年及以上 Go 开发经验，具备扎实的编程基础和良好的工程实践；</p><p>3、熟悉Kubernetes、Docker等开源组件，有K8s Operator开发经验优先；</p><p>4、熟悉Linux操作系统及常用命令，熟练使用常用软件排查跟踪各种问题；</p><p>5、理解 Go 模块管理（Go Modules），具备良好的依赖管理意识；</p><p>6、熟悉常用中间件（如 MySQL、StarRocks、Redis、Kafka 等），具备性能调优与故障排查能力；</p><p>7、较强的责任心和自驱力，能够在保证质量的前提下高效完成任务；</p><p>8、有成本核算、计费系统、财务相关系统开发经验者优先。</p>
 </details>
 
 ---
 
-#### [上海—海外用增产品经理（活动/玩法）](https://app.mokahr.com/social-recruitment/shein/2933#/job/b576b2f6-0eba-40d6-8497-b0bc3f287ac0)
+#### [资深算法工程师（商品平台治理方向）](https://app.mokahr.com/social-recruitment/shein/2933#/job/58b72d50-9ef1-4ead-aca0-f76bbc56ebd3)
 
-📍 上海市
+📍 南京市/上海市/深圳市/北京市
 
 <details>
 <summary>职位描述</summary>
 
-<p>岗位职责：</p><p><br></p><p>1. 负责跨境游戏化拉新玩法，对用户新增规模和质量负责</p><p><br></p><p>2. 策划裂变活动，持续迭代玩法，利用成熟的增长方法论持续优化转化链路，提升用户产出</p><p><br></p><p>3. 通过数据分析，联动数分和风控团队进行风险治理，持续优化用户质量和调控成本结构</p><p><br></p><p>职位要求：</p><p><br></p><p>1. 充分熟悉营销活动玩法， 有上线玩法并优化的相关经验</p><p><br></p><p>2. 有较强的数据分析能力，能通过数据定位风险和问题并优化，掌握sql是加分项</p><p><br></p><p>3. 有roi意识，执行力强，能快速有条理落地策略或者功能</p>
+<p>岗位职责</p><p>1. 深入理解业务痛点，负责治理算法和策略解决方案，建设相关质量评估体系，推进业务应用和优化工作</p><p>2. 负责与产品、业务运营沟通对接，保障治理策略落地，长期跟踪并对结果负责</p><p>3. 基于分析策略、多模态算法、大模型理解能力，驱动治理人审平台的智能化建设和降本增效</p><p><br></p><p>任职要求</p><p>1. 计算机相关专业，硕士以上学习，扎实的机器学习经验、优秀的数据分析能力，在以下领域有深入研究实践：计算机视觉/自然语言处理/多模态/大模型/数据科学等</p><p>2. 有商品治理业务经验优先，熟悉LLM前沿技术，有大模型训练和微调经验优先</p><p>3. 优先的逻辑思维能力，积极主动，责任心强，良好的团队合作和沟通能力。</p>
 </details>
 
 ---
 
-#### [上海—UI视觉设计师（交易/商详/订单）](https://app.mokahr.com/social-recruitment/shein/2933#/job/db713753-2108-49fa-b364-d78561762a6b)
+#### [资深后台开发工程师（Serverless )](https://app.mokahr.com/social-recruitment/shein/2933#/job/a1222d9c-d85f-4bac-958c-c251d5c6b50f)
 
-📍 上海市
-
-<details>
-<summary>职位描述</summary>
-
-<p>【工作内容】</p><p><br></p><p>1、负责SHEIN移动端交易链路的相关视觉设计工作, 从体验设计层面助力平台业务快速发展，致力于为全球用户提供友好便捷的购物体验。</p><p>2、负责商详交易链路的设计风格、品牌心智的把控和优化，同时主动挖掘新设计机会点、推进设计攻坚及创新</p><p>3、结合对于业务、产品的理解，对全链路设计系统的制定和优化，横向协同推动平台的体验统一、可用性提升和设计提效。</p><p><br></p><p>【任职要求】</p><p><br></p><p>1、本科及以上学历，具备互联网经验，主导上线过行业内有口碑和认知的作品优先，C端电商工作经验加分；</p><p>2、视觉设计专业出身，对于设计抱有热情和好奇心，对美学有追求、有激情，有欲望了解新的设计趋势及技术动态，并主动运用到日常工作中;</p><p>3、优秀的沟通能力及组织能力，把控项目进度与品质，确保日常需求和专项攻坚项目的高质量落地。</p><p>4、细节控，追求卓越的设计品质，执行力强，能够输出高质量的设计产出；</p><p>5、英语读写能力、国外生活工作经验、了解海外文化者优先；</p><p><br></p><p>备注：请随简历附PDF作品~</p>
-</details>
-
----
-
-#### [深圳—产品经理（广告策略/平台）](https://app.mokahr.com/social-recruitment/shein/2933#/job/136878d4-0dc6-4bc6-a3e0-4acdfb2799f2)
-
-📍 南京市/深圳市/北京市
+📍 南京市
 
 <details>
 <summary>职位描述</summary>
 
-<p>【岗位方向一：广告平台】</p><p>岗位职责：</p><p>1. 搭建公司级广告策略平台产品，对广告产品的效率和效果负责，最终为全站流量效率、商业价值、用户体验带来提升。</p><p>2. 搭建广告策略平台的整体架构和产品功能，打通核心流量场景并设计底层流量分发机制。</p><p>3. 基于业务目标和数据分析，发现问题并设计策略优化手段，持续提升流量策略的效率。</p><p>4. 深度挖掘各商家的广告诉求，设计复杂业务场景的解决方案并推广应用，提升产品整体使用率和业务价值。</p><p>5. 将长期业务目标拆解为阶段目标，建立高效协同机制、推动技术实现和分步迭代。</p><p><br></p><p>岗位要求：</p><p>1. 本科及以上学历，计算机/数学等理工科专业优先；5年以上广告平台产品相关经验。</p><p>2. 熟悉国内外主流电商平台的业务模式，有相关项目经验优先。</p><p>3. 对数据高度敏感，数据分析和洞察能力强，熟悉SQL语言优先。</p><p>4. 熟悉搜推广系统机制、模型和算法基础原理，能够联合研发拆解系统问题并交付方案规划。</p><p>5. 具备较强的逻辑思考和结构性表达能力、沟通协同能力和团队合作精神、学习和创新能力。</p><p><br></p><p>【岗位方向二：广告策略】</p><p>岗位职责：</p><p>1. 全面负责公司级广告投放效率与效果，提升全站流量效率、广告投放ROI、商业价值及用户体验；</p><p>2. 设计并不断迭代广告策略，打通核心流量和广告投放场景，优化底层流量分发与广告投放机制。</p><p>3. 基于业务目标和数据分析，深入挖掘流量与广告投放中的问题，制定并设计精准高效的广告策略优化方案，持续提升流量触达与广告转化效果。</p><p>4. 深度调研、分析各行业商家的广告投放需求与流量诉求，设计复杂广告业务场景的策略解决方案，提升平台整体使用率及商业价值。</p><p>5. 将长期业务和广告策略目标拆解为阶段性目标，构建高效协同机制，推动技术实现广告策略功能的分步迭代与持续优化。</p><p><br></p><p>岗位要求：</p><p>1. 本科及以上学历，计算机/数学等理工科专业优先。</p><p>2. 5年以上广告策略产品相关经验，熟悉国内外主流电商平台的业务模式。</p><p>3. 对数据高度敏感，数据分析和洞察能力强，熟悉SQL语言优先。</p><p>4. 熟悉搜推广系统机制、模型和算法基础原理，能够联合研发拆解系统问题并交付方案规划。</p><p>5. 具备较强的逻辑思考和结构性表达能力、沟通协同能力和团队合作精神、学习和创新能力。</p>
-</details>
-
----
-
-#### [上海—用户增长运营（会员/营销玩法）](https://app.mokahr.com/social-recruitment/shein/2933#/job/e4c37d3a-bbad-4f92-9763-ba14176d4e6e)
-
-📍 上海市
-
-<details>
-<summary>职位描述</summary>
-
-<p>岗位职责：</p><p><br></p><p>1. 负责会员体系内业务完善和优化，包括但不限于付费产品运营、成长等级维护、促活互动模块；</p><p><br></p><p>2. 负责国家站会员精细化运营，制定付费会员产品运营方案并推进落地执行，同时关注损益表现，不断提升国家站在籍会员规模、续费率和会员增量收益指标；</p><p><br></p><p>3. 负责优化会员站内购买链路、表达形式及视觉呈现，结合利益点包装和促销玩法提升各入口会员转化效率，寻找增长和转化的有效路径；</p><p><br></p><p>4. 负责在籍会员日常经营，提高会员权益感知，并持续优化权益体系；通过结合营销节奏策划限时会员营销活动，保证会员在籍期间的下单转化和访问活跃度；</p><p><br></p><p>5. 关注用户群体差异性，针对不同人群特征和下单转化表现不断测试和沉淀有效经营手段，包括但不限于定价策略、多版本卡种、营销工具；</p><p><br></p><p>6. 对接产研团队，推进C端和B端的产品功能优化，并数据验证产品有效性，持续迭代</p><p><br></p><p>任职要求：</p><p><br></p><p>1. 本科及以上学历，英语大学六级或英专四级及以上优先；有3年及以上付费会员/跨境电商平台用户运营/会员等级权益运营经验者优先；</p><p><br></p><p>2. 具备较强的数据分析能力和逻辑性，并能通过分析结论进行业务判断和及时调整；</p><p><br></p><p>3. 具备较强的业务规划视野，同时关注用户体验感知，站在用户角度思考和规划；</p><p><br></p><p>4. 有较强的抗压能力，具备较好的跨部门沟通能力和问题处理能力，团队意识强；</p><p><br></p><p>5. 有积极向上的工作态度，自我驱动力和责任心强</p><p><br></p><p>6. 对欧美、中东等国家营销节点和风俗禁忌有一定了解</p>
-</details>
-
----
-
-## 携程
-
-#### [前端开发工程师(MJ031490)](https://job.ctrip.com/#/job-detail/MJ031490)
-
-📍 上海
-
-<details>
-<summary>职位描述</summary>
-
-<p>职位描述</p><p><br></p><p>负责携程前端开发工作，保障相应产品的持续迭代，优化用户体验。</p><p>持续提升项目的质量、性能与架构合理性，并落地相关优化工作。</p><p>参与前端技术方案选型、架构设计，针对技术难点做技术攻坚。</p><p>参与前端技术体系建设，沉淀公共组件、工具和文档，参与技术分享。</p><p><br></p><p>任职资格</p><p>计算机软件工程相关专业，5年以上前端开发经验；</p><p>熟悉 React 技术栈，熟悉其原理，有大型项目开发经验；</p><p>熟练使用 Node.js 开发，或有一定的后端开发经验；</p><p>深入理解 TypeScript，有丰富的实践经验，掌握类型编程技术；</p><p>熟练使用前端构建工具，不限于 Webpack， Vite, ESBuild 等；</p><p>熟悉 HTTP 网络协议、熟悉跨终端、跨浏览器的开发模式；</p><p>拥有良好的编码风格和规范的研发工作流程，具备产出高质量的设计与代码能力；</p><p>较好的产品意识，良好的服务意识，较强的项目推动能力； </p><p>985/211/国内外QS前200学校优先，需要技术扎实，对技术有热情高潜同学～</p>
+<p>工作职责：</p><p>1.参与中间件的 Serverless 化核心组件的设计与实现，将传统中间件支撑模式尝试拓展到 Serverless 架构，降低业务使用成本，提升开发效率。</p><p>2.研究并引入前沿的 Serverless 技术，优化中间件的性能和可扩展性。</p><p>3.结合业务需求，设计 Serverless 中间件解决方案，提升业务灵活性和资源利用率。</p><p>4.总结并沉淀 Serverless 中间件的最佳实践，推动团队技术能力提升。</p><p>5.参与部分中间件控制面相关研发工作。</p><p><br></p><p>任职资格：</p><p>1.丰富的中间件应用与研发经验，深入了解 K8s、ES、Milvus、Redis 等中间件，对其 Serverless 化有实际经验。</p><p>2.熟悉 Serverless 架构原理，具备将传统应用迁移到 Serverless 架构的实践经验。</p><p>3.优秀的编码能力，精通 Java/Go/C++ 中的至少一种语言，能够从源码层面对中间件进行优化和改造。</p><p>4.具备云原生技术经验，熟悉容器化、微服务、函数计算等相关技术。</p>
 </details>
 
 ---
 
 ## 美团
 
-#### [社区风控算法策略专家](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3906238910&highlightType=social)
+#### [【北京】高级前端工程师](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3910703434&highlightType=social)
 
 📍 
 
 <details>
 <summary>职位描述</summary>
 
-1、社区风控的算法策略体系搭建：根据各类作弊场景，应用机器学习、深度学习、大模型技术，挖掘风险特征、建立模型、识别风险，为风险识别的准召和稳定性负责。涉及风险领域包括评价风控、笔记风控、互动风控、榜单风控等。
+1.负责到店营销前端业务，参与平台化产品、系统需求分析和功能设计。
 
-2、算法部署落地：与产品、开发团队合作，将开发的算法集成到公司的业务系统中。参与系统的测试和上线，确保算法在实际环境中的有效性和稳定性。
+2.重点负责营销C端业务承接（涵神券、营销会场），包括研发框架、组件库、配置化、性能调优等；
 
-3、报告与沟通：与业务部门合作，提供风险管理方面的技术支持和建议，确保开发的算法恰当落地应用于业务生产环节中。并生成风险分析数据看板和报告，向管理层汇报风险状况和控制效果。
+3.参与项目需求分析与评审，并产出可行性方案，协作其他方完成排期安排及交付落地；
+
+4.关注业务发展中的机会和痛点，结合技术思路给出解决方案和建议，以帮助业务更快更好的发展
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1、有海量的数据和复杂的生活服务落地场景；
+1.参与平台化系统建设且业务发展速度快，有机会挑战复杂技术框架，拥有开阔的个人发展机会；
 
-2、与安全领域的算法大牛一起学习工作，持续进步；
+2.结合平台化产品的特点，可以了解到横向多个业务的技术及业务知识，拥有更广的横向发展的空间；
 
-3、期待一起做对社会有价值的事情，帮助人们吃得更好、生活更好。
+3.团队氛围融洽，技术环境好，尊重个人想法和建议；
 </details>
 
 ---
 
-#### [搜索推荐软件开发工程师](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3401452563&highlightType=social)
+#### [大模型应用算法工程师(智能审核方向)](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3915891829&highlightType=social)
 
 📍 
 
 <details>
 <summary>职位描述</summary>
 
-1. 参与到店服务零售业务搜索推荐系统的设计和开发，包括检索、召回、排序等模块。
+1.负责大模型审核算法的设计、开发和优化，包括大模型的构建和调优。
 
-2. 参与到店服务零售业务搜索推荐系统方案调研、方案设计、开发落地、性能优化等工作，结合AI技术提升转化效果。
+2.负责研究和落地前沿技术，提升审核系统的效率和准确率。
+
+3.参与制定智能审核系统的技术规划和发展方向。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-1. 参与到店数智化建设，拥有优秀的数据和算法兄弟团队，切身感受大数据之美与AI之美 。
+1.参与大型智能审核系统的设计和优化，具有较高的技术挑战性。
 
-2. 解决系统三高问题，充足的技术挑战和成长空间。
-</details>
-
----
-
-#### [APP技术-搜索前端（鸿蒙/iOS/Android/FE）资深工程师](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3536379103&highlightType=social)
-
-📍 
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责美团平台业务迭代，保障项目研发质量、交付周期、产品稳定性、产品可用性；
-
-2. 负责美团平台核心链路性能优化，保障用户体验；
-
-3. 持续改善现有技术框架，提升工程效率，适应业务发展；
-
-4. 负责美团平台业务模块的质量、性能、体验的优化治理。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 参与到基于AI的产品研发新范式的探索过程中，引领软件开发新潮流。
-
-
-
-2. 技术栈广阔，会涉及iOS/Android/小程序/鸿蒙/跨端等多个技术栈，团队技术氛围浓厚；
-
-
-
-3. 充分发挥技术的杠杆作用，满足复杂多样的技术需求，支撑并驱动业务快速发展；
-
-
-
-4. 加入美团 App 研发团队，为亿万用户提供功能丰富、体验卓越的 App，帮助他们 Eat Better，Live Better。
-</details>
-
----
-
-#### [客户端（iOS/Android）资深工程师——美团平台业务](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2920645176&highlightType=social)
-
-📍 
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责美团平台搜索业务，保障项目研发质量、交付周期、产品稳定性、产品可用性；
-
-2. 负责美团平台搜索核心链路性能优化，保障用户体验；
-
-3. 持续改善现有技术框架，提升工程效率，适应业务发展；
-
-4. 负责美团平台搜索业务模块的质量、性能、体验的优化治理。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 承接美团App搜索核心交易场景，流量大，业务复杂，挑战多，发展空间大；
-
-2. 具有丰富的跨端技术栈业务，团队技术氛围浓厚；
-
-3. 充分发挥技术的杠杆作用，满足复杂多样的技术需求，支撑并驱动业务快速发展；
-
-4. 加入美团 App 研发团队，为亿万用户提供功能丰富、体验卓越的 App，帮助他们 Eat Better，Live Better。
+2.参与前沿技术的研究和应用。
 </details>
 
 ---
@@ -3690,58 +4136,30 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 
 ---
 
-#### [海外数据隐私安全专家](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3661349805&highlightType=social)
+#### [感知数据算法工程师/专家](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3912036131&highlightType=social)
 
 📍 
 
 <details>
 <summary>职位描述</summary>
 
-1、负责出海业务合规风险的识别、治理、改进、跟踪及事后评估，与法务团队合作，将法律合规要求转化为技术和流程解决方案，处置相应的风险，并进一步沉淀为标准合规方案、指南，提升业务的合规效率；
+1. 参与离线感知研发工作，包括数据挖掘、自动标注、自动训练、云端大模型等内容。
 
-2、支撑公司海外合规管理框架落地，包括按照管理框架标准实施流程制定、相关方沟通、决策记录、推进公司海外合规管理的成熟度；
+2. 设计并研发通用模型，包括但不限于动静态元素的检测、分割、跟踪、Occupancy等模型。
 
-3、跟踪并对标国内外法律法规要求，推动数据和隐私方面差距的整改工作持续进行；根据海外法律法规要求设计安全合规的技术方案并推动落地；
+3. 研发基于视觉的三维重建算法，包括但不限于SFM、3DGS、NeRF等方法，生产纯视觉3D真值。
 
-4、基于海外多云环境（AWS、Azure、GCP）完善数据全生命周期的制度、流程和规范，确保风险收敛及合规技术解决方案在业务场景下落地；
+4. 研发并落地World Model、VLA等技术，保持技术先进性，提升真值质量和感知效果。
 </details>
 
 <details>
 <summary>职位要求</summary>
 
-海外业务发展迅速，该岗位目前属于从零到一建立海外信息安全基础架构以及合规落地框架，具有很大的发展空间，同时也很有挑战性
-</details>
+1. 拥有丰富的实车数据，能通过数据驱动的方法推进算法的研发。
 
----
+2. 能加入一个高水平的团队，与人工智能、机器学习、自动化、数学等多元化背景的技术大牛一起工作。
 
-#### [公共产品-服务端测试开发工程师-北京](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2983779715&highlightType=social)
-
-📍 
-
-<details>
-<summary>职位描述</summary>
-
-1. 负责多种后台服务系统的质量保障，根据业务特点、产品形态、系统架构创建测试策略。
-
-2. 依托持续交付体系，大量借助自动化手段，从功能、性能、健壮性以及安全等多层面，多维度地保障系统交付质量。
-
-3. 搭建并维护测试环境的高度稳定可用，解决测试数据、可测性等基础设施中的多种挑战。
-
-4. 落地并优化包括持续交付系统在内的多种质量保障系统、工具，更有针对性地做出迭代改进以及创新。
-
-5. 分析沉淀在研发系统中的过程与交付数据，并根据质量效率指标发现质量与效率瓶颈，持续改进整体研发流程，迭代测试方案。
-</details>
-
-<details>
-<summary>职位要求</summary>
-
-1. 业务具备极其多样、复杂的系统和产品形态，生活服务类电商的各个系统模块历史悠久、新平台建设引入的新架构，以及持续快速迭代的新业务带来了极其多样化的质量保障挑战。
-
-2. 团队具备一定规模，内部培养机制健全，鼓励定期岗位轮转；组织具备良好的质量认知，测试与开发团队配合默契。
-
-3. 团队拥有优秀的人才，前瞻的技术，成熟的机制，积极的学习氛围以及探索精神，内部多位技术专家在GIAC、MTSC、QECon等技术峰会上与业界同行进行分享与交流。
-
-4. 承建了质效大团队大量研发基础设施，包括测试环境、测试数据、可测性改进、持续交付系统、自动化测试框架、测试工作台、视觉测试专项系统等，有效推动了研发效率和系统质量的稳步提升，保障了业务的快速迭代。期待在智能化测试的探索道路上与你同行！
+3. 切实解决行业内的痛点问题，推动行业的创新。
 </details>
 
 ---
@@ -3848,6 +4266,32 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 1. 学习机会多：有机会深入了解零售业务，掌握各个业务核心环节，与团队一起建设零售数据体系。
 
 2. 业务发展快：有机会参与并影响激动人心的零售业务，与团队一起助推业务发展，在急速发展的业务当中，建立对零售业务和技术认知。
+</details>
+
+---
+
+#### [测试开发工程师-北京-支付](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3823913177&highlightType=social)
+
+📍 
+
+<details>
+<summary>职位描述</summary>
+
+1.负责美团金融相关业务的质量保证工作
+
+2.制定整体的测试计划，测试方案选型，完成项目测试，端到端的为交付质量负责
+
+3.合理制定自动化测试策略，编写、维护自动化测试脚本
+
+4.参与搭建CI/CD体系，将问题更早暴露、缩短测试耗时
+
+5.识别质量风险，不断探索和实践提升系统高可用性
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+业务稳定，成长空间大，将有机会深度参与多个测试专项能力建设。团队年轻有活力。
 </details>
 
 ---
@@ -4106,6 +4550,272 @@ Seed 团队在 AI 领域拥有长期愿景与决心，坚持深耕基础，期�
 2. 大团队中既有行业大会讲师、社区极客，也在持续不断地培养和引导校招新人，有完整的培养体系和广阔的成长空间。
 
 3. 熟悉核心业务的发展过程，迭代认知，沉淀方法。
+</details>
+
+---
+
+#### [高级前端开发工程师-上海](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3533096421&highlightType=social)
+
+📍 
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责品牌大客在线点餐、品牌营销、会员、预订服务等B、C端的移动端、PC端业务产品开发，以及把控需求评估、方案设计及核心功能实现等重要环节，保障按时保质地交付；
+
+2. 应用并共建诸如框架、组件、DevOps等大前端工程化产品，持续提升团队交付效率，保障产品工程质量；
+
+3. 迎难而上，保持好奇和学习心态，促进团队共同成长。
+
+4. 关注业界大前端动态，探索包括但不限于低代码、自动化等方向，持续迭代技术方案及技术规划。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 到店餐饮核心业务的前端团队，聚焦品牌大客业务领域的B、C端全链路，可以快速提升你的业务理解力和技术赋能业务能力；
+
+2. 大团队中既有行业大会讲师、社区极客，也在持续不断地培养和引导校招新人，有完整的培养体系和广阔的成长空间。
+
+3. 熟悉核心业务的发展过程，迭代认知，沉淀方法。
+</details>
+
+---
+
+#### [高级Java工程师-上海](https://zhaopin.meituan.com/web/position/detail?jobUnionId=3532970733&highlightType=social)
+
+📍 
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责品牌大客在线点餐、品牌营销、会员、预订服务等系统建设，以及保障业务系统大流量、低时延、高稳定性等业务的核心开发，需求承担需求对接、方案设计、代码开发、运维保障等工作。
+
+2. 建设高并发、高性能、高可用的系统，解决业务和技术难题。
+
+3. 迎难而上，保持好奇和学习心态，促进团队共同成长。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 参与高并发、高性能、高可用的本地生活系统建设，掌握各环节核心技术要素，和团队一起对系统能力进行升级和迭代。
+
+2. 有机会接触核心商品、交易、营销系统的平台化进程，能和多个业务团队技术大牛一起讨论、学习，共同进步。
+
+3. 熟悉核心业务的发展过程，迭代认知，沉淀方法。
+</details>
+
+---
+
+## 小米
+
+#### [数据库工程师(DBA)-Redis方向](https://xiaomi.jobs.f.mioffice.cn/index/position/7569530717558933811/detail)
+
+📍 北京
+
+<details>
+<summary>职位描述</summary>
+
+1、保证小米集团万亿级请求量Redis集群的稳定、高效运行和持续交付；
+
+2、根据业务需求改进Redis架构，完成多机房容灾改造；
+
+3、快速定位和排除Redis故障，并对Redis集群进行性能优化；
+
+4、负责对开发团队提供技术支持和技术培训；
+
+5、负责数据库自动化运维平台研发，能够提出改进方案；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、具有两年及以上的Redis管理经验，熟悉常见数据类型应用场景，具备丰富的问题排查和优化经验；
+
+2、熟悉Redis架构设计，主从复制、负载均衡技术、对多机房高可用架构有一定的设计经验；
+
+3、能够熟练使用开源中间件，有生产环境使用过Sentinel中间件者优先；
+
+4、熟悉分布式缓存解决方案，有Redis、Pika、MongoDB等NoSQL上云经验者优先；
+
+5、有一定的开发能力，熟悉Python、Golang语言中的一种或多种；
+
+6、熟练使用wireshark分析TCP数据包，对TCP/IP协议有深入了解；
+
+7、良好的团队协作能力, 乐于接受挑战，有责任感，自我驱动，能应对突发应急情况。
+</details>
+
+---
+
+#### [小米汽车-整车用户测评体验工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7569478731749017883/detail)
+
+📍 
+
+<details>
+<summary>职位描述</summary>
+
+1、负责用户体验体系流程搭建；
+
+2、负责用户体验相关标准、验收目标制定；
+
+3、负责组建用户体验团队，筹备管理团队发展、业务资源、能力接轨、质效提升、协调分工；
+
+4、负责带领团队，牵头协同各领域部门，从目标定义、评价、验证、问题闭环多维度保障最终产品竞争力；
+
+5、主导体验相关用户调研，通过访谈、问卷调查、试驾体验等方式挖掘场景痛点，推动关键问题方案落地；
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、本科及以上学历，机械工程或机电、自动化、汽车等工科相关专业；
+
+2、整车动静态主观评价能力；
+
+3、具备强烈的用户同理心与全局观，拥有优秀的跨部门沟通协调能力与项目统筹能力；
+
+4、能精准提炼用户需求，具备复杂问题的根因分析落地推动能力，文档撰写与逻辑表达清晰；
+
+5、用户体验领域工作年限≥8年；
+</details>
+
+---
+
+#### [高级专利工程师](https://xiaomi.jobs.f.mioffice.cn/index/position/7569421561178900762/detail)
+
+📍 武汉
+
+<details>
+<summary>职位描述</summary>
+
+1、负责中国及海外国家专利案件的挖掘、布局与申请工作；
+
+2、审核专利技术交底书、专利申请文件及各国官方审查意见通知书的答复；
+
+3、依据研发项目及人员需求，开展专利检索分析、风险分析与价值评估；
+
+4、组织知识产权知识宣传与学习，协助研发人员完成创新技术的知识产权保护。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、硕士学历，6年以上专利工作经验，持有专利代理师资格证；
+
+2、具备优秀的技术理解和技术拓展引导能力，有家电领域者优先；
+
+3、具备优秀的沟通能力，可胜任产品线专利业务管理工作。
+</details>
+
+---
+
+## 钉钉
+
+#### [钉钉-嵌入式开发工程师-杭州/深圳](https://talent.dingtalk.com/off-campus/position-detail?positionId=100006840001&track_id=SSP1762423211769ImxpjYudMC6900)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责智能硬件产品的嵌入式系统设计、开发和调试，确保产品功能实现；
+
+2. 参与硬件选型和方案评估，提供技术支持，确保设计方案的可行性；
+
+3. 编写底层驱动程序及应用层代码，优化系统性能；
+
+4. 完成嵌入式系统的测试和验证，解决开发过程中的技术问题；
+
+5. 配合硬件、ID、质量等部门，推动项目顺利进行；
+
+6. 撰写相关技术文档，包括设计文档、测试报告等。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 本科及以上学历，计算机、电子工程、自动化等相关专业优先；
+
+2. 3年以上嵌入式开发经验，熟悉C/C++编程语言；
+
+3. 熟悉常见硬件接口协议（如I2C、SPI、UART、CAN等）及其实现；
+
+4. 具备RTOS（如FreeRTOS）使用经验，了解嵌入式Linux系统者优先；
+
+5. 对硬件电路有一定了解，能够阅读原理图并进行基本调试；
+
+6. 具备良好的沟通能力和团队协作精神，抗压能力强。
+</details>
+
+---
+
+#### [钉钉-硬件质量工程师-杭州](https://talent.dingtalk.com/off-campus/position-detail?positionId=100006720003&track_id=SSP1762423211769IpMaQCYgIM7204)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1. 负责智能硬件产品的质量管理和控制，制定并实施产品质量标准和检验规范；
+
+2. 参与产品开发全流程，从设计评审到量产阶段的质量把关，确保产品符合质量要求；
+
+3. 分析质量问题的根本原因，推动问题解决并预防类似问题再次发生；
+
+4. 建立和完善质量管理体系，提升整体质量管理水平；
+
+5. 与供应商协作，监督其生产过程中的质量控制，确保来料合格；
+
+6. 收集并分析用户反馈的质量问题，持续改进产品。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1. 本科及以上学历，电子工程、机械工程、质量管理等相关专业优先；
+
+2. 3年以上硬件质量管理工作经验，熟悉智能硬件产品制造流程；
+
+3. 熟悉ISO9001等质量管理体系，具备内审员资格者优先；
+
+4. 具备扎实的质量管理理论知识，能够熟练运用各种质量工具（如FMEA、SPC、8D等）；
+
+5. 对硬件产品的生产工艺、测试方法有深入了解，能够快速识别和解决问题；
+
+6. 优秀的沟通能力和团队协作精神，抗压能力强。
+</details>
+
+---
+
+#### [钉钉-研发工程师-智能硬件](https://talent.dingtalk.com/off-campus/position-detail?positionId=100000980014&track_id=SSP1762423211769JCBGZajleu1780)
+
+📍 杭州 | ⌛ 3年
+
+<details>
+<summary>职位描述</summary>
+
+1、负责钉钉服务端的技术架构及开发；
+
+2、完成业务需求，并整理相配套的技术文档，包括软件设计和编码实现，确保服务安全可靠、高质量和高性能；
+
+3、完成重要业务模块及核心代码框架的搭建及实现。
+</details>
+
+<details>
+<summary>职位要求</summary>
+
+1、JAVA基础扎实：精通多线程编程，熟悉分布式,缓存,消息队列等机制；熟悉JVM，包括内存模型、类加载机制以及性能优化；
+
+2、精通Web编程：精通spring mvc、orm框架（ibatis或hibernate）、模板引擎（velocity）；
+
+3、精通关系型数据库设计及SQL；
+
+4、具备良好的面向对象编程经验，深入理解OO、AOP思想，具有很强的分析设计能力，熟悉常用设计模式；
+
+5、2年以上开发经验；技术视野开阔，学习能力好，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作；
+
+6、有大型分布式、高并发、高负载、高可用性系统设计和稳定性经验优先。
 </details>
 
 ---
